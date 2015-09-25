@@ -65,6 +65,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Productivity
 *Apps to improve your productivity during your day*
 
+* [ZenHub](https://www.zenhub.io) - Project management inside GitHub.
 * [Evernote Web Clipper](https://evernote.com/intl/de/webclipper/) - The easiest way to save, mark up and share anything you see online. 
 * [Detox](http://usedetox.com) - Replace your Facebook feed with something positively distracting.
 
