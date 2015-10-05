@@ -50,12 +50,12 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Fun
 *Some awesome apps to pass time*
 
-**Please contribute to add awesome extensions for this category**
+* [Motivation](https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj) - Replaces new tab screen with a real-time counter showing your current age.
 
 ## News & Weather
 *Keep on track with your environment*
 
-**Please contribute to add awesome extensions for this category**
+* [Currently](https://chrome.google.com/webstore/detail/currently/ojhmphdkpgbibohbnpbfiefkgieacjmh) - Replace new tab screen with current time and weather.
 
 ## Photos
 *Some cool stuff to work with your photos*
@@ -66,7 +66,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Apps to improve your productivity during your day*
 
 * [ZenHub](https://www.zenhub.io) - Project management inside GitHub.
-* [Evernote Web Clipper](https://evernote.com/intl/de/webclipper/) - The easiest way to save, mark up and share anything you see online. 
+* [Evernote Web Clipper](https://evernote.com/intl/de/webclipper/) - The easiest way to save, mark up and share anything you see online.
 * [Detox](http://usedetox.com) - Replace your Facebook feed with something positively distracting.
 
 ## Search Tools
