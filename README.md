@@ -45,7 +45,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Developer Tools
 *For the coolest group of people in the internet*
 
-**Please contribute to add awesome extensions for this category**
+* [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - It links NPM, bower, Composer & Duo dependencies to their GitHub repository page.
 
 ## Fun
 *Some awesome apps to pass time*
