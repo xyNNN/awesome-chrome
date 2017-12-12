@@ -68,7 +68,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [ZenHub](https://www.zenhub.io) - Project management inside GitHub.
 * [Evernote Web Clipper](https://evernote.com/intl/de/webclipper/) - The easiest way to save, mark up and share anything you see online.
 * [Detox](http://usedetox.com) - Replace your Facebook feed with something positively distracting.
-
+* [Taskade](https://www.taskade.com) - Real-time collaborative task lists and outlines for teams.
+  
 ## Search Tools
 *You search for something? Looking here for your tools*
 
