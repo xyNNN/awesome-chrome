@@ -35,7 +35,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Blogging
 *The best extensions for the editors of our world wide web*
 
-**Please contribute to add awesome extensions for this category**
+* [Markdown Here](https://markdown-here.com/) - Help you write email and blog in Markdown.
 
 ## By Google
 *Awesome extensions from the creators*
