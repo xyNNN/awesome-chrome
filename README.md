@@ -40,7 +40,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## By Google
 *Awesome extensions from the creators*
 
-**Please contribute to add awesome extensions for this category**
+* [Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) - Save contents to google keep.
 
 ## Developer Tools
 *For the coolest group of people in the internet*
