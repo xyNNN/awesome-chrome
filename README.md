@@ -69,6 +69,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Evernote Web Clipper](https://evernote.com/intl/de/webclipper/) - The easiest way to save, mark up and share anything you see online.
 * [Detox](http://usedetox.com) - Replace your Facebook feed with something positively distracting.
 * [Taskade](https://www.taskade.com) - Real-time collaborative task lists and outlines for teams.
+* [Vimium](https://github.com/philc/vimium) - Provides keyboard-based navigation and control of the web in the spirit of the Vim editor.
   
 ## Search Tools
 *You search for something? Looking here for your tools*
