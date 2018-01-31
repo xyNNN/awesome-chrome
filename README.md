@@ -40,7 +40,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## By Google
 *Awesome extensions from the creators*
 
+* [Google Calendar](https://chrome.google.com/webstore/detail/google-calendar-by-google/gmbgaklkmjakoegficnlkhebmhkjfich) - Easily check Google Calendar and add new events from websites you visit.
+* [Google Input Tools](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab) - Input Tools lets you type in the language of your choice.
 * [Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) - Save contents to google keep.
+* [Save to Google Drive](https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne) - Save web content or screen capture directly to Google Drive.
 
 ## Developer Tools
 *For the coolest group of people in the internet*
@@ -66,9 +69,13 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Apps to improve your productivity during your day*
 
 * [Detox](http://usedetox.com) - Replace your Facebook feed with something positively distracting.
+* [Drag and Go](https://chrome.google.com/webstore/detail/drag-and-go/jaikcnhlohebodlpkmjepipngegjbfpg) - Super Drag and Go, plus 6 most frequently used gestures.
 * [Evernote Web Clipper](https://evernote.com/intl/de/webclipper/) - The easiest way to save, mark up and share anything you see online.
 * [Nimbus Screenshot Screen](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj) - Screen Capture FULL Web page or any part. Edit screenshots. Record screencasts - record video from your screen.
+* [OneNote Web Clipper](https://chrome.google.com/webstore/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk) - Save anything on the web to OneNote. Clip it to OneNote, organize and edit it, then access it from any device.
+* [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) - Customize any website to your color scheme in 1 click, thousands of user styles with beautiful themes, skins & free backgrounds.
 * [Tabli](https://www.gettabli.com/) - Provides fast switching between browser windows and tabs and the ability to save and restore windows.
+* [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - The world's most popular userscript manager.
 * [Taskade](https://www.taskade.com) - Real-time collaborative task lists and outlines for teams.
 * [Vimium](https://github.com/philc/vimium) - Provides keyboard-based navigation and control of the web in the spirit of the Vim editor.
 * [Waka Time](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi) - Track your time on chrome automatically.
