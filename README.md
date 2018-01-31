@@ -68,6 +68,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Detox](http://usedetox.com) - Replace your Facebook feed with something positively distracting.
 * [Evernote Web Clipper](https://evernote.com/intl/de/webclipper/) - The easiest way to save, mark up and share anything you see online.
 * [Nimbus Screenshot Screen](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj) - Screen Capture FULL Web page or any part. Edit screenshots. Record screencasts - record video from your screen.
+* [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) - Customize any website to your color scheme in 1 click, thousands of user styles with beautiful themes, skins & free backgrounds.
 * [Tabli](https://www.gettabli.com/) - Provides fast switching between browser windows and tabs and the ability to save and restore windows.
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - The world's most popular userscript manager.
 * [Taskade](https://www.taskade.com) - Real-time collaborative task lists and outlines for teams.
