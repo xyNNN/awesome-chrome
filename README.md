@@ -40,6 +40,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## By Google
 *Awesome extensions from the creators*
 
+* [Google Calendar](https://chrome.google.com/webstore/detail/google-calendar-by-google/gmbgaklkmjakoegficnlkhebmhkjfich) - Easily check Google Calendar and add new events from websites you visit.
 * [Google Input Tools](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab) - Input Tools lets you type in the language of your choice.
 * [Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) - Save contents to google keep.
 * [Save to Google Drive](https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne) - Save web content or screen capture directly to Google Drive.
