@@ -97,8 +97,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg) - Automatically suspends unused tabs to free up system resources.
 * [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Efficient blocker, whichi is easy on CPU and memory.
 * [Umatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) - Point & click to forbid/allow any class of requests made by your browser and use it to block scripts, iframes, ads, facebook, etc.
-* [Video Blocker](https://chrome.google.com/webstore/detail/video-blocker/jknkjnpcbbgcbdbaampbjlhkcghmgfhk) - Hide annoying videos on YouTube from any channel you want!
-* [Video Blocker](https://chrome.google.com/webstore/detail/video-blocker/jknkjnpcbbgcbdbaampbjlhkcghmgfhk) - Hide annoying videos on YouTube from any channel.
+* [Video Blocker](https://chrome.google.com/webstore/detail/video-blocker/jknkjnpcbbgcbdbaampbjlhkcghmgfhk) - Hide annoying videos on YouTube from any channel you want.
 * [Vimium](https://github.com/philc/vimium) - Provides keyboard-based navigation and control of the web in the spirit of the Vim editor.
 * [Waka Time](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi) - Track your time on chrome automatically.
 * [ZenHub](https://www.zenhub.io) - Project management inside GitHub.
