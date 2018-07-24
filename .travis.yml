@@ -12,5 +12,5 @@ before_script:
   - gem install awesome_bot
   - npm install --global awesome-lint
 script:
-  - npm test
-  - awesome_bot README.md --allow-dupe
+  # - npm test
+  - awesome_bot README.md --allow-dupe --allow-redirect
