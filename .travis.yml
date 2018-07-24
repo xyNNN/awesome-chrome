@@ -13,4 +13,4 @@ before_script:
   - npm install --global awesome-lint
 script:
   # - npm test
-  - awesome_bot README.md --allow-dupe
+  - awesome_bot README.md --allow-dupe --allow-redirect
