@@ -108,7 +108,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Shopping
 *Online shopping can be an addiction*
 
-**Please contribute to add awesome extensions for this category**
+* [Raise](https://chrome.google.com/webstore/detail/raisecom-extension/kknoembcnnnhefehcmegppchcmggaafo) - Save money shopping online with discounted gift cards
 
 ## Social & Communication
 *Facebook, Twitter, Google+, Pinterest and so on..*
