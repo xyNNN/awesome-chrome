@@ -52,6 +52,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
 * [Interceptor](https://chrome.google.com/webstore/detail/interceptor/enenfaicdcfgcnjmiigcjbmlbaoapnen) - Run web clients without backends by mocking HTTP requests.
 * [CodeWyng](https://chrome.google.com/webstore/detail/codewyng/njkkfaliiinmkcckepjdmgbmjljfdeee) - Lightning fast code navigation
+* [OctoTree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Navigate and review GitHub code with ease.
 
 ## Fun
 *Some awesome apps to pass time*
