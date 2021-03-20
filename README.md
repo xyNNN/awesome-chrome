@@ -51,7 +51,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - It links NPM, bower, Composer & Duo dependencies to their GitHub repository page.
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
 * [Interceptor](https://chrome.google.com/webstore/detail/interceptor/enenfaicdcfgcnjmiigcjbmlbaoapnen) - Run web clients without backends by mocking HTTP requests.
-* [CodeWyng](https://chrome.google.com/webstore/detail/codewyng/njkkfaliiinmkcckepjdmgbmjljfdeee) - Lightning fast code navigation
+* [CodeWing](https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee) - Next level code navigation for GitHub.
 * [OctoTree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Navigate and review GitHub code with ease.
 * [SpanTree](https://chrome.google.com/webstore/detail/spantree-gitlab-tree/gcjikeldobhnaglcoaejmdlmbienoocg) - Navigate through GitLab repositories easily.
 
