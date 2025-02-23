@@ -115,6 +115,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Online shopping can be an addiction*
 
 * [Raise](https://chrome.google.com/webstore/detail/raisecom-extension/kknoembcnnnhefehcmegppchcmggaafo) - Save money shopping online with discounted gift cards
+* [Subwatch](https://subwatch.co) - Turn subscription chaos into financial harmony.
 
 ## Social & Communication
 *Facebook, Twitter, Google+, Pinterest and so on..*
