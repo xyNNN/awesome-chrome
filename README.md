@@ -104,6 +104,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Video Blocker](https://chrome.google.com/webstore/detail/video-blocker/jknkjnpcbbgcbdbaampbjlhkcghmgfhk) - Hide annoying videos on YouTube from any channel you want.
 * [Vimium](https://github.com/philc/vimium) - Provides keyboard-based navigation and control of the web in the spirit of the Vim editor.
 * [Waka Time](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi) - Track your time on chrome automatically.
+* [Word Counter Plus](https://chromewebstore.google.com/detail/word-counter-plus/ockonfdfcanonnajjchhapbiahlhjeej) - A simple and accurate word counter.
 * [ZenHub](https://www.zenhub.io) - Project management inside GitHub.
 
 ## Search Tools
