@@ -61,6 +61,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [ImprovedTube](https://chrome.google.com/webstore/detail/improvedtube-youtube-exte/bnomihfieiccainjcjblhegjgglakjdd) - Improves YouTube's functions and site with Limited Permissions. Auto HD, Resize, Annotations, Playback Speed and more.
 * [Motivation](https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj) - Replaces new tab screen with a real-time counter showing your current age.
+* [Orange Cheeto](https://www.cheetodon.com) - Replaces "Trump" with funny nicknames like "Mango Mussolini" on every website. Free, no tracking.
 
 ## News & Weather
 *Keep on track with your environment*
