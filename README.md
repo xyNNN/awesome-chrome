@@ -71,6 +71,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Photos
 *Some cool stuff to work with your photos*
 
+* [HEIC to PNG Converter](https://chromewebstore.google.com/detail/hlkifcnbooeflbhjbghkgbmjpalnfpia) - Convert HEIC images to JPG/PNG directly in browser. No uploads.
 * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - Enlarge thumbnails, and show images/videos from links with a mouse hover.
 
 ## Productivity
