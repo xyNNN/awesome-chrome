@@ -19,6 +19,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 - [By Google](#by-google)
 - [Developer Tools](#developer-tools)
 - [Fun](#fun)
+- [Language & Translation](#language--translation)
 - [News & Weather](#news--weather)
 - [Photos](#photos)
 - [Productivity](#productivity)
@@ -62,6 +63,12 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [ImprovedTube](https://chrome.google.com/webstore/detail/improvedtube-youtube-exte/bnomihfieiccainjcjblhegjgglakjdd) - Improves YouTube's functions and site with Limited Permissions. Auto HD, Resize, Annotations, Playback Speed and more.
 * [Motivation](https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj) - Replaces new tab screen with a real-time counter showing your current age.
+
+## Language & Translation
+*Learn languages and translate content while browsing*
+
+* [Mirlo](https://github.com/BoxcarsAI/mirlo) - Learn a language while you browse — replaces words on pages with the language you're learning. On-device translation via Chrome's Translator API, no tracking.
+* [Read Frog](https://github.com/mengxi-ream/read-frog) - Open-source AI-powered language learning with bilingual translation, article analysis, and vocabulary tools. Supports 80+ languages.
 
 ## News & Weather
 *Keep on track with your environment*
