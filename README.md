@@ -160,3 +160,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Philipp Bräutigam](https://philipp-braeutigam.de) has waived all copyright and related or neighboring rights to this work.
+
+## Security & Trust
+
+*Tools to evaluate and verify the safety of Chrome extensions*
+
+* [TrustModel Extension Rankings](https://trustmodel.ai/chrome-extensions) - Independent TrustScore rankings for the top 108 Chrome extensions and 10 AI browser agents. Evaluates data egress safety, permission scope, privacy alignment, code integrity, and supply chain risk.
+
