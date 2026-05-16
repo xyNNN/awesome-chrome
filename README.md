@@ -147,6 +147,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Pinterest Pin Stats](https://chromewebstore.google.com/detail/pinterest-pin-stats-sort/mcmkeopcpbfgjlakblglpcccpodbjkel) - Reveal Pinterest stats for each pin.
 * [LinkedCraft](https://linkedcraft.io) - Helps job seekers craft context-aware, engaging LinkedIn comments.
 * [Scrupp](https://scrupp.com/) - #1 Sales Navigator Scraper — exports 2,500 LinkedIn / Sales Navigator leads per search to CSV with verified work emails and direct phones. Free plan included.
+* [TruthLayer](https://github.com/miraekims/Truthlayer) — Detects crypto Twitter shills with on-chain wallet verification. Open-source MV3 extension.
+
 
 ## Sports
 *Keep on track with your favorite sports club*
@@ -172,4 +174,5 @@ To the extent possible under law, [Philipp Bräutigam](https://philipp-braeutiga
 *Tools to evaluate and verify the safety of Chrome extensions*
 
 * [TrustModel Extension Rankings](https://trustmodel.ai/chrome-extensions) - Independent TrustScore rankings for the top 108 Chrome extensions and 10 AI browser agents. Evaluates data egress safety, permission scope, privacy alignment, code integrity, and supply chain risk.
+
 
