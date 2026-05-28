@@ -1,4 +1,4 @@
-# Awesome Chrome
+﻿# Awesome Chrome
 
 [![Software License](https://img.shields.io/badge/license-CC0%201.0%20Universal-brightgreen.svg?style=flat-square)](LICENSE)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -58,6 +58,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [OpenGraphs](https://www.opengraphs.com/tools/browser-extension) - Open Graph debugger and social share previews, without leaving your site.
 * [vnsh](https://github.com/raullenchai/vnsh) - Encrypted, ephemeral sharing for AI coding assistants. Zero-knowledge AES-256-CBC encryption, auto-expires in 24h.
 * [Related Repos](https://chromewebstore.google.com/detail/related-repos/hjjchbgenhmnndipngamcilolaahgngc) - Quickly view related open source repositories while browsing on GitHub. Results updated daily.
+
+* [URL Environment Switcher](https://github.com/ttcd77/url-switcher) - Manifest V3 Chrome extension that lets developers toggle between localhost, staging and production environments in one click.
 
 ## Fun
 *Some awesome apps to pass time*
