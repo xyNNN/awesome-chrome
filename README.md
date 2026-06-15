@@ -58,6 +58,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [OpenGraphs](https://www.opengraphs.com/tools/browser-extension) - Open Graph debugger and social share previews, without leaving your site.
 * [vnsh](https://github.com/raullenchai/vnsh) - Encrypted, ephemeral sharing for AI coding assistants. Zero-knowledge AES-256-CBC encryption, auto-expires in 24h.
 * [Related Repos](https://chromewebstore.google.com/detail/related-repos/hjjchbgenhmnndipngamcilolaahgngc) - Quickly view related open source repositories while browsing on GitHub. Results updated daily.
+* [Agent Browser Shield](https://chromewebstore.google.com/detail/agent-browser-shield/gnejacdioaelglahihpagpfjpddpnamd) - Sits between an AI agent and web pages, masking PII/credentials, blocking prompt injection, and stripping dark patterns before the page reaches the model.
 
 ## Fun
 *Some awesome apps to pass time*
