@@ -30,8 +30,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 ## Accessibility
 *Useful tools to ease up your daily work*
-
-**Please contribute to add awesome extensions for this category**
+- [CastReader](https://castreader.com) - Reads web articles, Kindle, and PDFs aloud in natural AI voices across 40+ languages, with word-level highlighting and an "AI Explain" mode that summarizes and explains dense passages in plain language.
 
 ## Blogging
 *The best extensions for the editors of our world wide web*
