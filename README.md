@@ -103,6 +103,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Nimbus Screenshot Screen](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj) - Screen Capture FULL Web page or any part. Edit screenshots. Record screencasts - record video from your screen.
 * [OneNote Web Clipper](https://chrome.google.com/webstore/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk) - Save anything on the web to OneNote. Clip it to OneNote, organize and edit it, then access it from any device.
 * [PageBrain](https://github.com/Wittlesus/pagebrain-extension) - AI-powered page summarizer that extracts key points, action items, and insights from any webpage using Claude.
+* [PasteFlow](https://pasteflow.romanbediner.com/) - Controlled, human-rhythm typing for browser editors and forms.
 * [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - A suite of modules that enhance your Reddit browsing experience.
 * [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) - Manage Browser Tabs and Bookmarks with Ease.
 * [Session Manager](https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkdpagbcbkdpc) - Quickly and easily save, update, remove, and restore sets of tabs.
@@ -173,4 +174,3 @@ To the extent possible under law, [Philipp Bräutigam](https://philipp-braeutiga
 *Tools to evaluate and verify the safety of Chrome extensions*
 
 * [TrustModel Extension Rankings](https://trustmodel.ai/chrome-extensions) - Independent TrustScore rankings for the top 108 Chrome extensions and 10 AI browser agents. Evaluates data egress safety, permission scope, privacy alignment, code integrity, and supply chain risk.
-
