@@ -165,6 +165,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - Protects you from trackers as you surf the web.
 * [Pinterest Pin Stats](https://chromewebstore.google.com/detail/pinterest-pin-stats-sort/mcmkeopcpbfgjlakblglpcccpodbjkel) - Reveal Pinterest stats for each pin.
 * [LinkedCraft](https://linkedcraft.io) - Helps job seekers craft context-aware, engaging LinkedIn comments.
+* [ClearTok](https://cleartok.io/) - Helps TikTok users remove old reposts faster with a scan, review, and cleanup workflow.
 * [Scrupp](https://scrupp.com/) - #1 Sales Navigator Scraper — exports 2,500 LinkedIn / Sales Navigator leads per search to CSV with verified work emails and direct phones. Free plan included.
 
 ## Sports
