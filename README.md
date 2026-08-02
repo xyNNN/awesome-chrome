@@ -97,6 +97,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [AutoPagerize](https://chrome.google.com/webstore/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp) - Auto loading paginated web pages.
 * [Chat Organizer](https://chromewebstore.google.com/detail/bipbaacophbcpboieghjoigjlbemchcm) - Auto-sorts your Claude.ai and ChatGPT chats into projects in one click, using keyword matching and AI. Free, no API key or account needed.
 * [CVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) - Adding Vim-like bindings to Google Chrome.
+* [CiteMe](https://citeme.app) - Academic citation generator. Searches 10+ databases and formats references in 60 curated citation styles (APA, ABNT, MLA, Chicago). Includes a reference checker for existing bibliographies. Available as a web app and Chrome extension.
 * [Daily](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied) - Replaces your new tab with curated latest dev articles.
 * [DataLens](https://chromewebstore.google.com/detail/datalens/knibjebonijofbecjbdclgpnblgiakcc) - AI web scraper for extracting structured data from web pages and exporting results to Excel, CSV, or JSON.
 * [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
