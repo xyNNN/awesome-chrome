@@ -30,8 +30,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 ## Accessibility
 *Useful tools to ease up your daily work*
-
-**Please contribute to add awesome extensions for this category**
+- [CastReader](https://castreader.com) - Reads web articles, Kindle, and PDFs aloud in natural AI voices across 40+ languages, with word-level highlighting and an "AI Explain" mode that summarizes and explains dense passages in plain language.
 
 ## Blogging
 *The best extensions for the editors of our world wide web*
@@ -56,9 +55,14 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [OctoTree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Navigate and review GitHub code with ease.
 * [SpanTree](https://chrome.google.com/webstore/detail/spantree-gitlab-tree/gcjikeldobhnaglcoaejmdlmbienoocg) - Navigate through GitLab repositories easily.
 * [OpenGraphs](https://www.opengraphs.com/tools/browser-extension) - Open Graph debugger and social share previews, without leaving your site.
+* [MyOG.social](https://myog.social/) - Open Graph checker, social preview QA, OG image generator, Chrome extension, and WordPress plugin. Add one tag. Every page gets a branded social card.
 * [vnsh](https://github.com/raullenchai/vnsh) - Encrypted, ephemeral sharing for AI coding assistants. Zero-knowledge AES-256-CBC encryption, auto-expires in 24h.
 * [Related Repos](https://chromewebstore.google.com/detail/related-repos/hjjchbgenhmnndipngamcilolaahgngc) - Quickly view related open source repositories while browsing on GitHub. Results updated daily.
 * [React Debugger](https://github.com/hoainho/react-debugger-extension) - Chrome DevTools panel unifying React Timeline, Performance, Memory, Side Effects, Redux, CLS, and AI-powered analysis into a single tab.
+* [Agent Browser Shield](https://chromewebstore.google.com/detail/agent-browser-shield/gnejacdioaelglahihpagpfjpddpnamd) - Sits between an AI agent and web pages, masking PII/credentials, blocking prompt injection, and stripping dark patterns before the page reaches the model.
+* [PR Radar](https://chromewebstore.google.com/detail/hkombgibegjffiadmekpiabdakkoidmh) - Unified pull request dashboard for GitHub, GitLab, and Bitbucket — CI status, unresolved comments, review state, and notifications, without keeping a tab open.
+* [PrepPush](https://chromewebstore.google.com/detail/lkbbmepdmkokiapildnhkimcgnofokdd) - Auto-documents accepted HackerRank solutions to your GitHub repository with AI complexity notes.
+* [Prerender Buddy](https://chromewebstore.google.com/detail/prerenderbuddy/nfcnbflceplmhoamoehcfojmgdmkjegi) - Runs quick crawler-readability checks and AI visibility diagnostics for the current tab.
 
 ## Fun
 *Some awesome apps to pass time*
@@ -68,7 +72,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 ## Language & Translation
 *Learn languages and translate content while browsing*
-
+* [Fenly](https://fenly.me) - AI translation extension: translate as you type, auto-translate chats on 8 platforms, and live YouTube subtitle translation in 100+ languages.
 * [Mirlo](https://github.com/BoxcarsAI/mirlo) - Learn a language while you browse — replaces words on pages with the language you're learning. On-device translation via Chrome's Translator API, no tracking.
 * [Read Frog](https://github.com/mengxi-ream/read-frog) - Open-source AI-powered language learning with bilingual translation, article analysis, and vocabulary tools. Supports 80+ languages.
 * [yunit](https://yunit.app) - A browser extension that picks unfamiliar words on web pages, shows translations inline as you read, and keeps the words you mark into a personal lexicon.
@@ -83,12 +87,14 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [HEIC to PNG Converter](https://chromewebstore.google.com/detail/hlkifcnbooeflbhjbghkgbmjpalnfpia) - Convert HEIC images to JPG/PNG directly in browser. No uploads.
 * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - Enlarge thumbnails, and show images/videos from links with a mouse hover.
+* [Full Page Screenshot & Screen Recorder](https://chromewebstore.google.com/detail/full-page-screenshot-scre/gebkchfkcnjdflkfdimabihllibgcdhp) - Full-page screenshots and screen recording with annotation, webcam, and GIF/MP4 export. No watermark.
 
 ## Productivity
 *Apps to improve your productivity during your day*
 
 * [TypoGuard](https://https://chromewebstore.google.com/detail/typoguard-ai-spell-check/khbenciagmckicfldgibdkmklidnmpck) - AI-powered real-time spell check correction and grammar assistant for Google Chrome.
 * [AutoPagerize](https://chrome.google.com/webstore/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp) - Auto loading paginated web pages.
+* [Chat Organizer](https://chromewebstore.google.com/detail/bipbaacophbcpboieghjoigjlbemchcm) - Auto-sorts your Claude.ai and ChatGPT chats into projects in one click, using keyword matching and AI. Free, no API key or account needed.
 * [CVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) - Adding Vim-like bindings to Google Chrome.
 * [Daily](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied) - Replaces your new tab with curated latest dev articles.
 * [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
@@ -97,17 +103,23 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Evernote Web Clipper](https://evernote.com/intl/de/webclipper/) - The easiest way to save, mark up and share anything you see online.
 * [Fauxbar](https://chrome.google.com/webstore/detail/fauxbar/hibkhcnpkakjniplpfblaoikiggkopka) - An alternative to Chrome's Omnibox.
 * [Ghostery](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij) - Protect your privacy by seeing who's tracking your web browsing with Ghostery.
+* [GradeSim](https://gradesim.uplbtools.me/) - UPLB grade calculator and GWA simulator for Chrome and Firefox; forecast course grades and Latin honors targets. ([Source](https://github.com/uplbtools/gradesim) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/elbi-gradesim/))
+* [Gmailytics](https://chromewebstore.google.com/detail/gmailytics/nmmkncnnggchmnoinmpoockpdpboonkj) - See which senders fill your inbox, then batch trash or archive them and unsubscribe from newsletters.
 * [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - Organize your Gmail labels as tabs.
 * [gTabs](https://chromewebstore.google.com/detail/gtabs-ai-tab-organizer/hcpbchmdcjbgbmjihnenbfalepcdncnb) - AI-powered tab organizer with smart groups that learn your habits, 8 LLM providers including local Ollama, one-click undo, scheduled re-org, and duplicate finder.
 * [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - Saves your passwords and gives you secure access from every computer and mobile device
 * [Magic Actions for YouTube](https://chrome.google.com/webstore/detail/magic-actions-for-youtube/abjcfabbhafbcdfjoecdgepllmpfceif) - Enhance your YouTube watching experience, with feature such as Auto HD, Ad Block, Cinema Mode, Mouse Wheel Volume Control, Screenshot.
+* [Margin](https://chromewebstore.google.com/detail/margin-semester-planner-f/ikdgboibmcojgmneeffbkpgljkgnajln) - Calm semester planner for Canvas LMS students: assignments and due dates in one view, with optional send to Todoist.
 * [Nimbus Screenshot Screen](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj) - Screen Capture FULL Web page or any part. Edit screenshots. Record screencasts - record video from your screen.
 * [OneNote Web Clipper](https://chrome.google.com/webstore/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk) - Save anything on the web to OneNote. Clip it to OneNote, organize and edit it, then access it from any device.
+* [OpenScreenShot](https://chromewebstore.google.com/detail/openscreenshot/hdabbojjccojlapnfjpdppcpfcnhgmdp) - Privacy-first, open-source full-page and region screenshot capture with a built-in annotation editor; everything stays local, no cloud or account.
 * [PageBrain](https://github.com/Wittlesus/pagebrain-extension) - AI-powered page summarizer that extracts key points, action items, and insights from any webpage using Claude.
+* [PasteFlow](https://pasteflow.romanbediner.com/) - Controlled, human-rhythm typing for browser editors and forms.
 * [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - A suite of modules that enhance your Reddit browsing experience.
 * [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) - Manage Browser Tabs and Bookmarks with Ease.
 * [Session Manager](https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkdpagbcbkdpc) - Quickly and easily save, update, remove, and restore sets of tabs.
 * [Sprucemarks](https://chrome.google.com/webstore/detail/sprucemarks/fakeocdnmmmnokabaiflppclocckihoj) - Automatically sort bookmarks.
+* [Stowtab](https://github.com/gilleswainrib-ext-boop/stowtab) - Local-first tab manager: group by domain, dedupe, native suspend, sessions, and fuzzy search. 3 permissions, no host access, no network calls. MV3, MIT.
 * [SuperSorter](https://chrome.google.com/webstore/detail/supersorter/hjebfgojnlefhdgmomncgjglmdckngij) - Sort bookmarks recursively, delete duplicates, merge folders, sort automatically, etc.
 * [SuperchargePerformance](https://chrome.google.com/webstore/detail/pafkkbjmpnfkdkkhldbbnggnmpbbhkmf) - Suspends inactive tabs using chrome.tabs.discard() to reduce RAM usage. Configurable per-domain whitelist. MV3.
 * [SuperchargeNavigation](https://chrome.google.com/webstore/detail/mpkbppjbchjdohbjgeoamdehklmapgnl) - Workspace-based tab organizer with an Alt+K command bar, Shift+Click peek tabs, and opt-in cross-device sync via chrome.storage.sync. MV3.
@@ -138,6 +150,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [Raise](https://chrome.google.com/webstore/detail/raisecom-extension/kknoembcnnnhefehcmegppchcmggaafo) - Save money shopping online with discounted gift cards
 * [Subwatch](https://subwatch.co) - Turn subscription chaos into financial harmony.
+* [SubTrack](https://chromewebstore.google.com/detail/subtrack/ggbofficgphbglidcnfkmekiknmbajbc) - Tracks your subscriptions and reminds you before each renewal. Local-first, no account or bank linking.
 
 ## Social & Communication
 *Facebook, Twitter, Google+, Pinterest and so on..*
@@ -174,4 +187,3 @@ To the extent possible under law, [Philipp Bräutigam](https://philipp-braeutiga
 *Tools to evaluate and verify the safety of Chrome extensions*
 
 * [TrustModel Extension Rankings](https://trustmodel.ai/chrome-extensions) - Independent TrustScore rankings for the top 108 Chrome extensions and 10 AI browser agents. Evaluates data egress safety, permission scope, privacy alignment, code integrity, and supply chain risk.
-
