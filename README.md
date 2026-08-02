@@ -58,6 +58,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [MyOG.social](https://myog.social/) - Open Graph checker, social preview QA, OG image generator, Chrome extension, and WordPress plugin. Add one tag. Every page gets a branded social card.
 * [vnsh](https://github.com/raullenchai/vnsh) - Encrypted, ephemeral sharing for AI coding assistants. Zero-knowledge AES-256-CBC encryption, auto-expires in 24h.
 * [Related Repos](https://chromewebstore.google.com/detail/related-repos/hjjchbgenhmnndipngamcilolaahgngc) - Quickly view related open source repositories while browsing on GitHub. Results updated daily.
+* [Agent Browser Shield](https://chromewebstore.google.com/detail/agent-browser-shield/gnejacdioaelglahihpagpfjpddpnamd) - Sits between an AI agent and web pages, masking PII/credentials, blocking prompt injection, and stripping dark patterns before the page reaches the model.
 * [PR Radar](https://chromewebstore.google.com/detail/hkombgibegjffiadmekpiabdakkoidmh) - Unified pull request dashboard for GitHub, GitLab, and Bitbucket — CI status, unresolved comments, review state, and notifications, without keeping a tab open.
 * [PrepPush](https://chromewebstore.google.com/detail/lkbbmepdmkokiapildnhkimcgnofokdd) - Auto-documents accepted HackerRank solutions to your GitHub repository with AI complexity notes.
 * [Prerender Buddy](https://chromewebstore.google.com/detail/prerenderbuddy/nfcnbflceplmhoamoehcfojmgdmkjegi) - Runs quick crawler-readability checks and AI visibility diagnostics for the current tab.
