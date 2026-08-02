@@ -117,6 +117,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - A suite of modules that enhance your Reddit browsing experience.
 * [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) - Manage Browser Tabs and Bookmarks with Ease.
 * [Session Manager](https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkdpagbcbkdpc) - Quickly and easily save, update, remove, and restore sets of tabs.
+* [SessionPort](https://github.com/Den1style/sessionport) - Transfer AI conversation context between Claude, ChatGPT, Grok, Gemini, Mistral, DeepSeek and Perplexity without copy-paste or external APIs.
 * [Sprucemarks](https://chrome.google.com/webstore/detail/sprucemarks/fakeocdnmmmnokabaiflppclocckihoj) - Automatically sort bookmarks.
 * [Stowtab](https://github.com/gilleswainrib-ext-boop/stowtab) - Local-first tab manager: group by domain, dedupe, native suspend, sessions, and fuzzy search. 3 permissions, no host access, no network calls. MV3, MIT.
 * [SuperSorter](https://chrome.google.com/webstore/detail/supersorter/hjebfgojnlefhdgmomncgjglmdckngij) - Sort bookmarks recursively, delete duplicates, merge folders, sort automatically, etc.
