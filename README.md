@@ -148,7 +148,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Search Tools
 *You search for something? Looking here for your tools*
 
-**Please contribute to add awesome extensions for this category**
+* [Find whatever - regex & auto re-find](https://chromewebstore.google.com/detail/find-whatever-regex-auto/pdpkckoiaiinjlhddhcoknjhdncepnbo) - A regex-powered deep search tool that uncovers every hidden corner of the page and tracks results in real-time as content changes.
 
 ## Shopping
 *Online shopping can be an addiction*
