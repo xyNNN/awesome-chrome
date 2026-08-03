@@ -90,11 +90,12 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - Enlarge thumbnails, and show images/videos from links with a mouse hover.
 * [Full Page Screenshot & Screen Recorder](https://chromewebstore.google.com/detail/full-page-screenshot-scre/gebkchfkcnjdflkfdimabihllibgcdhp) - Full-page screenshots and screen recording with annotation, webcam, and GIF/MP4 export. No watermark.
 
-## Productivity
+## Productivity 
 *Apps to improve your productivity during your day*
 
 * [TypoGuard](https://https://chromewebstore.google.com/detail/typoguard-ai-spell-check/khbenciagmckicfldgibdkmklidnmpck) - AI-powered real-time spell check correction and grammar assistant for Google Chrome.
 * [AutoPagerize](https://chrome.google.com/webstore/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp) - Auto loading paginated web pages.
+* [Clicked](https://tryclicked.app) - Highlight text on any page or PDF and get an explanation at the depth you choose — a ten-second overview, the full detail, or an analogy — in 15+ languages.
 * [Chat Organizer](https://chromewebstore.google.com/detail/bipbaacophbcpboieghjoigjlbemchcm) - Auto-sorts your Claude.ai and ChatGPT chats into projects in one click, using keyword matching and AI. Free, no API key or account needed.
 * [CVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) - Adding Vim-like bindings to Google Chrome.
 * [CiteMe](https://citeme.app) - Academic citation generator. Searches 10+ databases and formats references in 60 curated citation styles (APA, ABNT, MLA, Chicago). Includes a reference checker for existing bibliographies. Available as a web app and Chrome extension.
