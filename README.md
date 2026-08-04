@@ -102,6 +102,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [DataLens](https://chromewebstore.google.com/detail/datalens/knibjebonijofbecjbdclgpnblgiakcc) - AI web scraper for extracting structured data from web pages and exporting results to Excel, CSV, or JSON.
 * [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
 * [Detox](http://usedetox.com) - Replace your Facebook feed with something positively distracting.
+* [Dopamodoro](https://chromewebstore.google.com/detail/dopamodoro-adhd-pomodoro/bffdhafoiokheeldgggplbflmppjebcl) - Gamified ADHD Pomodoro timer extension designed for executive function support, preventing context switching and tab hoarding.
 * [Drag and Go](https://chrome.google.com/webstore/detail/drag-and-go/jaikcnhlohebodlpkmjepipngegjbfpg) - Super Drag and Go, plus 6 most frequently used gestures.
 * [Evernote Web Clipper](https://evernote.com/intl/de/webclipper/) - The easiest way to save, mark up and share anything you see online.
 * [Fauxbar](https://chrome.google.com/webstore/detail/fauxbar/hibkhcnpkakjniplpfblaoikiggkopka) - An alternative to Chrome's Omnibox.
