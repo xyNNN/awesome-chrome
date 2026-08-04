@@ -64,6 +64,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [PR Radar](https://chromewebstore.google.com/detail/hkombgibegjffiadmekpiabdakkoidmh) - Unified pull request dashboard for GitHub, GitLab, and Bitbucket — CI status, unresolved comments, review state, and notifications, without keeping a tab open.
 * [PrepPush](https://chromewebstore.google.com/detail/lkbbmepdmkokiapildnhkimcgnofokdd) - Auto-documents accepted HackerRank solutions to your GitHub repository with AI complexity notes.
 * [Prerender Buddy](https://chromewebstore.google.com/detail/prerenderbuddy/nfcnbflceplmhoamoehcfojmgdmkjegi) - Runs quick crawler-readability checks and AI visibility diagnostics for the current tab.
+* [Skim](https://chromewebstore.google.com/detail/skim-%E2%80%94-markdown-viewer-re/feeikgjlekgeepjljmnifkbnpcnflcmd) - Free, open-source markdown viewer that renders .md files and AI agent output in the browser, with live reload, KaTeX math, and Mermaid diagrams. No telemetry.
 
 ## Fun
 *Some awesome apps to pass time*
