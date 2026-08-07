@@ -145,6 +145,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [ZeroTrust](https://github.com/sattyamjjain/zerotrust) - AI-powered website security scanner that runs entirely on-device. Trust scores, phishing detection, SSL checks, and cookie compliance with zero data transmission.
 * [Agentic Workflow (AWFlow)](https://awflow.io) - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
 * [Good Friction for LinkedIn](https://github.com/tabrez-syed/goodfriction-linkedin-extension) - Returns the moment of choice to the LinkedIn feed — a session timer and pagination break ask if you want to keep going; a nudge, not a blocker.
+* [Publish to dochost](https://chromewebstore.google.com/detail/publish-to-dochost/ihnogobgkjojleeiajngmcdlaccjdmdi) - Turns HTML or Markdown generated in ChatGPT and Claude into a shareable link without leaving the chat.
 
 ## Search Tools
 *You search for something? Looking here for your tools*
