@@ -128,6 +128,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [SuperchargePerformance](https://chrome.google.com/webstore/detail/pafkkbjmpnfkdkkhldbbnggnmpbbhkmf) - Suspends inactive tabs using chrome.tabs.discard() to reduce RAM usage. Configurable per-domain whitelist. MV3.
 * [SuperchargeNavigation](https://chrome.google.com/webstore/detail/mpkbppjbchjdohbjgeoamdehklmapgnl) - Workspace-based tab organizer with an Alt+K command bar, Shift+Click peek tabs, and opt-in cross-device sync via chrome.storage.sync. MV3.
 * [Tabli](https://www.gettabli.com/) - Provides fast switching between browser windows and tabs and the ability to save and restore windows.
+* [Tabox](https://chromewebstore.google.com/detail/tabox-save-and-share-tab/bdbliblipiempfdkkkjohnecmeknnpoa) - Save tabs and tab groups into collections and reopen entire sessions in one click, with Google Drive sync and share-via-link. Free and open source.
 * [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Session manager.
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - The world's most popular userscript manager.
 * [Taskade](https://www.taskade.com) - Real-time collaborative task lists and outlines for teams.
