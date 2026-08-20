@@ -168,6 +168,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Pinterest Pin Stats](https://chromewebstore.google.com/detail/pinterest-pin-stats-sort/mcmkeopcpbfgjlakblglpcccpodbjkel) - Reveal Pinterest stats for each pin.
 * [LinkedCraft](https://linkedcraft.io) - Helps job seekers craft context-aware, engaging LinkedIn comments.
 * [ClearTok](https://cleartok.io/) - Helps TikTok users remove old reposts faster with a scan, review, and cleanup workflow.
+* [WipeTok](https://wipetok.com/extension) - Helps TikTok users scan, review, and remove reposts in controlled batches.
 * [Scrupp](https://scrupp.com/) - #1 Sales Navigator Scraper — exports 2,500 LinkedIn / Sales Navigator leads per search to CSV with verified work emails and direct phones. Free plan included.
 * [TruthLayer](https://github.com/miraekims/Truthlayer) — Detects crypto Twitter shills with on-chain wallet verification. Open-source MV3 extension.
 
