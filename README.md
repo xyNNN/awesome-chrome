@@ -89,6 +89,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [HEIC to PNG Converter](https://chromewebstore.google.com/detail/hlkifcnbooeflbhjbghkgbmjpalnfpia) - Convert HEIC images to JPG/PNG directly in browser. No uploads.
 * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - Enlarge thumbnails, and show images/videos from links with a mouse hover.
 * [Full Page Screenshot & Screen Recorder](https://chromewebstore.google.com/detail/full-page-screenshot-scre/gebkchfkcnjdflkfdimabihllibgcdhp) - Full-page screenshots and screen recording with annotation, webcam, and GIF/MP4 export. No watermark.
+* [Remix Camera](https://chromewebstore.google.com/detail/remixcamera/jnceajnhghkoienbgbljmadkklkikldf) - Captures images, styling notes, and annotations from web pages for Remix Camera workflows.
 
 ## Productivity
 *Apps to improve your productivity during your day*
@@ -196,5 +197,4 @@ To the extent possible under law, [Philipp Bräutigam](https://philipp-braeutiga
 *Tools to evaluate and verify the safety of Chrome extensions*
 
 * [TrustModel Extension Rankings](https://trustmodel.ai/chrome-extensions) - Independent TrustScore rankings for the top 108 Chrome extensions and 10 AI browser agents. Evaluates data egress safety, permission scope, privacy alignment, code integrity, and supply chain risk.
-
 
