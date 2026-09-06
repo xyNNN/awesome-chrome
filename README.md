@@ -157,6 +157,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Raise](https://chrome.google.com/webstore/detail/raisecom-extension/kknoembcnnnhefehcmegppchcmggaafo) - Save money shopping online with discounted gift cards
 * [Subwatch](https://subwatch.co) - Turn subscription chaos into financial harmony.
 * [SubTrack](https://chromewebstore.google.com/detail/subtrack/ggbofficgphbglidcnfkmekiknmbajbc) - Tracks your subscriptions and reminds you before each renewal. Local-first, no account or bank linking.
+* [Outfit Lens](https://chromewebstore.google.com/detail/faakpocohdbfhlhdkjoimkmggbaafpem) - Detects the clothing items in a photo and shows similar products from online stores in a side panel. Free.
 
 ## Social & Communication
 *Facebook, Twitter, Google+, Pinterest and so on..*
