@@ -154,6 +154,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Shopping
 *Online shopping can be an addiction*
 
+* [CardDeals](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) - Automatically finds verified discount gift cards at checkout to save 5% to 15% across 1,000+ top stores.
 * [Raise](https://chrome.google.com/webstore/detail/raisecom-extension/kknoembcnnnhefehcmegppchcmggaafo) - Save money shopping online with discounted gift cards
 * [Subwatch](https://subwatch.co) - Turn subscription chaos into financial harmony.
 * [SubTrack](https://chromewebstore.google.com/detail/subtrack/ggbofficgphbglidcnfkmekiknmbajbc) - Tracks your subscriptions and reminds you before each renewal. Local-first, no account or bank linking.
