@@ -198,3 +198,4 @@ To the extent possible under law, [Philipp Bräutigam](https://philipp-braeutiga
 
 * [TrustModel Extension Rankings](https://trustmodel.ai/chrome-extensions) - Independent TrustScore rankings for the top 108 Chrome extensions and 10 AI browser agents. Evaluates data egress safety, permission scope, privacy alignment, code integrity, and supply chain risk.
 
+
