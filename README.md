@@ -170,6 +170,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [ClearTok](https://cleartok.io/) - Helps TikTok users remove old reposts faster with a scan, review, and cleanup workflow.
 * [Scrupp](https://scrupp.com/) - #1 Sales Navigator Scraper — exports 2,500 LinkedIn / Sales Navigator leads per search to CSV with verified work emails and direct phones. Free plan included.
 * [TruthLayer](https://github.com/miraekims/Truthlayer) — Detects crypto Twitter shills with on-chain wallet verification. Open-source MV3 extension.
+* [Clavimit] (https://github.com/LucaBonamino/Clavimit) -  Encrypts and decrypts Gmail messages using client-side cryptography.
 
 
 ## Sports
