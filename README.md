@@ -145,6 +145,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [ZeroTrust](https://github.com/sattyamjjain/zerotrust) - AI-powered website security scanner that runs entirely on-device. Trust scores, phishing detection, SSL checks, and cookie compliance with zero data transmission.
 * [Agentic Workflow (AWFlow)](https://awflow.io) - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
 * [Good Friction for LinkedIn](https://github.com/tabrez-syed/goodfriction-linkedin-extension) - Returns the moment of choice to the LinkedIn feed — a session timer and pagination break ask if you want to keep going; a nudge, not a blocker.
+* [Minds Research Companion](https://chromewebstore.google.com/detail/minds-research-companion/focicdfpkgjgdnbmidpgkcokbipndjap) - Send selected web content to Minds and ask an AI audience about it.
 
 ## Search Tools
 *You search for something? Looking here for your tools*
