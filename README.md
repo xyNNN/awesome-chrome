@@ -157,6 +157,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Raise](https://chrome.google.com/webstore/detail/raisecom-extension/kknoembcnnnhefehcmegppchcmggaafo) - Save money shopping online with discounted gift cards
 * [Subwatch](https://subwatch.co) - Turn subscription chaos into financial harmony.
 * [SubTrack](https://chromewebstore.google.com/detail/subtrack/ggbofficgphbglidcnfkmekiknmbajbc) - Tracks your subscriptions and reminds you before each renewal. Local-first, no account or bank linking.
+* [Tenmomo Cookie Checker](https://chromewebstore.google.com/detail/tenmomo-cookie-checker/mpledkipjcjhkokpbgdmaaacjeamajhn) - Shows whether a Tenmomo cashback cookie is set on the store you are shopping, so you can confirm a purchase will be tracked.
 
 ## Social & Communication
 *Facebook, Twitter, Google+, Pinterest and so on..*
