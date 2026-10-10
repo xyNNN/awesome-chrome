@@ -93,6 +93,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [HEIC to PNG Converter](https://chromewebstore.google.com/detail/hlkifcnbooeflbhjbghkgbmjpalnfpia) - Convert HEIC images to JPG/PNG directly in browser. No uploads.
 * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - Enlarge thumbnails, and show images/videos from links with a mouse hover.
 * [Full Page Screenshot & Screen Recorder](https://chromewebstore.google.com/detail/full-page-screenshot-scre/gebkchfkcnjdflkfdimabihllibgcdhp) - Full-page screenshots and screen recording with annotation, webcam, and GIF/MP4 export. No watermark.
+* [Remix Camera](https://chromewebstore.google.com/detail/remixcamera/jnceajnhghkoienbgbljmadkklkikldf) - Captures images, styling notes, and annotations from web pages for Remix Camera workflows.
 
 ## Privacy & Networking
 *Extensions that decide how your browser reaches the network*
@@ -214,5 +215,4 @@ To the extent possible under law, [Philipp Bräutigam](https://philipp-braeutiga
 
 * [TrustModel Extension Rankings](https://trustmodel.ai/chrome-extensions) - Independent TrustScore rankings for the top 108 Chrome extensions and 10 AI browser agents. Evaluates data egress safety, permission scope, privacy alignment, code integrity, and supply chain risk.
 * [SafeAgent](https://github.com/Bemosha/safeagent) - Detects clipboard address substitution, unlimited-approval signatures, seed-phrase input forms and typosquatted domains. Runs locally, no telemetry.
-
 
