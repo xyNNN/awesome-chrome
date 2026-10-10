@@ -121,6 +121,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [OpenScreenShot](https://chromewebstore.google.com/detail/openscreenshot/hdabbojjccojlapnfjpdppcpfcnhgmdp) - Privacy-first, open-source full-page and region screenshot capture with a built-in annotation editor; everything stays local, no cloud or account.
 * [PageBrain](https://github.com/Wittlesus/pagebrain-extension) - AI-powered page summarizer that extracts key points, action items, and insights from any webpage using Claude.
 * [PasteFlow](https://pasteflow.romanbediner.com/) - Controlled, human-rhythm typing for browser editors and forms.
+* [QC Smart Reader](https://github.com/vyang472/qc-smart-reader-extension) - Captures web pages, PDFs, and public YouTube captions into a local evidence graph with exact-quote claim review.
 * [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - A suite of modules that enhance your Reddit browsing experience.
 * [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) - Manage Browser Tabs and Bookmarks with Ease.
 * [Session Manager](https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkdpagbcbkdpc) - Quickly and easily save, update, remove, and restore sets of tabs.
