@@ -46,6 +46,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Save to Google Drive](https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne) - Save web content or screen capture directly to Google Drive.
 
 ## Developer Tools
+
 *For the coolest group of people in the internet*
 
 * [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - It links NPM, bower, Composer & Duo dependencies to their GitHub repository page.
@@ -64,6 +65,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [PR Radar](https://chromewebstore.google.com/detail/hkombgibegjffiadmekpiabdakkoidmh) - Unified pull request dashboard for GitHub, GitLab, and Bitbucket — CI status, unresolved comments, review state, and notifications, without keeping a tab open.
 * [PrepPush](https://chromewebstore.google.com/detail/lkbbmepdmkokiapildnhkimcgnofokdd) - Auto-documents accepted HackerRank solutions to your GitHub repository with AI complexity notes.
 * [Prerender Buddy](https://chromewebstore.google.com/detail/prerenderbuddy/nfcnbflceplmhoamoehcfojmgdmkjegi) - Runs quick crawler-readability checks and AI visibility diagnostics for the current tab.
+* [Broken Link Checker](https://chromewebstore.google.com/detail/broken-link-checker/cipdlgmjblnniiicohcmcafcncippbha) - Checks every link on the current page, flags broken URLs and redirects, and exports a CSV report.
 
 ## Fun
 *Some awesome apps to pass time*
