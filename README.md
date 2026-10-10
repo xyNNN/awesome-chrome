@@ -107,6 +107,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [TypoGuard](https://https://chromewebstore.google.com/detail/typoguard-ai-spell-check/khbenciagmckicfldgibdkmklidnmpck) - AI-powered real-time spell check correction and grammar assistant for Google Chrome.
 * [Altyst](https://chromewebstore.google.com/detail/altyst/dnikmojflfeemmggmgdoilcanhlkdkee) - Sends the commercial real estate listing you are viewing to a full underwriting model in one click.
 * [AutoPagerize](https://chrome.google.com/webstore/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp) - Auto loading paginated web pages.
+* [CareClinic Tracker for Chrome](https://chromewebstore.google.com/detail/careclinic-tracker-for-ch/hmbpfjdbcckaniiehodjdgbhhghpaeok) - Track symptoms, complete medication reminders, and review recent CareClinic trends from Chrome.
 * [Chat Organizer](https://chromewebstore.google.com/detail/bipbaacophbcpboieghjoigjlbemchcm) - Auto-sorts your Claude.ai and ChatGPT chats into projects in one click, using keyword matching and AI. Free, no API key or account needed.
 * [CVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) - Adding Vim-like bindings to Google Chrome.
 * [CiteMe](https://citeme.app) - Academic citation generator. Searches 10+ databases and formats references in 60 curated citation styles (APA, ABNT, MLA, Chicago). Includes a reference checker for existing bibliographies. Available as a web app and Chrome extension.
