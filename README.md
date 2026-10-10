@@ -73,6 +73,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [ImprovedTube](https://chrome.google.com/webstore/detail/improvedtube-youtube-exte/bnomihfieiccainjcjblhegjgglakjdd) - Improves YouTube's functions and site with Limited Permissions. Auto HD, Resize, Annotations, Playback Speed and more.
 * [Motivation](https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj) - Replaces new tab screen with a real-time counter showing your current age.
+* [Stockfish Continue to Play](https://chromewebstore.google.com/detail/jhjcnpomgjakflfjjhlgilgpffmfbcbk) - When a Chess.com game ends, keep playing the position against Stockfish on the same board.
 
 ## Language & Translation
 *Learn languages and translate content while browsing*
