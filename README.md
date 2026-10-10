@@ -95,7 +95,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Some cool stuff to work with your photos*
 
 * [HEIC to PNG Converter](https://chromewebstore.google.com/detail/hlkifcnbooeflbhjbghkgbmjpalnfpia) - Convert HEIC images to JPG/PNG directly in browser. No uploads.
-* [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - Enlarge thumbnails, and show images/videos from links with a mouse hover.
+* [Bellevue](https://chromewebstore.google.com/detail/bellevue-image-viewer-hov/pcanfkjoeklodjkejejioenncaihechb) - Hold Alt over a thumbnail to see the full-size original, and view images with zoom, pan and rotate.
 * [Full Page Screenshot & Screen Recorder](https://chromewebstore.google.com/detail/full-page-screenshot-scre/gebkchfkcnjdflkfdimabihllibgcdhp) - Full-page screenshots and screen recording with annotation, webcam, and GIF/MP4 export. No watermark.
 * [Remix Camera](https://chromewebstore.google.com/detail/remixcamera/jnceajnhghkoienbgbljmadkklkikldf) - Captures images, styling notes, and annotations from web pages for Remix Camera workflows.
 
