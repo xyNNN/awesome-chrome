@@ -104,6 +104,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Apps to improve your productivity during your day*
 
 * [TypoGuard](https://https://chromewebstore.google.com/detail/typoguard-ai-spell-check/khbenciagmckicfldgibdkmklidnmpck) - AI-powered real-time spell check correction and grammar assistant for Google Chrome.
+* [Altyst](https://chromewebstore.google.com/detail/altyst/dnikmojflfeemmggmgdoilcanhlkdkee) - Sends the commercial real estate listing you are viewing to a full underwriting model in one click.
 * [AutoPagerize](https://chrome.google.com/webstore/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp) - Auto loading paginated web pages.
 * [Chat Organizer](https://chromewebstore.google.com/detail/bipbaacophbcpboieghjoigjlbemchcm) - Auto-sorts your Claude.ai and ChatGPT chats into projects in one click, using keyword matching and AI. Free, no API key or account needed.
 * [CVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) - Adding Vim-like bindings to Google Chrome.
