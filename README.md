@@ -203,5 +203,6 @@ To the extent possible under law, [Philipp Bräutigam](https://philipp-braeutiga
 *Tools to evaluate and verify the safety of Chrome extensions*
 
 * [TrustModel Extension Rankings](https://trustmodel.ai/chrome-extensions) - Independent TrustScore rankings for the top 108 Chrome extensions and 10 AI browser agents. Evaluates data egress safety, permission scope, privacy alignment, code integrity, and supply chain risk.
+* [SafeAgent](https://github.com/Bemosha/safeagent) - Detects clipboard address substitution, unlimited-approval signatures, seed-phrase input forms and typosquatted domains. Runs locally, no telemetry.
 
 
