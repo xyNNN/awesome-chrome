@@ -77,6 +77,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Language & Translation
 *Learn languages and translate content while browsing*
 * [Fenly](https://fenly.me) - AI translation extension: translate as you type, auto-translate chats on 8 platforms, and live YouTube subtitle translation in 100+ languages.
+* [Interline](https://github.com/eigenlux-ai/interline-translator) - Open-source bilingual webpage translation, selected-text lookup, and in-place draft translation with optional AI models.
 * [Mirlo](https://github.com/BoxcarsAI/mirlo) - Learn a language while you browse — replaces words on pages with the language you're learning. On-device translation via Chrome's Translator API, no tracking.
 * [Read Frog](https://github.com/mengxi-ream/read-frog) - Open-source AI-powered language learning with bilingual translation, article analysis, and vocabulary tools. Supports 80+ languages.
 * [Trippi](https://github.com/skrylkovs/trippi-oss) - Open-source (MIT) reference build overlaying live translated captions on Google Meet, Zoom and Microsoft Teams. Captures the tab's own audio (no bot joins the call) via MV3 tabCapture and an offscreen AudioWorklet, then pipes it through Deepgram (speech-to-text) and DeepL (translation). No backend, no account — bring your own API keys.
