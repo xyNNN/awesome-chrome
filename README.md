@@ -80,6 +80,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 ## Language & Translation
 *Learn languages and translate content while browsing*
+* [EarDub](https://www.eardub.com/) - Turns YouTube captions into a synced AI voice-over in your language, with 75 dubbing languages and bilingual subtitles.
 * [Fenly](https://fenly.me) - AI translation extension: translate as you type, auto-translate chats on 8 platforms, and live YouTube subtitle translation in 100+ languages.
 * [Interline](https://github.com/eigenlux-ai/interline-translator) - Open-source bilingual webpage translation, selected-text lookup, and in-place draft translation with optional AI models.
 * [Mirlo](https://github.com/BoxcarsAI/mirlo) - Learn a language while you browse — replaces words on pages with the language you're learning. On-device translation via Chrome's Translator API, no tracking.
