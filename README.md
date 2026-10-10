@@ -22,6 +22,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 - [Language & Translation](#language--translation)
 - [News & Weather](#news--weather)
 - [Photos](#photos)
+- [Privacy & Networking](#privacy--networking)
 - [Productivity](#productivity)
 - [Search Tools](#search-tools)
 - [Shopping](#shopping)
@@ -91,6 +92,11 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [HEIC to PNG Converter](https://chromewebstore.google.com/detail/hlkifcnbooeflbhjbghkgbmjpalnfpia) - Convert HEIC images to JPG/PNG directly in browser. No uploads.
 * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - Enlarge thumbnails, and show images/videos from links with a mouse hover.
 * [Full Page Screenshot & Screen Recorder](https://chromewebstore.google.com/detail/full-page-screenshot-scre/gebkchfkcnjdflkfdimabihllibgcdhp) - Full-page screenshots and screen recording with annotation, webcam, and GIF/MP4 export. No watermark.
+
+## Privacy & Networking
+*Extensions that decide how your browser reaches the network*
+
+* [Noctis](https://noctis.c0nn3ct.info/) - Routes browser traffic through your own proxy server over VLESS Reality, VMess, Trojan, Shadowsocks, Hysteria2, TUIC or WireGuard, with per-host routing rules.
 
 ## Productivity
 *Apps to improve your productivity during your day*
