@@ -148,6 +148,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [SuperSorter](https://chrome.google.com/webstore/detail/supersorter/hjebfgojnlefhdgmomncgjglmdckngij) - Sort bookmarks recursively, delete duplicates, merge folders, sort automatically, etc.
 * [SuperchargePerformance](https://chrome.google.com/webstore/detail/pafkkbjmpnfkdkkhldbbnggnmpbbhkmf) - Suspends inactive tabs using chrome.tabs.discard() to reduce RAM usage. Configurable per-domain whitelist. MV3.
 * [SuperchargeNavigation](https://chrome.google.com/webstore/detail/mpkbppjbchjdohbjgeoamdehklmapgnl) - Workspace-based tab organizer with an Alt+K command bar, Shift+Click peek tabs, and opt-in cross-device sync via chrome.storage.sync. MV3.
+* [TabBunker](https://chromewebstore.google.com/detail/tabbunker/gcfnjekbodlabpmiejgandamcpcgapgm) - Tab manager that saves the tabs you pick on your device and writes a JSON backup file to Downloads that stays after uninstalling. No account, MIT.
 * [Tabli](https://www.gettabli.com/) - Provides fast switching between browser windows and tabs and the ability to save and restore windows.
 * [Tabox](https://chromewebstore.google.com/detail/tabox-save-and-share-tab/bdbliblipiempfdkkkjohnecmeknnpoa) - Save tabs and tab groups into collections and reopen entire sessions in one click, with Google Drive sync and share-via-link. Free and open source.
 * [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Session manager.
