@@ -37,6 +37,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *The best extensions for the editors of our world wide web*
 
 * [Markdown Here](https://markdown-here.com/) - Help you write email and blog in Markdown.
+* [MD Publisher](https://alapha888.github.io/md-publisher-extension/) - Manifest V3 browser extension rendering Markdown in WeChat Official Account styles with one-click clean copy for Zhihu and Juejin.
 
 ## By Google
 *Awesome extensions from the creators*
