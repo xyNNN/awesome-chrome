@@ -168,6 +168,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [Find whatever - regex & auto re-find](https://chromewebstore.google.com/detail/find-whatever-regex-auto/pdpkckoiaiinjlhddhcoknjhdncepnbo) - A regex-powered deep search tool that uncovers every hidden corner of the page and tracks results in real-time as content changes.
 
+- [SiteData](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen) - Analyze any website's traffic, SEO keywords, Google Ads activity, and reverse AdSense connections directly in your browser.
+
 ## Shopping
 *Online shopping can be an addiction*
 
