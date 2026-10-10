@@ -164,6 +164,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Vidora](https://getvidora.com) - Download HLS, DASH and AES-128 encrypted video streams. Everything is processed locally, nothing is uploaded to a server.
 * [Vimium](https://github.com/philc/vimium) - Provides keyboard-based navigation and control of the web in the spirit of the Vim editor.
 * [Waka Time](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi) - Track your time on chrome automatically.
+* [Web Highlighter](https://microsoftedge.microsoft.com/addons/detail/highlighter/ooocjgnapglfljdgojdoacjdedpaplhe) - Local-first Chrome/Edge extension to highlight and annotate web pages; highlights persist across revisits, with notes, Weava CSV import, and export to JSON, CSV, or Markdown - no account needed.
 * [Word Counter Plus](https://chromewebstore.google.com/detail/word-counter-plus/ockonfdfcanonnajjchhapbiahlhjeej) - A simple and accurate word counter.
 * [ZenHub](https://www.zenhub.io) - Project management inside GitHub.
 * [Zenith - Upgrade for YouTube](https://chromewebstore.google.com/detail/zenith-upgrade-for-youtub/ijemkepfnohkofhhcgcnlgkimjonogii) - The ultimate YouTube enhancer. Fixes UI annoyances, unlocks speed limits, and adds 50+ productivity tools.
