@@ -73,7 +73,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 ## Language & Translation
 *Learn languages and translate content while browsing*
-* [EarDub](https://www.eardub.com/) - Turns YouTube captions into a synced AI voice-over in your language, with 17 dubbing languages and bilingual subtitles.
+* [EarDub](https://www.eardub.com/) - Turns YouTube captions into a synced AI voice-over in your language, with 75 dubbing languages and bilingual subtitles.
 * [Fenly](https://fenly.me) - AI translation extension: translate as you type, auto-translate chats on 8 platforms, and live YouTube subtitle translation in 100+ languages.
 * [Mirlo](https://github.com/BoxcarsAI/mirlo) - Learn a language while you browse — replaces words on pages with the language you're learning. On-device translation via Chrome's Translator API, no tracking.
 * [Read Frog](https://github.com/mengxi-ream/read-frog) - Open-source AI-powered language learning with bilingual translation, article analysis, and vocabulary tools. Supports 80+ languages.
