@@ -51,6 +51,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 *For the coolest group of people in the internet*
 
+* [CodePrettify](https://chromewebstore.google.com/detail/codeprettify-js-json-css/ijhgclhipdfnaphhcipbnblgoemcaioj) - Formats and highlights JavaScript, JSON, CSS, and RSS files, with validation, code folding, search, and diff tools.
 * [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - It links NPM, bower, Composer & Duo dependencies to their GitHub repository page.
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
 * [Interceptor](https://chrome.google.com/webstore/detail/interceptor/enenfaicdcfgcnjmiigcjbmlbaoapnen) - Run web clients without backends by mocking HTTP requests.
