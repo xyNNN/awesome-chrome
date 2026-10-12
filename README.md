@@ -170,6 +170,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Remix Camera** - Captures images, styling notes, and annotations from web pages for Remix Camera workflows.
   * Website: [remix.camera](https://remix.camera)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jnceajnhghkoienbgbljmadkklkikldf)
+* **Page Saver** - Saves every image on a web page at full size, plus its videos (HLS and DASH streams joined into MP4), in one ZIP. Free and open source.
+  * Website: [techygeekshome.info](https://techygeekshome.info/browser-extensions/page-saver/)
+  * Source: [GitHub](https://github.com/techygeekshome/PageSaver)
 
 ## Privacy & Networking
 *Extensions that decide how your browser reaches the network*
