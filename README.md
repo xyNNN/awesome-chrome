@@ -400,6 +400,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Cursive Text Generator** - Convert text into Unicode cursive letters to paste into bios, posts and chats.
   * Website: [cursive-text-generator.net](https://cursive-text-generator.net)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nkjldlbnffdfbhhpphgpblakblgfgook)
+* **X Vision for X** - Scores fresh X (Twitter) posts as reply opportunities, shows the reasons, and tracks your replies. Read-only; never posts for you.
+  * Website: [xvision.lol](https://xvision.lol)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/x-vision-for-x/mgljfflddfmhpefojkldeeleijdfefpd)
 
 
 ## Sports
