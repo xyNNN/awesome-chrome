@@ -409,6 +409,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **X Vision for X** - Scores fresh X (Twitter) posts as reply opportunities, shows the reasons, and tracks your replies. Read-only; never posts for you.
   * Website: [xvision.lol](https://xvision.lol)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/x-vision-for-x/mgljfflddfmhpefojkldeeleijdfefpd)
+* **Board Saver for Pinterest** - Saves every image on a Pinterest board at full quality, removes duplicates and downloads it all as one ZIP. Free and open source.
+  * Website: [techygeekshome.info](https://techygeekshome.info/browser-extensions/board-saver/)
+  * Source: [GitHub](https://github.com/techygeekshome/BoardSaver)
 
 
 ## Sports
