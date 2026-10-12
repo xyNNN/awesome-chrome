@@ -416,6 +416,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [techygeekshome.info](https://techygeekshome.info/browser-extensions/grid-saver/)
   * Microsoft Edge Add-ons: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/grid-saver-for-instagram/egikinecpdfibmgolllglmgnjjfepfpe)
   * Source: [GitHub](https://github.com/techygeekshome/GridSaver)
+* **Clip Saver for TikTok** - Saves TikTok videos and photo posts from a profile or single video in the best quality, in one ZIP. Free and open source.
+  * Website: [techygeekshome.info](https://techygeekshome.info/browser-extensions/clip-saver/)
+  * Microsoft Edge Add-ons: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/clip-saver-for-tiktok/nelfacpkaicjmbidfjlambopfgobomgd)
+  * Source: [GitHub](https://github.com/techygeekshome/ClipSaver)
 
 
 ## Sports
