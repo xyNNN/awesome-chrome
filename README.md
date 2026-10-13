@@ -408,6 +408,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/x-vision-for-x/mgljfflddfmhpefojkldeeleijdfefpd)
 
 
+* **TalkAStranger Streamer** - Real-time WebRTC broadcaster studio and side panel HUD for live chat, stream alerts, and creator community engagement.
+  * Website: [talkastranger.com](https://talkastranger.com/developers)
+  * GitHub: [umairkhan2582/talkastranger-streamer-extension](https://github.com/umairkhan2582/talkastranger-streamer-extension)
+
 ## Sports
 *Keep on track with your favorite sports club*
 
