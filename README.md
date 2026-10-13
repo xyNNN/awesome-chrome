@@ -342,6 +342,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Publish to dochost** - Turns HTML or Markdown generated in ChatGPT and Claude into a shareable link without leaving the chat.
   * Website: [dochost.io](https://dochost.io)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ihnogobgkjojleeiajngmcdlaccjdmdi)
+* **TypeFire** - Free text expander, Markdown notes and clipboard manager in one extension: type a few letters in any text box and the whole reply drops in, keep notes as files in a folder you own, and search everything you copied.
+  * Website: [typefire.ai](https://typefire.ai/chrome)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/typefire/ihnpfaogaobdjipdkdpmgbbhncjkbahj)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
