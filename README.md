@@ -173,6 +173,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Remix Camera** - Captures images, styling notes, and annotations from web pages for Remix Camera workflows.
   * Website: [remix.camera](https://remix.camera)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jnceajnhghkoienbgbljmadkklkikldf)
+* **Page Saver** - Saves every image on a web page at full size, plus its videos (HLS and DASH streams joined into MP4), in one ZIP. Free and open source.
+  * Website: [techygeekshome.info](https://techygeekshome.info/browser-extensions/page-saver/)
+  * Source: [GitHub](https://github.com/techygeekshome/PageSaver)
 
 ## Privacy & Networking
 *Extensions that decide how your browser reaches the network*
@@ -412,6 +415,17 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **X Vision for X** - Scores fresh X (Twitter) posts as reply opportunities, shows the reasons, and tracks your replies. Read-only; never posts for you.
   * Website: [xvision.lol](https://xvision.lol)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/x-vision-for-x/mgljfflddfmhpefojkldeeleijdfefpd)
+* **Board Saver for Pinterest** - Saves every image on a Pinterest board at full quality, removes duplicates and downloads it all as one ZIP. Free and open source.
+  * Website: [techygeekshome.info](https://techygeekshome.info/browser-extensions/board-saver/)
+  * Source: [GitHub](https://github.com/techygeekshome/BoardSaver)
+* **Grid Saver for Instagram** - Saves photos, reels and carousels from an Instagram profile or post in full quality, in one ZIP. Free and open source.
+  * Website: [techygeekshome.info](https://techygeekshome.info/browser-extensions/grid-saver/)
+  * Microsoft Edge Add-ons: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/grid-saver-for-instagram/egikinecpdfibmgolllglmgnjjfepfpe)
+  * Source: [GitHub](https://github.com/techygeekshome/GridSaver)
+* **Clip Saver for TikTok** - Saves TikTok videos and photo posts from a profile or single video in the best quality, in one ZIP. Free and open source.
+  * Website: [techygeekshome.info](https://techygeekshome.info/browser-extensions/clip-saver/)
+  * Microsoft Edge Add-ons: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/clip-saver-for-tiktok/nelfacpkaicjmbidfjlambopfgobomgd)
+  * Source: [GitHub](https://github.com/techygeekshome/ClipSaver)
 
 
 ## Sports
