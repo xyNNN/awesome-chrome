@@ -135,6 +135,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Interline** - Open-source bilingual webpage translation, selected-text lookup, and in-place draft translation with optional AI models.
   * Website: [github.com/eigenlux-ai/interline-translator](https://github.com/eigenlux-ai/interline-translator)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mcefogikngeheopmdmaapfgpnnlgcoid)
+* **Manga Translator** - Translates comic-page images in Chrome, with batch processing, previews, reader mode, and image export.
+  * Website: [mangatranslate.com](https://www.mangatranslate.com/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/manga-translator/lalcidikgkhicibmghdbbpdhpelpdbdn)
 * **Mirlo** - Learn a language while you browse — replaces words on pages with the language you're learning. On-device translation via Chrome's Translator API, no tracking.
   * Website: [github.com/BoxcarsAI/mirlo](https://github.com/BoxcarsAI/mirlo)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bolaihmnmcaedodmcempenkddbkolaih)
