@@ -445,6 +445,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **SafeAgent** - Detects clipboard address substitution, unlimited-approval signatures, seed-phrase input forms and typosquatted domains. Runs locally, no telemetry.
   * Website: [github.com/Bemosha/safeagent](https://github.com/Bemosha/safeagent)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ofohhhijlkclalcbfckgpinancpdapmh)
+* **Popout Authenticator** - Two-factor (TOTP/HOTP) codes in the toolbar popup, a separate window, or the side panel, kept in an encrypted local vault and filled into the sites you allow; imports Authenticator extension and Google Authenticator backups.
+  * Website: [elitekid.github.io/popout-authenticator](https://elitekid.github.io/popout-authenticator/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nakgmloofpboegibcjhainbpjjokmbgj)
+  * Source: [github.com/elitekid/popout-authenticator](https://github.com/elitekid/popout-authenticator)
 
 ## Authors
 
