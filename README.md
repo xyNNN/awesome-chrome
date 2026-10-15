@@ -111,6 +111,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/chliiokcegkincifjcpmoldbmdjficld)
 * **Web Import Master** - Convert public or private pages from web to Figma designs: styles, variables, auto layout, high resolution images. Free Chrome extension, one-time payment plugin.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lcbapmgigajdpechghjnkbaidfhenbhl)
+* **Asset Downloader** - Scan any web page and download its images, sprites, fonts, and audio one by one.
+  * Website: [ren-zi-fa.github.io/assets-web-downloader](https://ren-zi-fa.github.io/assets-web-downloader/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hgjmobeeoakacnbllmodianbiiofchjm)
 
 ## Fun
 *Some awesome apps to pass time*
