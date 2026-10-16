@@ -222,6 +222,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Evernote Web Clipper** - The easiest way to save, mark up and share anything you see online.
   * Website: [evernote.com/web-clipper](https://evernote.com/web-clipper)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pioclpoplcdbaefihamjohnefbikjilc)
+* **GetAskAI** - Summarizes or explains any web page, YouTube video or X post with AI in one click, without an account.
+  * Website: [getaskai.com](https://getaskai.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gbkjnpebpjjdbhacfmephblfiioidhgb)
 * **Ghostery** - Protect your privacy by seeing who's tracking your web browsing with Ghostery.
   * Website: [ghostery.com](https://www.ghostery.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mlomiejdfkolichcflejclcbmpeaniij)
