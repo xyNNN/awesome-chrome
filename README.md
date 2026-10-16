@@ -114,6 +114,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Asset Downloader** - Scan any web page and download its images, sprites, fonts, and audio one by one.
   * Website: [ren-zi-fa.github.io/assets-web-downloader](https://ren-zi-fa.github.io/assets-web-downloader/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hgjmobeeoakacnbllmodianbiiofchjm)
+* **Stylepick** - Hover any element to see its font, colors and spacing, then copy only the CSS that differs from browser defaults; optional paid Pro.
+  * Website: [infora.pages.dev](https://infora.pages.dev)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jjapfmekebjkbphokpocgfdbdkogcdnm)
 
 ## Fun
 *Some awesome apps to pass time*
@@ -360,6 +363,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **TypeFire** - Free text expander, Markdown notes and clipboard manager in one extension: type a few letters in any text box and the whole reply drops in, keep notes as files in a folder you own, and search everything you copied.
   * Website: [typefire.ai](https://typefire.ai/chrome)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/typefire/ihnpfaogaobdjipdkdpmgbbhncjkbahj)
+* **Table Export** - Export HTML tables on any page to CSV, TSV or the clipboard for Google Sheets and Excel, with merged cells kept in place; optional paid Pro adds XLSX.
+  * Website: [infora.pages.dev](https://infora.pages.dev)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/femgkomaciokgbiblinficgmceplpmmd)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
