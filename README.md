@@ -257,6 +257,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Minds Research Companion** - Send selected web content to Minds and ask an AI audience about it.
   * Website: [getminds.ai](https://getminds.ai)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/focicdfpkgjgdnbmidpgkcokbipndjap)
+* **Mock Interview Copilot** - Practise interviews out loud with an AI interviewer that asks questions from your CV and the job description and scores each answer.
+  * Website: [mic.zapxlabs.com](https://mic.zapxlabs.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hepiepplociopimcmiokhljimceglaac)
 * **Not for You** - Removes the algorithm from every major social media platform. Turns off the recommendation feeds on YouTube, Instagram, TikTok, X, Reddit, LinkedIn, Threads and Facebook, so the platforms stop deciding what you see.
   * Website: [notforyou.app](https://notforyou.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pakdneaipkfgaahgbafblmdebfoadjca)
