@@ -189,6 +189,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Noctis** - Routes browser traffic through your own proxy server over VLESS Reality, VMess, Trojan, Shadowsocks, Hysteria2, TUIC or WireGuard, with per-host routing rules.
   * Website: [noctis.c0nn3ct.info](https://noctis.c0nn3ct.info/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nmhobajopepdpihahepaddpdifdcenpn)
+* **Spoof Me** - Switches between browser identities (user agent, language, timezone, screen, hardware) and warns when a site fingerprints you.
+  * Website: [spoof-me.com](https://spoof-me.com/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/)
 
 ## Productivity
 *Apps to improve your productivity during your day*
