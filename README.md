@@ -282,6 +282,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **PasteFlow** - Controlled, human-rhythm typing for browser editors and forms.
   * Website: [pasteflow.romanbediner.com](https://pasteflow.romanbediner.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/paenffoomjmkonbgkmfdbnfaljoiilgm)
+* **Perfect Clock** - World clock in the side panel that shows your calendar events on the timelines of your cities.
+  * Website: [perfectclock.cc](https://perfectclock.cc)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/oecbfdgpeigoogoehhkffgpnmiepeefe)
 * **QC Smart Reader** - Captures web pages, PDFs, and public YouTube captions into a local evidence graph with exact-quote claim review.
   * Website: [github.com/vyang472/qc-smart-reader-extension](https://github.com/vyang472/qc-smart-reader-extension)
 * **Reddit Enhancement Suite** - A suite of modules that enhance your Reddit browsing experience.
