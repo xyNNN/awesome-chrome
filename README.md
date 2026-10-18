@@ -34,6 +34,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **CastReader** - Reads web articles, Kindle, and PDFs aloud in natural AI voices across 40+ languages, with word-level highlighting and an "AI Explain" mode that summarizes and explains dense passages in plain language.
   * Website: [castreader.com](https://castreader.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/foammmkhpbeladledijkdljlechlclpb)
+* **Fog Mode** - Declutter articles, use a reading guide, reduce motion, auto-scroll, play background noise, take breaks and save your place.
+  * Website: [whatisbrainfog.com/fog-mode](https://whatisbrainfog.com/fog-mode/)
 
 ## Blogging
 *The best extensions for the editors of our world wide web*
