@@ -392,6 +392,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [sitedata.dev](https://sitedata.dev)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen)
 
+* **CareJobs.Now: Healthcare Job Search** - Search US healthcare jobs with the pay employers post, from the toolbar, the address bar (type cj) or a right-click.
+  * Website: [carejobs.now/browser-extension](https://carejobs.now/browser-extension)
+  * Source: [GitHub](https://github.com/yumaheymans/carejobs-browser-extension)
+
 ## Shopping
 *Online shopping can be an addiction*
 
