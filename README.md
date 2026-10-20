@@ -119,6 +119,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Stylepick** - Hover any element to see its font, colors and spacing, then copy only the CSS that differs from browser defaults; optional paid Pro.
   * Website: [infora.pages.dev](https://infora.pages.dev)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jjapfmekebjkbphokpocgfdbdkogcdnm)
+* **Artspo** - Clip websites you like and measure their palette, type, radii, shadows and motion into plain files an AI coding agent can build from. Open source, no account.
+  * Website: [artbook.dev](https://artbook.dev/?utm_source=awesome-chrome&utm_medium=list&utm_campaign=artspo)
+  * Source: [GitHub](https://github.com/bryfeng/artspo)
 
 ## Fun
 *Some awesome apps to pass time*
