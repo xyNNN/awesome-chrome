@@ -276,6 +276,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gojbdfnpnhogfdgjbigejoaolejmgdhk)
 * **OneTake** - Records a tab or your screen and exports GIF, WebP, AVIF or MP4. Encoding runs in the browser, so nothing uploads and there's no watermark.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/onetake-screen-recording/khmkeidanahmnggpgepdlflpokipdbih)
+* **Onhand** - Open-source AI reading assistant that answers questions about a webpage or PDF and highlights the passages it used.
+  * Website: [useonhand.com](https://useonhand.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ogjmncmkpgdkkcibdiacmagaehjohljb)
+  * Source: [github.com/Phineas1500/Onhand](https://github.com/Phineas1500/Onhand)
 * **OpenScreenShot** - Privacy-first, open-source full-page and region screenshot capture with a built-in annotation editor; everything stays local, no cloud or account.
   * Website: [openscreenshot.app](https://openscreenshot.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hdabbojjccojlapnfjpdppcpfcnhgmdp)
