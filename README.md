@@ -460,6 +460,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [techygeekshome.info](https://techygeekshome.info/browser-extensions/clip-saver/)
   * Microsoft Edge Add-ons: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/clip-saver-for-tiktok/nelfacpkaicjmbidfjlambopfgobomgd)
   * Source: [GitHub](https://github.com/techygeekshome/ClipSaver)
+* **iFollowTracker for Instagram** - Side panel beside Instagram profiles with public follower, following and story insights; no Instagram password needed.
+  * Website: [ifollowtracker.com](https://www.ifollowtracker.com/extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ifollowtracker-for-instag/ijhkhodnjfdogpidfpamkmghhfkfopgh)
 
 
 ## Sports
