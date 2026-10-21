@@ -301,6 +301,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/edacconmaakjimmfgnblocblbcdcpbko)
 * **SessionPort** - Transfer AI conversation context between Claude, ChatGPT, Grok, Gemini, Mistral, DeepSeek and Perplexity without copy-paste or external APIs.
   * Website: [github.com/Den1style/sessionport](https://github.com/Den1style/sessionport)
+* **Simple Sticky Notes** - Pin persistent notes to web pages and use a flexible AI assistant to understand what you read, develop ideas, and work with your notes.
+  * Website: [simplestickynotes.xyz](https://simplestickynotes.xyz/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lkkkngnoflaeicokibjcmgjacmhlnghg)
 * **Sprucemarks** - Automatically sort bookmarks.
   * Chrome Web Store: [Chrome Web Store](https://chrome.google.com/webstore/detail/sprucemarks/fakeocdnmmmnokabaiflppclocckihoj)
 * **Stackboard** - Turns your new tab into a board of your Chrome bookmarks, and stashes a whole window of tabs as bookmarks in one click. Everything stays plain Chrome bookmarks. Free, open source (MIT), no account.
