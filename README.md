@@ -302,7 +302,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **SessionPort** - Transfer AI conversation context between Claude, ChatGPT, Grok, Gemini, Mistral, DeepSeek and Perplexity without copy-paste or external APIs.
   * Website: [github.com/Den1style/sessionport](https://github.com/Den1style/sessionport)
 * **Simple Sticky Notes** - Pin persistent notes to web pages and use a flexible AI assistant to understand what you read, develop ideas, and work with your notes.
-  * Website: [simplestickynotes.xyz](https://simplestickynotes.xyz/?utm_source=github&utm_medium=referral&utm_campaign=awesome_lists&utm_content=xynnn_awesome-chrome)
+  * Website: [simplestickynotes.xyz](https://simplestickynotes.xyz/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lkkkngnoflaeicokibjcmgjacmhlnghg)
 * **Sprucemarks** - Automatically sort bookmarks.
   * Chrome Web Store: [Chrome Web Store](https://chrome.google.com/webstore/detail/sprucemarks/fakeocdnmmmnokabaiflppclocckihoj)
