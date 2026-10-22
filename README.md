@@ -202,6 +202,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **TypoGuard** - AI-powered real-time spell check correction and grammar assistant for Google Chrome.
   * Website: [typoguard.vip](https://typoguard.vip/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/khbenciagmckicfldgibdkmklidnmpck)
+* **AI Label Filter for YouTube** - Dims YouTube videos labelled as made with AI, with an option to hide them.
+  * Website: [github.com/Nova-47/ai-label-filter-for-youtube](https://github.com/Nova-47/ai-label-filter-for-youtube)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bkobanajomgkmbcdkmmalfjdicidcajk)
 * **Altyst** - Sends the commercial real estate listing you are viewing to a full underwriting model in one click.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/altyst/dnikmojflfeemmggmgdoilcanhlkdkee)
 * **CareClinic Tracker for Chrome** - Track symptoms, complete medication reminders, and review recent CareClinic trends from Chrome.
