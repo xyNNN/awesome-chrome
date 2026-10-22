@@ -286,6 +286,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **OpenScreenShot** - Privacy-first, open-source full-page and region screenshot capture with a built-in annotation editor; everything stays local, no cloud or account.
   * Website: [openscreenshot.app](https://openscreenshot.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hdabbojjccojlapnfjpdppcpfcnhgmdp)
+* **Paperkeep** - Downloads the invoices from the billing page you are viewing in one click and renames them date_supplier_amount for your accountant, all locally.
+  * Website: [paperkeep.be](https://paperkeep.be/en.html)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mmllhnjkdpilogbaokplljippcnmdopi)
 * **PasteFlow** - Controlled, human-rhythm typing for browser editors and forms.
   * Website: [pasteflow.romanbediner.com](https://pasteflow.romanbediner.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/paenffoomjmkonbgkmfdbnfaljoiilgm)
