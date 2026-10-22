@@ -416,6 +416,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Tenmomo Cookie Checker** - Shows whether a Tenmomo cashback cookie is set on the store you are shopping, so you can confirm a purchase will be tracked.
   * Website: [tenmomo.com](https://tenmomo.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mpledkipjcjhkokpbgdmaaacjeamajhn)
+* **Retrowert** - Shows the market value of retro video games and Pokémon cards next to every listing price on kleinanzeigen.de and ebay.de, with a bargain filter and alerts.
+  * Website: [retrowert.de](https://retrowert.de)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/llnmjaffkfdpkggjjdlkedpehpceeohe)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/de/firefox/addon/retrowert/)
 
 ## Social & Communication
 *Facebook, Twitter, Google+, Pinterest and so on..*
