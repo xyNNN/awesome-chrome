@@ -424,6 +424,11 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/llnmjaffkfdpkggjjdlkedpehpceeohe)
   * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/de/firefox/addon/retrowert/)
 
+* **Taobao Companion** - Translates supported Taobao and Tmall pages into English on-device and adds estimated currency conversions on desktop Chrome and Firefox.
+  * Website: [kakoguide.com/taobao-companion](https://kakoguide.com/taobao-companion)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/taobao-companion/occjeognaldfligfamahllfjkdloaogg)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/taobao-companion/)
+
 ## Social & Communication
 *Facebook, Twitter, Google+, Pinterest and so on..*
 
