@@ -184,6 +184,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Page Saver** - Saves every image on a web page at full size, plus its videos (HLS and DASH streams joined into MP4), in one ZIP. Free and open source.
   * Website: [techygeekshome.info](https://techygeekshome.info/browser-extensions/page-saver/)
   * Source: [GitHub](https://github.com/techygeekshome/PageSaver)
+* **isGenAI** - Right-click any web image to read its Content Credentials (C2PA), AI labels and saved generation prompts in a side panel. Free, no account.
+  * Website: [isgenai.com](https://isgenai.com/browser-extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pgcnmndbnkkgifmopgnefnlebklnfbbb)
 
 ## Privacy & Networking
 *Extensions that decide how your browser reaches the network*
