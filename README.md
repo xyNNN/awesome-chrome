@@ -119,6 +119,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Stylepick** - Hover any element to see its font, colors and spacing, then copy only the CSS that differs from browser defaults; optional paid Pro.
   * Website: [infora.pages.dev](https://infora.pages.dev)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jjapfmekebjkbphokpocgfdbdkogcdnm)
+* **HeaderVault** - Modify HTTP request and response headers with profiles and URL filters. Works locally, no analytics.
+  * Website: [headervault.com](https://headervault.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lhancnchhfoplgkpaahfobcbdleafihe)
 
 ## Fun
 *Some awesome apps to pass time*
