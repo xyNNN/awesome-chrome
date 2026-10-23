@@ -229,6 +229,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Decentraleyes** - Protects you against tracking through "free", centralized, content delivery.
   * Website: [decentraleyes.org](https://decentraleyes.org)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ldpochfccmkkmhdbclfhpagapcfdljkj)
+* **DevPause** - Adds clean-copy, continue, and wide-screen buttons under ChatGPT, Claude and Gemini answers. Free, ad-supported.
+  * Website: [devpause.vercel.app](https://devpause.vercel.app)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/midkjihlmjoicjlllefimoiibcanpfao?utm_source=github_awesome_chrome&utm_medium=referral&utm_campaign=launch)
 * **Drag and Go** - Super Drag and Go, plus 6 most frequently used gestures.
   * Chrome Web Store: [Chrome Web Store](https://chrome.google.com/webstore/detail/drag-and-go/jaikcnhlohebodlpkmjepipngegjbfpg)
 * **EasyPDF** - Open any PDF from the browser in an online editor to edit text, compress, merge or sign it.
