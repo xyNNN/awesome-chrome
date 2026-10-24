@@ -219,6 +219,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **CiteMe** - Academic citation generator. Searches 10+ databases and formats references in 60 curated citation styles (APA, ABNT, MLA, Chicago). Includes a reference checker for existing bibliographies. Available as a web app and Chrome extension.
   * Website: [citeme.app](https://citeme.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/dgengdhgpegcpljnmkeehlmfabmljfhp)
+* **Clicked** - Highlight any text on a page or PDF and get a quick overview, the full detail, or an analogy, in 15+ languages.
+  * Website: [tryclicked.app](https://tryclicked.app)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/clicked/ocmgkhfoojblkdeaciadnnhklblaldpk)
 * **Curfew** - Daily time budgets for the sites you choose, enforced at the network level, with a solved puzzle instead of a one-click off switch.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/obnikdokealeimpbhfbjhpdmfcgbgcje)
 * **Daily** - Replaces your new tab with curated latest dev articles.
