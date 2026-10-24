@@ -146,6 +146,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Interline** - Open-source bilingual webpage translation, selected-text lookup, and in-place draft translation with optional AI models.
   * Website: [github.com/eigenlux-ai/interline-translator](https://github.com/eigenlux-ai/interline-translator)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mcefogikngeheopmdmaapfgpnnlgcoid)
+* **Lexpad** - Saves a selected word, or a word clicked in YouTube subtitles, to a spaced-repetition vocabulary notebook with its sentence as the example; free extension, optional paid Pro plan.
+  * Website: [lexpad.app](https://lexpad.app/features/extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lexpad/cmadljhpbngcceagpjfladgjjjnegikk)
 * **Manga Translator** - Translates comic-page images in Chrome, with batch processing, previews, reader mode, and image export.
   * Website: [mangatranslate.com](https://www.mangatranslate.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/manga-translator/lalcidikgkhicibmghdbbpdhpelpdbdn)
