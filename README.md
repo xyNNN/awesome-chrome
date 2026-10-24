@@ -414,6 +414,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [sitedata.dev](https://sitedata.dev)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen)
 
+* **Keyword Lantern** - Highlights words from your own keyword lists in custom colors, with per-word counts and next/previous jumps. Runs only on click, no account, no network requests.
+  * Website: [askomni.app/keyword-lantern](https://askomni.app/keyword-lantern)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/biajdjnbnnnjmbfnloooijkhiieblkff)
+
 ## Shopping
 *Online shopping can be an addiction*
 
