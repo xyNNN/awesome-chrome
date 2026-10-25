@@ -343,6 +343,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **SuperchargeNavigation** - Workspace-based tab organizer with an Alt+K command bar, Shift+Click peek tabs, and opt-in cross-device sync via chrome.storage.sync. MV3.
   * Website: [superchargebrowser.com](https://superchargebrowser.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mpkbppjbchjdohbjgeoamdehklmapgnl)
+* **Tab Suspender** - Suspends inactive tabs to free memory. Skips the active tab, pinned tabs, tabs playing audio and tabs with unsaved form input. MV3, MIT, no network requests.
+  * Website: [github.com/theluckystrike/tab-suspender-chrome-extension](https://github.com/theluckystrike/tab-suspender-chrome-extension)
 * **TabBunker** - Tab manager that saves the tabs you pick on your device and writes a JSON backup file to Downloads that stays after uninstalling. No account, MIT.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/tabbunker/gcfnjekbodlabpmiejgandamcpcgapgm)
 * **Tabli** - Provides fast switching between browser windows and tabs and the ability to save and restore windows.
