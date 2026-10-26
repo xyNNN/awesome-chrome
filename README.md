@@ -269,6 +269,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **LinkUnzip** - Extracts a ZIP from a link straight into a folder without saving the ZIP. Windows only, with a small free helper app.
   * Website: [linkunzip.app](https://linkunzip.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/dapeiljhjlaelolngnoagobeojcpkica)
+* **Lumno** - Command bar and new tab page that searches open tabs, bookmarks and history with Ctrl/Cmd+Shift+K. Free, open source (GPL-3.0) and no account needed.
+  * Website: [lumno.kubai.design](https://lumno.kubai.design/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nggfkkbmogmadfoikakkfegkoilfcfao)
 * **Margin** - Calm semester planner for Canvas LMS students: assignments and due dates in one view, with optional send to Todoist.
   * Website: [margin.computer](https://margin.computer)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ikdgboibmcojgmneeffbkpgljkgnajln)
