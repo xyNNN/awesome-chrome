@@ -411,6 +411,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **SheetSpeed** - Excel-style keyboard shortcuts and trace precedents for Google Sheets, plus PowerPoint-style shortcuts for Google Slides.
   * Website: [sheetspeed.agi-jarvis.com](https://sheetspeed.agi-jarvis.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ljlmgielacploapelnjhodicgbjipcaa)
+* **Cover Me** - Writes a tailored cover letter and resume from the job posting you have open, with an ATS match score and the missing keywords.
+  * Website: [cover-me.dev](https://www.cover-me.dev)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bpbnopjgjbimdjjdolhkgimllbgamgpi)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
