@@ -208,6 +208,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Productivity
 *Apps to improve your productivity during your day*
 
+* **Level CFO** - Financial workflow guardrails, job execution visibility, and accounts receivable alerts by Level CFO.
+  * Website: [levelcfo.com](https://levelcfo.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/level-cfo/eacbijcnmhhippfoplidhabjfamigdib)
 * **TypoGuard** - AI-powered real-time spell check correction and grammar assistant for Google Chrome.
   * Website: [typoguard.vip](https://typoguard.vip/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/khbenciagmckicfldgibdkmklidnmpck)
