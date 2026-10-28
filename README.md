@@ -249,6 +249,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **EasyPDF** - Open any PDF from the browser in an online editor to edit text, compress, merge or sign it.
   * Website: [easypdf.fr](https://easypdf.fr)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pnggjdhccfohoflgjbhhihgffplfigel)
+* **Escriba** - Records and transcribes Meet, Teams or in-person meetings with your own AI key, then writes the minutes.
+  * Website: [alvarogarrido10.github.io/escriba](https://alvarogarrido10.github.io/escriba/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/giaeeknnkmmjkkbgdoabjibehnjohgbc)
+  * Source: [github.com/AlvaroGarrido10/escriba](https://github.com/AlvaroGarrido10/escriba)
 * **Evernote Web Clipper** - The easiest way to save, mark up and share anything you see online.
   * Website: [evernote.com/web-clipper](https://evernote.com/web-clipper)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pioclpoplcdbaefihamjohnefbikjilc)
