@@ -122,6 +122,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **HeaderVault** - Modify HTTP request and response headers with profiles and URL filters. Works locally, no analytics.
   * Website: [headervault.com](https://headervault.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lhancnchhfoplgkpaahfobcbdleafihe)
+* **FontMeter** - Label every text style on a page and see the fonts that really render, the type scale and WCAG contrast, plus inspect, ruler and color picker. Free, runs locally.
+  * Website: [fontmeter.dev](https://fontmeter.dev)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/efgmfhhliniddehjeojoppgpgenkaien)
 
 ## Fun
 *Some awesome apps to pass time*
