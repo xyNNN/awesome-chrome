@@ -526,6 +526,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [elitekid.github.io/popout-authenticator](https://elitekid.github.io/popout-authenticator/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nakgmloofpboegibcjhainbpjjokmbgj)
   * Source: [github.com/elitekid/popout-authenticator](https://github.com/elitekid/popout-authenticator)
+* **Extension Guardian** - Warns when an installed extension changes owner, gains new permissions, is removed from the Chrome Web Store, or was installed by another program. Rates each extension on access and risk; runs locally, no account.
+  * Website: [github.com/laboskiriste/extension-guardian](https://github.com/laboskiriste/extension-guardian)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mpceklcidiadoneogfmpkjpadihmlcjd)
 
 ## Authors
 
