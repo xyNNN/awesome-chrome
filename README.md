@@ -433,6 +433,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Cover Me** - Writes a tailored cover letter and resume from the job posting you have open, with an ATS match score and the missing keywords.
   * Website: [cover-me.dev](https://www.cover-me.dev)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bpbnopjgjbimdjjdolhkgimllbgamgpi)
+* **Signal by StackEnhance** - See how the online store you are on does email marketing: when it last emailed, how often it sends and its latest subject lines.
+  * Website: [stackenhance.com](https://stackenhance.com/help/signal-chrome-extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mpfjcjihiidnighpfhmpoodigeedehkk)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
