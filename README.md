@@ -231,6 +231,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Clicked** - Highlight any text on a page or PDF and get a quick overview, the full detail, or an analogy, in 15+ languages.
   * Website: [tryclicked.app](https://tryclicked.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/clicked/ocmgkhfoojblkdeaciadnnhklblaldpk)
+* **Coda One** - AI detector, humanizer, rewriter and grammar checker for your writing in Chrome.
+  * Website: [codaone.ai](https://www.codaone.ai/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/codaone-ai-writing-assist/ieomknnokmlomhmpkkpdjibkmjpfodpp)
 * **Curfew** - Daily time budgets for the sites you choose, enforced at the network level, with a solved puzzle instead of a one-click off switch.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/obnikdokealeimpbhfbjhpdmfcgbgcje)
 * **Daily** - Replaces your new tab with curated latest dev articles.
