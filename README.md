@@ -208,6 +208,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Productivity
 *Apps to improve your productivity during your day*
 
+* **Open Stay Focused** - Shares daily time budgets across distracting websites with live countdowns, focus sessions, and local-only usage statistics.
+  * Website: [github.com/xingwudao/open-stay-focused](https://github.com/xingwudao/open-stay-focused)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/open-stay-focused/pmfcncldogcmehkdmoekagmlgcjcgpem)
 * **Level CFO** - Financial workflow guardrails, job execution visibility, and accounts receivable alerts by Level CFO.
   * Website: [levelcfo.com](https://levelcfo.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/level-cfo/eacbijcnmhhippfoplidhabjfamigdib)
