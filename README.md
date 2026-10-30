@@ -481,6 +481,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [retrowert.de](https://retrowert.de)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/llnmjaffkfdpkggjjdlkedpehpceeohe)
   * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/de/firefox/addon/retrowert/)
+* **Scento** - Shows the Scento sample price, rating and leading notes of the perfume you are reading about, plus search across 1,200+ scents. Free.
+  * Website: [scento.com](https://www.scento.com/chrome-extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nbajdejaaibikkkogefhkopbogchgjlh)
 
 ## Social & Communication
 *Facebook, Twitter, Google+, Pinterest and so on..*
