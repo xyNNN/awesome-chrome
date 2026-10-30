@@ -172,6 +172,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Trippi** - Open-source (MIT) reference build overlaying live translated captions on Google Meet, Zoom and Microsoft Teams. Captures the tab's own audio (no bot joins the call) via MV3 tabCapture and an offscreen AudioWorklet, then pipes it through Deepgram (speech-to-text) and DeepL (translation). No backend, no account — bring your own API keys.
   * Website: [gettrippi.app](https://gettrippi.app/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/eaheoieoelghhmebennamldmjmmfppjk)
+* **WatchTranslate** - Shows original and translated subtitles together on YouTube, X and Bilibili videos, and generates them from speech when a video has no captions.
+  * Website: [watchtranslate.com](https://watchtranslate.com/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/watchtranslate/hemeledljbicanlpncljagnllpojjjdo)
 * **yunit** - A browser extension that picks unfamiliar words on web pages, shows translations inline as you read, and keeps the words you mark into a personal lexicon.
   * Website: [yunit.app](https://yunit.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cepakncakkannhhpkihijledpkinnbef)
