@@ -231,6 +231,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bkobanajomgkmbcdkmmalfjdicidcajk)
 * **Altyst** - Sends the commercial real estate listing you are viewing to a full underwriting model in one click.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/altyst/dnikmojflfeemmggmgdoilcanhlkdkee)
+* **Atrium** - Replaces your new tab with slash commands, one search bar, world clocks and links in tabs and folders. Free, open source (MIT), no dependencies.
+  * Website: [github.com/dpichler-22/atrium](https://github.com/dpichler-22/atrium)
 * **CareClinic Tracker for Chrome** - Track symptoms, complete medication reminders, and review recent CareClinic trends from Chrome.
   * Website: [careclinic.io](https://careclinic.io)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hmbpfjdbcckaniiehodjdgbhhghpaeok)
