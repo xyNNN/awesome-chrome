@@ -140,6 +140,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Avorythm** - Open-source live AI dubbing and bilingual captions for a selected tab, with independent audio mixing and a buffered player. Bring your own Gemini API key.
   * Website: [msmahdinejad.github.io/avorythm](https://msmahdinejad.github.io/avorythm/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/avorythm-live-translation/kbdbbedijheicmmnmoidamdaodjbhjje)
+* **BelliedMonkey Translator** - GPL-3.0 open-source bilingual page translation that keeps the original paragraph with the translation underneath, plus dual video subtitles when a caption track exists; optional bring-your-own-key.
+  * Website: [belliedmonkey.cc](https://belliedmonkey.cc)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ilnmffeejeohomjelipejdldhkjeoinf)
 * **EarDub** - Turns YouTube captions into a synced AI voice-over in your language, with 75 dubbing languages and bilingual subtitles.
   * Website: [eardub.com](https://www.eardub.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jmlcanhchdeaepjfgdefjmbfmlkfhpeh)
