@@ -447,9 +447,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Signal by StackEnhance** - See how the online store you are on does email marketing: when it last emailed, how often it sends and its latest subject lines.
   * Website: [stackenhance.com](https://stackenhance.com/help/signal-chrome-extension)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mpfjcjihiidnighpfhmpoodigeedehkk)
-  * **NeverApply Autofill** - Fills job application forms from your resume, free and without an account, and lets you review before it submits.
-    * Website: [neverapply.co](https://neverapply.co)
-      * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/faocjhdgmjneijamjenhojhmnclhdhba)
+* **NeverApply Autofill** - Fills job application forms from your resume, free and without an account, and lets you review before it submits.
+  * Website: [neverapply.co](https://neverapply.co)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/faocjhdgmjneijamjenhojhmnclhdhba)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
