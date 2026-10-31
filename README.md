@@ -410,6 +410,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/njjmjcjjcplanbdliidknpaepifknohh)
 * **Vimium** - Provides keyboard-based navigation and control of the web in the spirit of the Vim editor.
   * Website: [github.com/philc/vimium](https://github.com/philc/vimium)
+* **Voqusa** - Turns TikTok, YouTube, Instagram, Facebook, X, LinkedIn and Pinterest videos into text transcripts in 14 languages, free and without signup.
+  * Website: [voqusa.com](https://www.voqusa.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/voqusa-social-video-trans/ifojkfjgiombchkkijefngjhgbmehhmo)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/dbepggeogbaibhgnhhndojpepiihcmeb)
 * **Waka Time** - Track your time on chrome automatically.
   * Website: [wakatime.com](https://www.wakatime.com/)
