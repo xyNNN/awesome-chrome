@@ -389,6 +389,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Tabli** - Provides fast switching between browser windows and tabs and the ability to save and restore windows.
   * Website: [gettabli.com](https://www.gettabli.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/igeehkedfibbnhbfponhjjplpkeomghi)
+* **Tabner** - Tab manager that turns open tabs into visual boards with coloured groups, saves a whole window as a session and searches saved tabs with Ctrl+K. Works locally without an account; optional sync. Free.
+  * Website: [tabner.es](https://tabner.es)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pclkcnonbckoajfpncncdghbhgfccmdi)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/tabner-your-smart-tab-manager/)
 * **Tabox** - Save tabs and tab groups into collections and reopen entire sessions in one click, with Google Drive sync and share-via-link. Free and open source.
   * Website: [tabox.co](https://tabox.co)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bdbliblipiempfdkkkjohnecmeknnpoa)
