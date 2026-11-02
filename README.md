@@ -125,6 +125,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **FontMeter** - Label every text style on a page and see the fonts that really render, the type scale and WCAG contrast, plus inspect, ruler and color picker. Free, runs locally.
   * Website: [fontmeter.dev](https://fontmeter.dev)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/efgmfhhliniddehjeojoppgpgenkaien)
+* **DiffSeek** - Groups GitHub pull request files by category, owner and format, hides generated files and tracks viewed progress.
+  * Website: [github.com/n8v-guy/diffseek](https://github.com/n8v-guy/diffseek)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lpohfkpkmaakdllgpognpjegifccnfec)
 
 ## Fun
 *Some awesome apps to pass time*
