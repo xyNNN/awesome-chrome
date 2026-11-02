@@ -172,6 +172,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hpclflniaodahnfkpbplebjakiedjlll)
 * **Subtitle Translator** - Hover any word in video subtitles for an on-device translation, save it with its sentence, and export to Anki, CSV, Excel or PDF.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/floomboamhlmkalghefpabefhciknllf)
+* **TranslateManga** - Translates manga, manhwa and comic images on the sites you read, erasing the original text and typesetting the translation inside the speech bubbles; also a web app for uploaded pages. 50+ languages, free tier with paid plans.
+  * Website: [translatemanga.net](https://translatemanga.net)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/manga-extension/ingknjcjpdbnhcimgfblggljmapfghhk)
 * **Trippi** - Open-source (MIT) reference build overlaying live translated captions on Google Meet, Zoom and Microsoft Teams. Captures the tab's own audio (no bot joins the call) via MV3 tabCapture and an offscreen AudioWorklet, then pipes it through Deepgram (speech-to-text) and DeepL (translation). No backend, no account — bring your own API keys.
   * Website: [gettrippi.app](https://gettrippi.app/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/eaheoieoelghhmebennamldmjmmfppjk)
