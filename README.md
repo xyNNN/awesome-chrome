@@ -507,7 +507,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **LinkedCraft** - Helps job seekers craft context-aware, engaging LinkedIn comments.
   * Website: [linkedcraft.io](https://linkedcraft.io)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/egaighlipohpcgaohlpemepnfeefhfpa)
-* [Riffwise](https://chromewebstore.google.com/detail/riffwise-%E2%80%94-ai-reply-gener/nmnmflphiibhdnnbghffjhclhlehelle) - Drafts replies for X, LinkedIn, Threads, Bluesky and Gmail, plus quote-post commentary for social posts. You review and edit each draft before inserting or copying; Riffwise never publishes automatically.
+* **Riffwise** - Drafts replies from posts on X, Threads, and Bluesky, and conversations in Gmail. Review, edit, then insert or copy; Riffwise never posts or sends automatically.
+  * Website: [riffwise.app](https://riffwise.app/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/riffwise-%E2%80%94-ai-reply-gener/nmnmflphiibhdnnbghffjhclhlehelle)
 * **ClearTok** - Helps TikTok users remove old reposts faster with a scan, review, and cleanup workflow.
   * Website: [cleartok.io](https://cleartok.io/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/kmellgkfemijicfcpndnndiebmkdginb)
