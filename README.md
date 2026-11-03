@@ -128,6 +128,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **DiffSeek** - Groups GitHub pull request files by category, owner and format, hides generated files and tracks viewed progress.
   * Website: [github.com/n8v-guy/diffseek](https://github.com/n8v-guy/diffseek)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lpohfkpkmaakdllgpognpjegifccnfec)
+* **Python Runner** - Runs Python scripts in a tab: the interpreter lives inside the extension, so it works offline with no server, no account and nothing uploaded. numpy and pandas are built in; requests and other pip packages are not available.
+  * Website: [pinwisp.com/python-runner](https://pinwisp.com/python-runner/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lioibcedpohmlcepmignijeddplkejpo)
 
 ## Fun
 *Some awesome apps to pass time*
