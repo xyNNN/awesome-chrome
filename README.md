@@ -219,6 +219,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [spoof-me.com](https://spoof-me.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki)
   * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/)
+* **Unseen: Email Tracker Blocker** - Blocks email tracking pixels in Gmail on the web, so senders can't see when you open their emails. Runs only on Gmail, no servers or analytics.
+  * Website: [laboskiriste.github.io/unseen](https://laboskiriste.github.io/unseen/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/fibpgcjlnnookmhclhpmhmajileledhd)
+  * Source: [github.com/laboskiriste/unseen](https://github.com/laboskiriste/unseen)
 
 ## Productivity
 *Apps to improve your productivity during your day*
