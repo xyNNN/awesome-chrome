@@ -470,6 +470,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **NeverApply Autofill** - Fills job application forms from your resume, free and without an account, and lets you review before it submits.
   * Website: [neverapply.co](https://neverapply.co)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/faocjhdgmjneijamjenhojhmnclhdhba)
+* **Mail2Action** - Summarizes long Gmail and Outlook Web email threads, pulls out action items with owners and due dates, and shows the thread as an indented reply tree.
+  * Website: [mail2action.com](https://mail2action.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mail2action-email-thread/laifdijpofgdieidbakcckadcpeiajae)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
