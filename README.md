@@ -559,6 +559,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **iFollowTracker for Instagram** - Side panel beside Instagram profiles with public follower, following and story insights; no Instagram password needed.
   * Website: [ifollowtracker.com](https://www.ifollowtracker.com/extension)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ifollowtracker-for-instag/ijhkhodnjfdogpidfpamkmghhfkfopgh)
+* **TalkAStranger Streamer Companion** - Real-time WebRTC broadcaster studio and side panel HUD for live chat, stream alerts, and creator community engagement.
+  * Website: [talkastranger.com](https://talkastranger.com/developers)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/aokphjocehbofbfkgcdpimiopbglajck)
+  * Source: [GitHub](https://github.com/umairkhan2582/talkastranger-streamer-extension)
 
 
 ## Sports
