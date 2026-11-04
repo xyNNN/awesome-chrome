@@ -261,6 +261,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Coda One** - AI detector, humanizer, rewriter and grammar checker for your writing in Chrome.
   * Website: [codaone.ai](https://www.codaone.ai/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/codaone-ai-writing-assist/ieomknnokmlomhmpkkpdjibkmjpfodpp)
+* **Compass Apply** - Fills job applications from your Compass OS profile, attaches your tailored resume and drafts open answers for you to review; it never submits.
+  * Website: [compass-os.dev](https://compass-os.dev/extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/compass-apply/lmbfdipbbnedcecbcgodhjechoangkng)
 * **Curfew** - Daily time budgets for the sites you choose, enforced at the network level, with a solved puzzle instead of a one-click off switch.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/obnikdokealeimpbhfbjhpdmfcgbgcje)
 * **Daily** - Replaces your new tab with curated latest dev articles.
