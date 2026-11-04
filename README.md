@@ -125,6 +125,12 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **FontMeter** - Label every text style on a page and see the fonts that really render, the type scale and WCAG contrast, plus inspect, ruler and color picker. Free, runs locally.
   * Website: [fontmeter.dev](https://fontmeter.dev)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/efgmfhhliniddehjeojoppgpgenkaien)
+* **DiffSeek** - Groups GitHub pull request files by category, owner and format, hides generated files and tracks viewed progress.
+  * Website: [github.com/n8v-guy/diffseek](https://github.com/n8v-guy/diffseek)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lpohfkpkmaakdllgpognpjegifccnfec)
+* **Python Runner** - Runs Python scripts in a tab: the interpreter lives inside the extension, so it works offline with no server, no account and nothing uploaded. numpy and pandas are built in; requests and other pip packages are not available.
+  * Website: [pinwisp.com/python-runner](https://pinwisp.com/python-runner/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lioibcedpohmlcepmignijeddplkejpo)
 
 ## Fun
 *Some awesome apps to pass time*
@@ -140,6 +146,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Avorythm** - Open-source live AI dubbing and bilingual captions for a selected tab, with independent audio mixing and a buffered player. Bring your own Gemini API key.
   * Website: [msmahdinejad.github.io/avorythm](https://msmahdinejad.github.io/avorythm/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/avorythm-live-translation/kbdbbedijheicmmnmoidamdaodjbhjje)
+* **BelliedMonkey Translator** - GPL-3.0 open-source bilingual page translation that keeps the original paragraph with the translation underneath, plus dual video subtitles when a caption track exists; optional bring-your-own-key.
+  * Website: [belliedmonkey.cc](https://belliedmonkey.cc)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ilnmffeejeohomjelipejdldhkjeoinf)
 * **EarDub** - Turns YouTube captions into a synced AI voice-over in your language, with 75 dubbing languages and bilingual subtitles.
   * Website: [eardub.com](https://www.eardub.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jmlcanhchdeaepjfgdefjmbfmlkfhpeh)
@@ -149,6 +158,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Interline** - Open-source bilingual webpage translation, selected-text lookup, and in-place draft translation with optional AI models.
   * Website: [github.com/eigenlux-ai/interline-translator](https://github.com/eigenlux-ai/interline-translator)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mcefogikngeheopmdmaapfgpnnlgcoid)
+* **Lexpad** - Saves a selected word, or a word clicked in YouTube subtitles, to a spaced-repetition vocabulary notebook with its sentence as the example; free extension, optional paid Pro plan.
+  * Website: [lexpad.app](https://lexpad.app/features/extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lexpad/cmadljhpbngcceagpjfladgjjjnegikk)
 * **Manga Translator** - Translates comic-page images in Chrome, with batch processing, previews, reader mode, and image export.
   * Website: [mangatranslate.com](https://www.mangatranslate.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/manga-translator/lalcidikgkhicibmghdbbpdhpelpdbdn)
@@ -166,9 +178,15 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hpclflniaodahnfkpbplebjakiedjlll)
 * **Subtitle Translator** - Hover any word in video subtitles for an on-device translation, save it with its sentence, and export to Anki, CSV, Excel or PDF.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/floomboamhlmkalghefpabefhciknllf)
+* **TranslateManga** - Translates manga, manhwa and comic images on the sites you read, erasing the original text and typesetting the translation inside the speech bubbles; also a web app for uploaded pages. 50+ languages, free tier with paid plans.
+  * Website: [translatemanga.net](https://translatemanga.net)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/manga-extension/ingknjcjpdbnhcimgfblggljmapfghhk)
 * **Trippi** - Open-source (MIT) reference build overlaying live translated captions on Google Meet, Zoom and Microsoft Teams. Captures the tab's own audio (no bot joins the call) via MV3 tabCapture and an offscreen AudioWorklet, then pipes it through Deepgram (speech-to-text) and DeepL (translation). No backend, no account — bring your own API keys.
   * Website: [gettrippi.app](https://gettrippi.app/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/eaheoieoelghhmebennamldmjmmfppjk)
+* **WatchTranslate** - Shows original and translated subtitles together on YouTube, X and Bilibili videos, and generates them from speech when a video has no captions.
+  * Website: [watchtranslate.com](https://watchtranslate.com/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/watchtranslate/hemeledljbicanlpncljagnllpojjjdo)
 * **yunit** - A browser extension that picks unfamiliar words on web pages, shows translations inline as you read, and keeps the words you mark into a personal lexicon.
   * Website: [yunit.app](https://yunit.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cepakncakkannhhpkihijledpkinnbef)
@@ -204,6 +222,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [spoof-me.com](https://spoof-me.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki)
   * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/)
+* **Unseen: Email Tracker Blocker** - Blocks email tracking pixels in Gmail on the web, so senders can't see when you open their emails. Runs only on Gmail, no servers or analytics.
+  * Website: [laboskiriste.github.io/unseen](https://laboskiriste.github.io/unseen/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/fibpgcjlnnookmhclhpmhmajileledhd)
+  * Source: [github.com/laboskiriste/unseen](https://github.com/laboskiriste/unseen)
 
 ## Productivity
 *Apps to improve your productivity during your day*
@@ -222,6 +244,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bkobanajomgkmbcdkmmalfjdicidcajk)
 * **Altyst** - Sends the commercial real estate listing you are viewing to a full underwriting model in one click.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/altyst/dnikmojflfeemmggmgdoilcanhlkdkee)
+* **Atrium** - Replaces your new tab with slash commands, one search bar, world clocks and links in tabs and folders. Free, open source (MIT), no dependencies.
+  * Website: [github.com/dpichler-22/atrium](https://github.com/dpichler-22/atrium)
 * **CareClinic Tracker for Chrome** - Track symptoms, complete medication reminders, and review recent CareClinic trends from Chrome.
   * Website: [careclinic.io](https://careclinic.io)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hmbpfjdbcckaniiehodjdgbhhghpaeok)
@@ -375,6 +399,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Tabli** - Provides fast switching between browser windows and tabs and the ability to save and restore windows.
   * Website: [gettabli.com](https://www.gettabli.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/igeehkedfibbnhbfponhjjplpkeomghi)
+* **Tabner** - Tab manager that turns open tabs into visual boards with coloured groups, saves a whole window as a session and searches saved tabs with Ctrl+K. Works locally without an account; optional sync. Free.
+  * Website: [tabner.es](https://tabner.es)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pclkcnonbckoajfpncncdghbhgfccmdi)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/tabner-your-smart-tab-manager/)
 * **Tabox** - Save tabs and tab groups into collections and reopen entire sessions in one click, with Google Drive sync and share-via-link. Free and open source.
   * Website: [tabox.co](https://tabox.co)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bdbliblipiempfdkkkjohnecmeknnpoa)
@@ -400,6 +428,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Vimium** - Provides keyboard-based navigation and control of the web in the spirit of the Vim editor.
   * Website: [github.com/philc/vimium](https://github.com/philc/vimium)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/dbepggeogbaibhgnhhndojpepiihcmeb)
+* **Voqusa** - Turns TikTok, YouTube, Instagram, Facebook, X, LinkedIn and Pinterest videos into text transcripts in 14 languages, free and without signup.
+  * Website: [voqusa.com](https://www.voqusa.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/voqusa-social-video-trans/ifojkfjgiombchkkijefngjhgbmehhmo)
 * **Waka Time** - Track your time on chrome automatically.
   * Website: [wakatime.com](https://www.wakatime.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jnbbnacmeggbgdjgaoojpmhdlkkpblgi)
@@ -436,6 +467,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Signal by StackEnhance** - See how the online store you are on does email marketing: when it last emailed, how often it sends and its latest subject lines.
   * Website: [stackenhance.com](https://stackenhance.com/help/signal-chrome-extension)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mpfjcjihiidnighpfhmpoodigeedehkk)
+* **NeverApply Autofill** - Fills job application forms from your resume, free and without an account, and lets you review before it submits.
+  * Website: [neverapply.co](https://neverapply.co)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/faocjhdgmjneijamjenhojhmnclhdhba)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
@@ -472,6 +506,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [retrowert.de](https://retrowert.de)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/llnmjaffkfdpkggjjdlkedpehpceeohe)
   * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/de/firefox/addon/retrowert/)
+* **Scento** - Shows the Scento sample price, rating and leading notes of the perfume you are reading about, plus search across 1,200+ scents. Free.
+  * Website: [scento.com](https://www.scento.com/chrome-extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nbajdejaaibikkkogefhkopbogchgjlh)
 
 ## Social & Communication
 *Facebook, Twitter, Google+, Pinterest and so on..*
@@ -524,8 +561,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ifollowtracker-for-instag/ijhkhodnjfdogpidfpamkmghhfkfopgh)
 * **TalkAStranger Streamer Companion** - Real-time WebRTC broadcaster studio and side panel HUD for live chat, stream alerts, and creator community engagement.
   * Website: [talkastranger.com](https://talkastranger.com/developers)
-  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/talkastranger-streamer-co/aokphjocehbofbfkgcdpimiopbglajck)
-  * GitHub: [umairkhan2582/talkastranger-streamer-extension](https://github.com/umairkhan2582/talkastranger-streamer-extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/aokphjocehbofbfkgcdpimiopbglajck)
+  * Source: [GitHub](https://github.com/umairkhan2582/talkastranger-streamer-extension)
+
 
 ## Sports
 *Keep on track with your favorite sports club*
