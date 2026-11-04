@@ -434,6 +434,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Waka Time** - Track your time on chrome automatically.
   * Website: [wakatime.com](https://www.wakatime.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jnbbnacmeggbgdjgaoojpmhdlkkpblgi)
+* **Watch YouTube Highlights** - Plays AI-selected passages from captioned YouTube videos in the original player, with timestamps and full-video context. Freemium with one shared successful AI request per UTC day per stored browser account.
+  * Website: [funcove.dev/watchhighlights](https://funcove.dev/watchhighlights/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/watch-youtube-highlights/gjgafcgbbiofiggblecfihaklidijjdf)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/watchhighlights-for-youtube/)
 * **Word Counter Plus** - A simple and accurate word counter.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/word-counter-plus/ockonfdfcanonnajjchhapbiahlhjeej)
 * **ZenHub** - Project management inside GitHub.
