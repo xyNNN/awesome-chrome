@@ -480,6 +480,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Mail2Action** - Summarizes long Gmail and Outlook Web email threads, pulls out action items with owners and due dates, and shows the thread as an indented reply tree.
   * Website: [mail2action.com](https://mail2action.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mail2action-email-thread/laifdijpofgdieidbakcckadcpeiajae)
+* **KeepFinding** - Save the page you are on to your KeepFinding read-later library, then find it again by search or suggestion; import a Pocket or Raindrop export on the site.
+  * Website: [keepfind.ing](https://keepfind.ing)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ppncapceplimbjlofojdebbfdnejckib)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
