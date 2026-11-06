@@ -131,6 +131,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Python Runner** - Runs Python scripts in a tab: the interpreter lives inside the extension, so it works offline with no server, no account and nothing uploaded. numpy and pandas are built in; requests and other pip packages are not available.
   * Website: [pinwisp.com/python-runner](https://pinwisp.com/python-runner/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lioibcedpohmlcepmignijeddplkejpo)
+* **CurlyJSON** - Opens JSON responses as a searchable tree, keeps 64-bit IDs exact, copies value paths and flags API keys before you share. No tracking.
+  * Website: [curlyjson.com](https://curlyjson.com/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cdmifjhednliaikgklceaoifkpcjdonj)
 
 ## Fun
 *Some awesome apps to pass time*
