@@ -578,6 +578,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **iFollowTracker for Instagram** - Side panel beside Instagram profiles with public follower, following and story insights; no Instagram password needed.
   * Website: [ifollowtracker.com](https://www.ifollowtracker.com/extension)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ifollowtracker-for-instag/ijhkhodnjfdogpidfpamkmghhfkfopgh)
+* **GlowCam** - Natural-looking AI beauty filter for browser video calls on Google Meet, Zoom, Teams, Webex, Whereby and Discord, processed on your device.
+  * Website: [imagera.ai/glowcam](https://imagera.ai/glowcam)
+  * Chrome Web Store: [GlowCam](https://chromewebstore.google.com/detail/imagera-ai-presents-glowc/jgelcjbncndabncbjglfdmeeiddnnnlm)
 
 
 ## Sports
