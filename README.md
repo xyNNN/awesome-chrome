@@ -581,6 +581,11 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **GlowCam** - Natural-looking AI beauty filter for browser video calls on Google Meet, Zoom, Teams, Webex, Whereby and Discord, processed on your device.
   * Website: [imagera.ai/glowcam](https://imagera.ai/glowcam)
   * Chrome Web Store: [GlowCam](https://chromewebstore.google.com/detail/imagera-ai-presents-glowc/jgelcjbncndabncbjglfdmeeiddnnnlm)
+* **anon.li** - Creates email aliases that forward to your inbox, manages end-to-end encrypted file drops and shares QR codes. Open source (AGPL-3.0).
+  * Website: [anon.li](https://anon.li/extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ieepggikhdopllhlbdndnlmoflhaeohp)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/anon-li/)
+  * Source: [GitHub](https://github.com/anondotli/extension)
 
 
 ## Sports
