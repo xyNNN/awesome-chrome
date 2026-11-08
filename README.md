@@ -214,6 +214,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **isGenAI** - Right-click any web image to read its Content Credentials (C2PA), AI labels and saved generation prompts in a side panel. Free, no account.
   * Website: [isgenai.com](https://isgenai.com/browser-extension)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pgcnmndbnkkgifmopgnefnlebklnfbbb)
+* **PixLasso** - Saves every image on a page, or across open tabs, at the largest size it can find, in one ZIP. Can convert to JPG, PNG or WebP locally. Free up to 30 files per batch.
+  * Website: [pixlasso.com](https://pixlasso.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/plmojdihjlobobaddaacoojdkikdkppb)
 
 ## Privacy & Networking
 *Extensions that decide how your browser reaches the network*
