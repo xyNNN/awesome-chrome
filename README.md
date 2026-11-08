@@ -235,7 +235,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * **KaijuConverter** - Fast universal media and file converter extension supporting PDF, documents, audio, video, and images directly from Chrome.
   * Website: [kaijuconverter.com](https://kaijuconverter.com)
-  * GitHub: [github.com/PabloCirre/kaijuconverter-extension](https://github.com/PabloCirre/kaijuconverter-extension)
+  * Source: [GitHub](https://github.com/PabloCirre/kaijuconverter-extension)
 * **Open Stay Focused** - Shares daily time budgets across distracting websites with live countdowns, focus sessions, and local-only usage statistics.
   * Website: [github.com/xingwudao/open-stay-focused](https://github.com/xingwudao/open-stay-focused)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/open-stay-focused/pmfcncldogcmehkdmoekagmlgcjcgpem)
