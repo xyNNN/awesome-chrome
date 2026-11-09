@@ -298,6 +298,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Ghostery** - Protect your privacy by seeing who's tracking your web browsing with Ghostery.
   * Website: [ghostery.com](https://www.ghostery.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mlomiejdfkolichcflejclcbmpeaniij)
+* **Glasp** - Web highlighter that saves highlights from web pages, PDFs and YouTube, with export to Notion, Obsidian and Zotero.
+  * Website: [glasp.co](https://glasp.co)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/blillmbchncajnhkjfdnincfndboieik)
 * **GradeSim** - UPLB grade calculator and GWA simulator for Chrome and Firefox; forecast course grades and Latin honors targets.
   * Website: [gradesim.uplbtools.me](https://gradesim.uplbtools.me/)
   * Source: [github.com/uplbtools/gradesim](https://github.com/uplbtools/gradesim)
