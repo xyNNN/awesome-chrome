@@ -143,6 +143,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bnomihfieiccainjcjblhegjgglakjdd)
 * **Stockfish Continue to Play** - When a Chess.com game ends, keep playing the position against Stockfish on the same board.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jhjcnpomgjakflfjjhlgilgpffmfbcbk)
+* **Pixel Art Color by Number** - Relaxing color-by-number with hundreds of free pixel art pictures. No ads, no sign-up, works offline.
+  * Website: [simplepixelart.com](https://simplepixelart.com/color-by-number)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hellpcacohmobfpileciocbpbojljpec)
 
 ## Language & Translation
 *Learn languages and translate content while browsing*
