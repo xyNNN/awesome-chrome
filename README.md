@@ -220,6 +220,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **PixLasso** - Saves every image on a page, or across open tabs, at the largest size it can find, in one ZIP. Can convert to JPG, PNG or WebP locally. Free up to 30 files per batch.
   * Website: [pixlasso.com](https://pixlasso.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/plmojdihjlobobaddaacoojdkikdkppb)
+* **Wiro AI** - Right-click any image to edit, upscale or animate it with the AI model you pick, in a side panel that shows the price first. Also works on video, audio clips and selected text.
+  * Website: [wiro.ai](https://wiro.ai/browser-extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cehkhdmppbnfeahegjjkdhangjelehab)
+  * Source: [GitHub](https://github.com/wiroai/Wiro-Chromium-Extension)
 
 ## Privacy & Networking
 *Extensions that decide how your browser reaches the network*
