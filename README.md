@@ -261,6 +261,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Chat Organizer** - Auto-sorts your Claude.ai and ChatGPT chats into projects in one click, using keyword matching and AI. Free, no API key or account needed.
   * Website: [chat-organizer.com](https://chat-organizer.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bipbaacophbcpboieghjoigjlbemchcm)
+* **ChatOutline Pro** - Floating table of contents, 1-click Markdown exporter, and Code Hub for ChatGPT, Claude, Gemini, and DeepSeek.
+  * Website: [samlu574.github.io/chatoutline-pro](https://samlu574.github.io/chatoutline-pro/)
+  * Microsoft Edge Add-ons: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/mmnmfeljpmjdpmpbelhnebldimmoaokb)
+  * Source: [GitHub](https://github.com/SamLu574/chatoutline-pro)
 * **CiteMe** - Academic citation generator. Searches 10+ databases and formats references in 60 curated citation styles (APA, ABNT, MLA, Chicago). Includes a reference checker for existing bibliographies. Available as a web app and Chrome extension.
   * Website: [citeme.app](https://citeme.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/dgengdhgpegcpljnmkeehlmfabmljfhp)
