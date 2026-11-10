@@ -220,6 +220,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **PixLasso** - Saves every image on a page, or across open tabs, at the largest size it can find, in one ZIP. Can convert to JPG, PNG or WebP locally. Free up to 30 files per batch.
   * Website: [pixlasso.com](https://pixlasso.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/plmojdihjlobobaddaacoojdkikdkppb)
+* **Origrab** - Bulk image downloader: saves every image on a page as a single ZIP, using the full-size originals instead of thumbnails.
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/origrab-bulk-image-downlo/bmafbkjjmmcmckabcibobnicmfafpmmg)
 
 ## Privacy & Networking
 *Extensions that decide how your browser reaches the network*
