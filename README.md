@@ -481,6 +481,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Table Export** - Export HTML tables on any page to CSV, TSV or the clipboard for Google Sheets and Excel, with merged cells kept in place; optional paid Pro adds XLSX.
   * Website: [infora.pages.dev](https://infora.pages.dev)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/femgkomaciokgbiblinficgmceplpmmd)
+* **Table to Excel** - Export any HTML table on a page to a clean Excel or CSV file, including tables inside iframes and div-based grids, with real numbers, real dates and leading zeros kept; runs locally, optional one-time Pro.
+  * Website: [ludovez93.github.io/bottone-esporta](https://ludovez93.github.io/bottone-esporta/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/heiihlboddffjcbfmcfokgilkoecloph?utm_source=awesome-chrome)
 * **SheetSpeed** - Excel-style keyboard shortcuts and trace precedents for Google Sheets, plus PowerPoint-style shortcuts for Google Slides.
   * Website: [sheetspeed.agi-jarvis.com](https://sheetspeed.agi-jarvis.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ljlmgielacploapelnjhodicgbjipcaa)
