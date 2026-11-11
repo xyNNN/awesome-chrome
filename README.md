@@ -351,6 +351,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Not for You** - Removes the algorithm from every major social media platform. Turns off the recommendation feeds on YouTube, Instagram, TikTok, X, Reddit, LinkedIn, Threads and Facebook, so the platforms stop deciding what you see.
   * Website: [notforyou.app](https://notforyou.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pakdneaipkfgaahgbafblmdebfoadjca)
+* **OffLadder CV** - Side panel that checks a job post against your CV, tailors your CV and cover letter to it, fills the application form for you to review and submit, and keeps track of each job.
+  * Website: [offladder.com](https://offladder.com/cv)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gldilkfnnfkjohfianhhiekbllomfpmk)
 * **Offline Spell Check for Web Pages** - Finds misspelled words on any page, fully offline, with no access to your browsing data.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/degpnnjbkannnfpcdlppeiheiheoglen)
 * **OneNote Web Clipper** - Save anything on the web to OneNote. Clip it to OneNote, organize and edit it, then access it from any device.
