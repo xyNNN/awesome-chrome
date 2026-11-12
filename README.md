@@ -90,6 +90,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hjjchbgenhmnndipngamcilolaahgngc)
 * **Browy** - Open-source AI agent that lives in the side panel and DevTools and drives real browser tabs through chat. Includes a DevTools CLI for power users.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/iondecjdokngnlkfpipgolgkfegpmjca)
+* **Chat Export** - Chrome MV3 extension for local export of ChatGPT, Claude, Grok, and Copilot chats; pairs with a local MCP server for agent list, export, create, and ask on logged-in sessions.
+  * Website: [github.com/svergio/chat-export-extension](https://github.com/svergio/chat-export-extension)
 * **React Debugger** - Chrome DevTools panel unifying React Timeline, Performance, Memory, Side Effects, Redux, CLS, and AI-powered analysis into a single tab.
   * Website: [github.com/hoainho/react-debugger-extension](https://github.com/hoainho/react-debugger-extension)
 * **Agent Browser Shield** - Sits between an AI agent and web pages, masking PII/credentials, blocking prompt injection, and stripping dark patterns before the page reaches the model.
