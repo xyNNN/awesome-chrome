@@ -224,6 +224,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/plmojdihjlobobaddaacoojdkikdkppb)
 * **Origrab** - Bulk image downloader: saves every image on a page as a single ZIP, using the full-size originals instead of thumbnails.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/origrab-bulk-image-downlo/bmafbkjjmmcmckabcibobnicmfafpmmg)
+* **Wiro AI** - Right-click any image to edit, upscale or animate it with the AI model you pick, in a side panel that shows the price first. Also works on video, audio clips and selected text.
+  * Website: [wiro.ai](https://wiro.ai/browser-extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cehkhdmppbnfeahegjjkdhangjelehab)
+  * Source: [GitHub](https://github.com/wiroai/Wiro-Chromium-Extension)
 
 ## Privacy & Networking
 *Extensions that decide how your browser reaches the network*
