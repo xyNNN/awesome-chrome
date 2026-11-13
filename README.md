@@ -388,6 +388,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/oecbfdgpeigoogoehhkffgpnmiepeefe)
 * **QC Smart Reader** - Captures web pages, PDFs, and public YouTube captions into a local evidence graph with exact-quote claim review.
   * Website: [github.com/vyang472/qc-smart-reader-extension](https://github.com/vyang472/qc-smart-reader-extension)
+* **QRdx** - Shows a styled QR code for the current tab, a link, an image or selected text, with PNG and SVG downloads.
+  * Website: [qrdx.dev](https://qrdx.dev)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bpepiomjdoicpmbihlohodghdglkhicc)
+  * Source: [github.com/bucharitesh/qrdx](https://github.com/bucharitesh/qrdx/tree/main/plugins/chrome)
 * **Reddit Enhancement Suite** - A suite of modules that enhance your Reddit browsing experience.
   * Website: [redditenhancementsuite.com](https://redditenhancementsuite.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/kbmfpngjjgdllneeigpgjifpgocmfgmb)
