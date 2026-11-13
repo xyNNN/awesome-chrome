@@ -195,6 +195,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **WatchTranslate** - Shows original and translated subtitles together on YouTube, X and Bilibili videos, and generates them from speech when a video has no captions.
   * Website: [watchtranslate.com](https://watchtranslate.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/watchtranslate/hemeledljbicanlpncljagnllpojjjdo)
+* **WordLinea** - Dual subtitles on YouTube, Netflix and other video sites; a word you look up in them is saved with its line and the exact second, then comes back as a review question.
+  * Website: [wordlinea.com](https://wordlinea.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/madndjlafpnkafpncinepeabdeokcpfd)
 * **yunit** - A browser extension that picks unfamiliar words on web pages, shows translations inline as you read, and keeps the words you mark into a personal lexicon.
   * Website: [yunit.app](https://yunit.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cepakncakkannhhpkihijledpkinnbef)
