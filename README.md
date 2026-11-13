@@ -531,6 +531,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [askomni.app/keyword-lantern](https://askomni.app/keyword-lantern)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/biajdjnbnnnjmbfnloooijkhiieblkff)
 
+* **Canlah GEO — AI Answer Monitor** - Asks ChatGPT and Google AI Overviews the questions your buyers type, then shows whether the answer names you, who it names instead, and which sources it cites. Early access.
+  * Website: [canlah.ai/extension](https://canlah.ai/extension/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nlnjojaopgdmonojgkhnmjaeeopkpmco)
+
 ## Shopping
 *Online shopping can be an addiction*
 
