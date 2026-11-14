@@ -175,6 +175,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Mirlo** - Learn a language while you browse — replaces words on pages with the language you're learning. On-device translation via Chrome's Translator API, no tracking.
   * Website: [github.com/BoxcarsAI/mirlo](https://github.com/BoxcarsAI/mirlo)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bolaihmnmcaedodmcempenkddbkolaih)
+* **Phrase Flip** - Replaces a customizable percentage of sentences on webpages with on-device translations in your target language; hover to reveal the original.
+  * Website: [phraseflip.com](https://phraseflip.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/phrase-flip/clkfmkjdahoaicedhpmefjfehdgncadl)
 * **Read Frog** - Open-source AI-powered language learning with bilingual translation, article analysis, and vocabulary tools. Supports 80+ languages.
   * Website: [readfrog.app](https://readfrog.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/modkelfkcfjpgbfmnbnllalkiogfofhb)
