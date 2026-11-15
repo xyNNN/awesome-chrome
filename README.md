@@ -483,6 +483,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/watchhighlights-for-youtube/)
 * **Word Counter Plus** - A simple and accurate word counter.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/word-counter-plus/ockonfdfcanonnajjchhapbiahlhjeej)
+* **Yellow Tomato** - Pomodoro timer that blocks the sites you pick during focus sessions, with tasks, focus sounds, streaks and stats. Free, no account.
+  * Website: [yellowtomato.app](https://yellowtomato.app)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/yellow-tomato-%E2%80%94-pomodoro/oeadnackbbpmhlefkdcpeknplmcbhnbj)
 * **ZenHub** - Project management inside GitHub.
   * Website: [zenhub.com](https://www.zenhub.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ogcgkffhplmphkaahpmffcafajaocjbd)
