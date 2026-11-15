@@ -526,6 +526,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **KeepFinding** - Save the page you are on to your KeepFinding read-later library, then find it again by search or suggestion; import a Pocket or Raindrop export on the site.
   * Website: [keepfind.ing](https://keepfind.ing)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ppncapceplimbjlofojdebbfdnejckib)
+* **YouTube Transcript: AI Summary & Chat** - Shows a YouTube video as a timestamped transcript, with key points and chat about the video. Free AI credits available.
+  * Website: [getyoutubetranscript.com](https://getyoutubetranscript.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
