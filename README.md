@@ -545,6 +545,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [canlah.ai/extension](https://canlah.ai/extension/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nlnjojaopgdmonojgkhnmjaeeopkpmco)
 
+  * * **GSC Vault** - Find unindexed pages and keep Search Console data forever — check per-page queries, indexing status and full-history trends, and back up Search Console data to your own Google Drive.
+    *   * Website: [gscvault.app](https://gscvault.app)
+        *   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gsc-vault-%E2%80%93-google-indexi/hjakhbgnfhibcoglhfdcmfjeebakfkhn)
+
 ## Shopping
 *Online shopping can be an addiction*
 
