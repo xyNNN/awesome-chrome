@@ -546,7 +546,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nlnjojaopgdmonojgkhnmjaeeopkpmco)
 * **GSC Vault** - Find unindexed pages and keep Search Console data forever.
   * Website: [gscvault.app](https://gscvault.app)
-        * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gsc-vault-%E2%80%93-google-indexi/hjakhbgnfhibcoglhfdcmfjeebakfkhn)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gsc-vault-%E2%80%93-google-indexi/hjakhbgnfhibcoglhfdcmfjeebakfkhn)
 
 ## Shopping
 *Online shopping can be an addiction*
