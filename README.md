@@ -454,6 +454,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Tabs Outliner** - Session manager.
   * Website: [tabsoutliner.com](https://tabsoutliner.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/eggkanocgddhmamlbiijnphhppkpkmkl)
+* **Tabwell** - Save and restore Chrome windows with their tab groups using local snapshot storage. Free plan with optional Pro features.
+  * Website: [tabwell.org](https://tabwell.org/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/tabwell/ckkifiiepifeihfoblhhjmbigjcjpfdk)
 * **Tampermonkey** - The world's most popular userscript manager.
   * Website: [tampermonkey.net](https://www.tampermonkey.net/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
