@@ -596,6 +596,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **LinkedCraft** - Helps job seekers craft context-aware, engaging LinkedIn comments.
   * Website: [linkedcraft.io](https://linkedcraft.io)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/egaighlipohpcgaohlpemepnfeefhfpa)
+* **LinkedIn Company Filter** - Hide LinkedIn feed posts, job listings, and people suggestions from specific companies, with a connections cleanup helper. Open-source Manifest V3 extension (MIT).
+  * Website: [github.com/fabianimv/linkedin-company-filter](https://github.com/fabianimv/linkedin-company-filter)
 * **Riffwise** - Drafts replies for X, Threads, Bluesky, and Gmail; you review before inserting or copying.
   * Website: [riffwise.app](https://riffwise.app/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/riffwise-%E2%80%94-ai-reply-gener/nmnmflphiibhdnnbghffjhclhlehelle)
