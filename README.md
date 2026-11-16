@@ -572,6 +572,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Scento** - Shows the Scento sample price, rating and leading notes of the perfume you are reading about, plus search across 1,200+ scents. Free.
   * Website: [scento.com](https://www.scento.com/chrome-extension)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nbajdejaaibikkkogefhkopbogchgjlh)
+* **ShrinkWatch EU** - Shows the price per kg or litre on European supermarket web shops and warns when a pack got smaller for the same price. Local-only, no account.
+  * Website: [github.com/emirmrkaljevic/shrinkwatch-eu](https://github.com/emirmrkaljevic/shrinkwatch-eu)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/shrinkwatch-eu/)
 
 ## Social & Communication
 *Facebook, Twitter, Google+, Pinterest and so on..*
