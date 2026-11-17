@@ -588,6 +588,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Social & Communication
 *Facebook, Twitter, Google+, Pinterest and so on..*
 
+* **Muffle** - Turn off the X (Twitter) feed and keep posting, replies and DMs. Free, with a $19/year licence for filters, unfollowers and bookmark search.
+  * Website: [usemuffle.com](https://usemuffle.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/egkgmobnbepjpidiachiaboijmpmgmkl)
 * **snipandshare** - Tweet the best bits of the web using our Chrome extension.
   * Website: [snipandshare.com](http://www.snipandshare.com)
 * **Privacy Badger** - Protects you from trackers as you surf the web.
