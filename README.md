@@ -535,6 +535,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **YouTube Transcript: AI Summary & Chat** - Shows a YouTube video as a timestamped transcript, with key points and chat about the video. Free AI credits available.
   * Website: [getyoutubetranscript.com](https://getyoutubetranscript.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd)
+* **YTMusic Layout Reorg** - Reorganizes the YouTube Music web interface by moving Up Next to the left sidebar, keeping Lyrics in the right panel, and placing navigation in the top bar.
+  * Website: [github.com/fabianimv/ytmusic-layout-reorg](https://github.com/fabianimv/ytmusic-layout-reorg)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
