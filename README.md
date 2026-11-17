@@ -553,6 +553,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Canlah GEO — AI Answer Monitor** - Asks ChatGPT and Google AI Overviews the questions your buyers type, then shows whether the answer names you, who it names instead, and which sources it cites. Early access.
   * Website: [canlah.ai/extension](https://canlah.ai/extension/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nlnjojaopgdmonojgkhnmjaeeopkpmco)
+* **GSC Vault** - Find unindexed pages and keep Search Console data forever.
+  * Website: [gscvault.app](https://gscvault.app)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gsc-vault-%E2%80%93-google-indexi/hjakhbgnfhibcoglhfdcmfjeebakfkhn)
 
 ## Shopping
 *Online shopping can be an addiction*
