@@ -234,6 +234,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [wiro.ai](https://wiro.ai/browser-extension)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cehkhdmppbnfeahegjjkdhangjelehab)
   * Source: [GitHub](https://github.com/wiroai/Wiro-Chromium-Extension)
+* **AntShot** - Full-page screenshots, including tables and lists that scroll inside a page, saved as PNG, JPG or PDF on your device.
+  * Website: [antshot.com](https://antshot.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/goeepifppifejnjicphhhhjdcpkdombj)
 
 ## Privacy & Networking
 *Extensions that decide how your browser reaches the network*
