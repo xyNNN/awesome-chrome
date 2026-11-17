@@ -338,6 +338,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nmmkncnnggchmnoinmpoockpdpboonkj)
 * **gTabs** - AI-powered tab organizer with smart groups that learn your habits, 8 LLM providers including local Ollama, one-click undo, scheduled re-org, and duplicate finder.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gtabs-ai-tab-organizer/hcpbchmdcjbgbmjihnenbfalepcdncnb)
+* **Kliplet** - Clip web pages or selected text to Markdown files. Free plan with optional paid features.
+  * Website: [kliplet.com](https://kliplet.com/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/kliplet/japclepfabgfnmfbekominhnfjghenlm)
 * **LastPass** - Saves your passwords and gives you secure access from every computer and mobile device
   * Website: [lastpass.com](https://www.lastpass.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hdokiejnpimakedhajhdlcegeplioahd)
