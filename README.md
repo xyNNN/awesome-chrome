@@ -184,6 +184,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Rolko** - Look up Chinese words on webpages and supported video subtitles; paid plans enable saving new words for spaced-repetition review.
   * Website: [rolko.xyz](https://rolko.xyz)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cjhnmkfdcdbhgfihggeholgjjhgmenbn)
+* **RuneManga** - Translates manga, manhwa and webtoon pages on the sites you read, erasing the original text and lettering the translation into the speech bubbles. 93 target languages, free daily credits with paid plans.
+  * Website: [runemanga.com](https://runemanga.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/runemanga/cmclohfalopabbnmeoocelikbibbpppn)
 * **SayItVid** - Look up English words in authentic video clips with synchronized subtitles, IPA phonetic transcriptions, and syllable stress.
   * Website: [sayitvid.com](https://sayitvid.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hpclflniaodahnfkpbplebjakiedjlll)
