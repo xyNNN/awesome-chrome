@@ -694,6 +694,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Source: [GitHub](https://github.com/anondotli/extension)
 * **Vouch** - Sign and verify Hacker News comments.
   * Website: [vouch.rodneygainous.com](https://vouch.rodneygainous.com)
+* **Creel** - Exports your X (Twitter) bookmarks with folders, likes, posts, followers and lists to CSV, Excel and JSON, locally in your browser. Free up to 1,000 records per export; paid plans are one-time.
+  * Website: [ensoullab.com/extensions/creel](https://ensoullab.com/extensions/creel)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/beildllmkhjnebibpaenchhkoalacgkk)
 
 
 ## Sports
