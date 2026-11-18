@@ -505,6 +505,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Agentic Workflow (AWFlow)** - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
   * Website: [awflow.io](https://awflow.io)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/linlkeaipfpnhddjkpcbmldionajfifa)
+* **Pexi** - AI browser agent for research and tasks across shared Chrome tabs. Requires a card-backed trial and your own AI API key.
+  * Website: [pexibot.com](https://pexibot.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hmilmocmhfcnkaodecjpknjgfeegepoo)
 * **Good Friction for LinkedIn** - Returns the moment of choice to the LinkedIn feed — a session timer and pagination break ask if you want to keep going; a nudge, not a blocker.
   * Website: [zenist.org/goodfriction](https://www.zenist.org/goodfriction/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pdfjkpikhloefplbcbmcaloiaiohgjfp)
