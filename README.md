@@ -207,6 +207,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **yunit** - A browser extension that picks unfamiliar words on web pages, shows translations inline as you read, and keeps the words you mark into a personal lexicon.
   * Website: [yunit.app](https://yunit.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cepakncakkannhhpkihijledpkinnbef)
+* **Twinline** - Shows Chinese translations below existing YouTube subtitles and translates web pages paragraph by paragraph, with an on-device option in Chrome.
+  * Website: [hidaydream.cloud](https://hidaydream.cloud/twinline/en/?utm_source=github_awesome_chrome_xynnn)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/twinline/dnpdkhjoephecffekgldnaooolnffeih)
 
 ## Photos
 *Some cool stuff to work with your photos*
