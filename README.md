@@ -148,6 +148,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Pixel Art Color by Number** - Relaxing color-by-number with hundreds of free pixel art pictures. No ads, no sign-up, works offline.
   * Website: [simplepixelart.com](https://simplepixelart.com/color-by-number)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hellpcacohmobfpileciocbpbojljpec)
+* **TransposeAny** - Learn songs from YouTube and Spotify with live chords, key change, slow down, beat-aligned A-B loop and EQ.
+  * Website: [transposeany.com](https://www.transposeany.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/kflcnmmlinpcnfklgmblgkhddfhkjmba)
 
 ## Language & Translation
 *Learn languages and translate content while browsing*
