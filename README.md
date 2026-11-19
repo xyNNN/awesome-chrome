@@ -667,6 +667,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ieepggikhdopllhlbdndnlmoflhaeohp)
   * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/anon-li/)
   * Source: [GitHub](https://github.com/anondotli/extension)
+* **Vouch** - Sign and verify Hacker News comments.
+  * Website: [vouch.rodneygainous.com](https://vouch.rodneygainous.com)
 
 
 ## Sports
