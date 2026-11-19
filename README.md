@@ -667,6 +667,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ieepggikhdopllhlbdndnlmoflhaeohp)
   * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/anon-li/)
   * Source: [GitHub](https://github.com/anondotli/extension)
+* **Creel** - Exports your X (Twitter) bookmarks with folders, likes, posts, followers and lists to CSV, Excel and JSON, locally in your browser. Free up to 1,000 records per export; paid plans are one-time.
+  * Website: [ensoullab.com/extensions/creel](https://ensoullab.com/extensions/creel)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/beildllmkhjnebibpaenchhkoalacgkk?utm_source=awesome-chrome&utm_medium=directory&utm_campaign=listing)
 
 
 ## Sports
