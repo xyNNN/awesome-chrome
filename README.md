@@ -136,6 +136,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **CurlyJSON** - Opens JSON responses as a searchable tree, keeps 64-bit IDs exact, copies value paths and flags API keys before you share. No tracking.
   * Website: [curlyjson.com](https://curlyjson.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cdmifjhednliaikgklceaoifkpcjdonj)
+* **Optia** - Scores a page's on-page SEO from 0 to 100 for a target keyword and lists fixes by priority, with optional AI suggestions for titles, meta descriptions and alt text. Free, with a paid Pro tier.
+  * Website: [pmds.info/products/optia](https://pmds.info/products/optia)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/optia/gnlidlpidaoalbbmekofjednjkhhmehn)
+  * Source: [GitHub](https://github.com/PMDevSolutions/Optia)
 
 ## Fun
 *Some awesome apps to pass time*
