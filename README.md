@@ -250,6 +250,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Privacy & Networking
 *Extensions that decide how your browser reaches the network*
 
+* **Mailshade** - Blocks known email tracking pixels in supported webmail, flags tracking links, and shows activity in a dashboard.
+  * Website: [mailshade.org](https://mailshade.org/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/opdjbaphkkfkngiaafcdaommanebfamn)
 * **Noctis** - Routes browser traffic through your own proxy server over VLESS Reality, VMess, Trojan, Shadowsocks, Hysteria2, TUIC or WireGuard, with per-host routing rules.
   * Website: [noctis.c0nn3ct.info](https://noctis.c0nn3ct.info/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nmhobajopepdpihahepaddpdifdcenpn)
