@@ -140,6 +140,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [pmds.info/products/optia](https://pmds.info/products/optia)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/optia/gnlidlpidaoalbbmekofjednjkhhmehn)
   * Source: [GitHub](https://github.com/PMDevSolutions/Optia)
+* **BenchFleet Phone Mirror** - Mirror and control an Android phone plugged in by USB in a Chrome tab, using WebUSB and scrcpy.
+  * Website: [benchfleet.com](https://benchfleet.com/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hcnjmijkfmhabebacoleiiaeooibaplc)
 
 ## Fun
 *Some awesome apps to pass time*
