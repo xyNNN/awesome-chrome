@@ -167,6 +167,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **EarDub** - Turns YouTube captions into a synced AI voice-over in your language, with 75 dubbing languages and bilingual subtitles.
   * Website: [eardub.com](https://www.eardub.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jmlcanhchdeaepjfgdefjmbfmlkfhpeh)
+* **Echo Translate** - AI translation extension for bilingual web pages, YouTube dual subtitles, and PDFs that saves looked-up words in context and highlights them when they reappear; free tier with optional Pro plan.
+  * Website: [echo-translate.com](https://echo-translate.com/en/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/echo-translate-ai-transla/gmchphfgipcofccdbnjccpooopioldll)
 * **Fenly** - AI translation extension: translate as you type, auto-translate chats on 8 platforms, and live YouTube subtitle translation in 100+ languages.
   * Website: [fenly.me](https://fenly.me)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/dagjoegkilhcnnamddaoneeabgmioghn)
