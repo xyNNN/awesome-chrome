@@ -363,6 +363,12 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nmmkncnnggchmnoinmpoockpdpboonkj)
 * **gTabs** - AI-powered tab organizer with smart groups that learn your habits, 8 LLM providers including local Ollama, one-click undo, scheduled re-org, and duplicate finder.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gtabs-ai-tab-organizer/hcpbchmdcjbgbmjihnenbfalepcdncnb)
+* **Home Page OS** - Replaces your new tab with your bookmarks, synced from the browser and laid out as a macOS-style desktop. Free, open source (CC0), no account.
+  * Website: [chengmarc.com](https://chengmarc.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mbfmccadkfdnhojahjehknphgmjkehkp)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/homepage-os/)
+  * Microsoft Edge Add-ons: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/apjbdkedomhbdmknfhcfiniipcjedibc)
+  * Source: [GitHub](https://github.com/chengmarc/chengmarc.github.io)
 * **Kliplet** - Clip web pages or selected text to Markdown files. Free plan with optional paid features.
   * Website: [kliplet.com](https://kliplet.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/kliplet/japclepfabgfnmfbekominhnfjghenlm)
