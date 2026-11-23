@@ -182,6 +182,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Lexpad** - Saves a selected word, or a word clicked in YouTube subtitles, to a spaced-repetition vocabulary notebook with its sentence as the example; free extension, optional paid Pro plan.
   * Website: [lexpad.app](https://lexpad.app/features/extension)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lexpad/cmadljhpbngcceagpjfladgjjjnegikk)
+* **Localix Grammar** - Open-source (MIT) proofreader that fixes spelling, grammar and punctuation in the editor you are typing in. Each fix shows as a tracked change, and you apply them all in one click. Runs on the OpenRouter model you pick, with your own OpenRouter account.
+  * Website: [grammar.localix.ai](https://grammar.localix.ai)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/localix-grammar/jjknmlcmaipahifkabacpoppicimkfcj)
 * **Manga Translator** - Translates comic-page images in Chrome, with batch processing, previews, reader mode, and image export.
   * Website: [mangatranslate.com](https://www.mangatranslate.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/manga-translator/lalcidikgkhicibmghdbbpdhpelpdbdn)
