@@ -364,6 +364,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Gmailytics** - See which senders fill your inbox, then batch trash or archive them and unsubscribe from newsletters.
   * Website: [gmailytics.com](https://gmailytics.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nmmkncnnggchmnoinmpoockpdpboonkj)
+* **gridtabs** - Turns your new tab into a dense grid of sites, with to-do, notes and weather cells beside them.
+  * Website: [gridtabs.com](https://gridtabs.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nhcidkofkagklopdgpffffienpjlmpjg)
 * **gTabs** - AI-powered tab organizer with smart groups that learn your habits, 8 LLM providers including local Ollama, one-click undo, scheduled re-org, and duplicate finder.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gtabs-ai-tab-organizer/hcpbchmdcjbgbmjihnenbfalepcdncnb)
 * **Home Page OS** - Replaces your new tab with your bookmarks, synced from the browser and laid out as a macOS-style desktop. Free, open source (CC0), no account.
