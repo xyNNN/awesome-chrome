@@ -188,6 +188,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Mirlo** - Learn a language while you browse — replaces words on pages with the language you're learning. On-device translation via Chrome's Translator API, no tracking.
   * Website: [github.com/BoxcarsAI/mirlo](https://github.com/BoxcarsAI/mirlo)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bolaihmnmcaedodmcempenkddbkolaih)
+* **Palingo** - Practise dictation on captioned, non-live YouTube videos in desktop Chrome: replay a sentence, type what you hear, and check it against the captions without signing in.
+  * Website: [palingo.pro](https://palingo.pro/en/features/youtube-dictation/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/palingo-bilingual-reading/ojedlbcfekibmhpdfpigmjhnpfjfdonh)
 * **Phrase Flip** - Replaces a customizable percentage of sentences on webpages with on-device translations in your target language; hover to reveal the original.
   * Website: [phraseflip.com](https://phraseflip.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/phrase-flip/clkfmkjdahoaicedhpmefjfehdgncadl)
