@@ -188,6 +188,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Mirlo** - Learn a language while you browse — replaces words on pages with the language you're learning. On-device translation via Chrome's Translator API, no tracking.
   * Website: [github.com/BoxcarsAI/mirlo](https://github.com/BoxcarsAI/mirlo)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bolaihmnmcaedodmcempenkddbkolaih)
+* **Palingo** - Practise dictation on captioned, non-live YouTube videos in desktop Chrome: replay a sentence, type what you hear, and check it against the captions without signing in.
+  * Website: [palingo.pro](https://palingo.pro/en/features/youtube-dictation/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/palingo-bilingual-reading/ojedlbcfekibmhpdfpigmjhnpfjfdonh)
 * **Phrase Flip** - Replaces a customizable percentage of sentences on webpages with on-device translations in your target language; hover to reveal the original.
   * Website: [phraseflip.com](https://phraseflip.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/phrase-flip/clkfmkjdahoaicedhpmefjfehdgncadl)
@@ -361,6 +364,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Gmailytics** - See which senders fill your inbox, then batch trash or archive them and unsubscribe from newsletters.
   * Website: [gmailytics.com](https://gmailytics.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nmmkncnnggchmnoinmpoockpdpboonkj)
+* **gridtabs** - Turns your new tab into a dense grid of sites, with to-do, notes and weather cells beside them.
+  * Website: [gridtabs.com](https://gridtabs.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nhcidkofkagklopdgpffffienpjlmpjg)
 * **gTabs** - AI-powered tab organizer with smart groups that learn your habits, 8 LLM providers including local Ollama, one-click undo, scheduled re-org, and duplicate finder.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gtabs-ai-tab-organizer/hcpbchmdcjbgbmjihnenbfalepcdncnb)
 * **Home Page OS** - Replaces your new tab with your bookmarks, synced from the browser and laid out as a macOS-style desktop. Free, open source (CC0), no account.
@@ -577,6 +583,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd)
 * **YTMusic Layout Reorg** - Reorganizes the YouTube Music web interface by moving Up Next to the left sidebar, keeping Lyrics in the right panel, and placing navigation in the top bar.
   * Website: [github.com/fabianimv/ytmusic-layout-reorg](https://github.com/fabianimv/ytmusic-layout-reorg)
+* **Stashkin** - Export ChatGPT conversations to editable Word (.docx), PDF, Markdown, plain text, PNG, and JSON with tables, LaTeX equations, and images intact.
+  * Website: [stashkin.com](https://stashkin.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jcbnnecajhiedbpeiejbkjiinakpeinh)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
