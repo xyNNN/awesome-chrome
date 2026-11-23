@@ -694,6 +694,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Source: [GitHub](https://github.com/anondotli/extension)
 * **Vouch** - Sign and verify Hacker News comments.
   * Website: [vouch.rodneygainous.com](https://vouch.rodneygainous.com)
+* **UnfollowX Pro** - Free Chrome extension that finds who doesn't follow you back on Twitter / X and bulk unfollows the accounts you choose at a human pace, with a whitelist.
+  * Website: [unfollowx.com](https://www.unfollowx.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/igpjmagghnibmjkkdcgpjgpkfkpiglnl)
 
 
 ## Sports
