@@ -90,6 +90,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hjjchbgenhmnndipngamcilolaahgngc)
 * **Browy** - Open-source AI agent that lives in the side panel and DevTools and drives real browser tabs through chat. Includes a DevTools CLI for power users.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/iondecjdokngnlkfpipgolgkfegpmjca)
+* **Chat Export** - Chrome MV3 extension for local export of ChatGPT, Claude, Grok, and Copilot chats; pairs with a local MCP server for agent list, export, create, and ask on logged-in sessions.
+  * Website: [github.com/svergio/chat-export-extension](https://github.com/svergio/chat-export-extension)
 * **React Debugger** - Chrome DevTools panel unifying React Timeline, Performance, Memory, Side Effects, Redux, CLS, and AI-powered analysis into a single tab.
   * Website: [github.com/hoainho/react-debugger-extension](https://github.com/hoainho/react-debugger-extension)
 * **Agent Browser Shield** - Sits between an AI agent and web pages, masking PII/credentials, blocking prompt injection, and stripping dark patterns before the page reaches the model.
@@ -131,6 +133,16 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Python Runner** - Runs Python scripts in a tab: the interpreter lives inside the extension, so it works offline with no server, no account and nothing uploaded. numpy and pandas are built in; requests and other pip packages are not available.
   * Website: [pinwisp.com/python-runner](https://pinwisp.com/python-runner/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lioibcedpohmlcepmignijeddplkejpo)
+* **CurlyJSON** - Opens JSON responses as a searchable tree, keeps 64-bit IDs exact, copies value paths and flags API keys before you share. No tracking.
+  * Website: [curlyjson.com](https://curlyjson.com/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cdmifjhednliaikgklceaoifkpcjdonj)
+* **Optia** - Scores a page's on-page SEO from 0 to 100 for a target keyword and lists fixes by priority, with optional AI suggestions for titles, meta descriptions and alt text. Free, with a paid Pro tier.
+  * Website: [pmds.info/products/optia](https://pmds.info/products/optia)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/optia/gnlidlpidaoalbbmekofjednjkhhmehn)
+  * Source: [GitHub](https://github.com/PMDevSolutions/Optia)
+* **BenchFleet Phone Mirror** - Mirror and control an Android phone plugged in by USB in a Chrome tab, using WebUSB and scrcpy.
+  * Website: [benchfleet.com](https://benchfleet.com/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hcnjmijkfmhabebacoleiiaeooibaplc)
 
 ## Fun
 *Some awesome apps to pass time*
@@ -140,6 +152,12 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bnomihfieiccainjcjblhegjgglakjdd)
 * **Stockfish Continue to Play** - When a Chess.com game ends, keep playing the position against Stockfish on the same board.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jhjcnpomgjakflfjjhlgilgpffmfbcbk)
+* **Pixel Art Color by Number** - Relaxing color-by-number with hundreds of free pixel art pictures. No ads, no sign-up, works offline.
+  * Website: [simplepixelart.com](https://simplepixelart.com/color-by-number)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hellpcacohmobfpileciocbpbojljpec)
+* **TransposeAny** - Learn songs from YouTube and Spotify with live chords, key change, slow down, beat-aligned A-B loop and EQ.
+  * Website: [transposeany.com](https://www.transposeany.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/kflcnmmlinpcnfklgmblgkhddfhkjmba)
 
 ## Language & Translation
 *Learn languages and translate content while browsing*
@@ -152,6 +170,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **EarDub** - Turns YouTube captions into a synced AI voice-over in your language, with 75 dubbing languages and bilingual subtitles.
   * Website: [eardub.com](https://www.eardub.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jmlcanhchdeaepjfgdefjmbfmlkfhpeh)
+* **Echo Translate** - AI translation extension for bilingual web pages, YouTube dual subtitles, and PDFs that saves looked-up words in context and highlights them when they reappear; free tier with optional Pro plan.
+  * Website: [echo-translate.com](https://echo-translate.com/en/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/echo-translate-ai-transla/gmchphfgipcofccdbnjccpooopioldll)
 * **Fenly** - AI translation extension: translate as you type, auto-translate chats on 8 platforms, and live YouTube subtitle translation in 100+ languages.
   * Website: [fenly.me](https://fenly.me)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/dagjoegkilhcnnamddaoneeabgmioghn)
@@ -167,12 +188,18 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Mirlo** - Learn a language while you browse — replaces words on pages with the language you're learning. On-device translation via Chrome's Translator API, no tracking.
   * Website: [github.com/BoxcarsAI/mirlo](https://github.com/BoxcarsAI/mirlo)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bolaihmnmcaedodmcempenkddbkolaih)
+* **Phrase Flip** - Replaces a customizable percentage of sentences on webpages with on-device translations in your target language; hover to reveal the original.
+  * Website: [phraseflip.com](https://phraseflip.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/phrase-flip/clkfmkjdahoaicedhpmefjfehdgncadl)
 * **Read Frog** - Open-source AI-powered language learning with bilingual translation, article analysis, and vocabulary tools. Supports 80+ languages.
   * Website: [readfrog.app](https://readfrog.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/modkelfkcfjpgbfmnbnllalkiogfofhb)
 * **Rolko** - Look up Chinese words on webpages and supported video subtitles; paid plans enable saving new words for spaced-repetition review.
   * Website: [rolko.xyz](https://rolko.xyz)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cjhnmkfdcdbhgfihggeholgjjhgmenbn)
+* **RuneManga** - Translates manga, manhwa and webtoon pages on the sites you read, erasing the original text and lettering the translation into the speech bubbles. 93 target languages, free daily credits with paid plans.
+  * Website: [runemanga.com](https://runemanga.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/runemanga/cmclohfalopabbnmeoocelikbibbpppn)
 * **SayItVid** - Look up English words in authentic video clips with synchronized subtitles, IPA phonetic transcriptions, and syllable stress.
   * Website: [sayitvid.com](https://sayitvid.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hpclflniaodahnfkpbplebjakiedjlll)
@@ -184,9 +211,15 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Trippi** - Open-source (MIT) reference build overlaying live translated captions on Google Meet, Zoom and Microsoft Teams. Captures the tab's own audio (no bot joins the call) via MV3 tabCapture and an offscreen AudioWorklet, then pipes it through Deepgram (speech-to-text) and DeepL (translation). No backend, no account — bring your own API keys.
   * Website: [gettrippi.app](https://gettrippi.app/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/eaheoieoelghhmebennamldmjmmfppjk)
+* **Twinline** - Shows Chinese translations below existing YouTube subtitles and translates web pages paragraph by paragraph, with an on-device option in Chrome.
+  * Website: [hidaydream.cloud](https://hidaydream.cloud/twinline/en/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/twinline/dnpdkhjoephecffekgldnaooolnffeih)
 * **WatchTranslate** - Shows original and translated subtitles together on YouTube, X and Bilibili videos, and generates them from speech when a video has no captions.
   * Website: [watchtranslate.com](https://watchtranslate.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/watchtranslate/hemeledljbicanlpncljagnllpojjjdo)
+* **WordLinea** - Dual subtitles on YouTube, Netflix and other video sites; a word you look up in them is saved with its line and the exact second, then comes back as a review question.
+  * Website: [wordlinea.com](https://wordlinea.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/madndjlafpnkafpncinepeabdeokcpfd)
 * **yunit** - A browser extension that picks unfamiliar words on web pages, shows translations inline as you read, and keeps the words you mark into a personal lexicon.
   * Website: [yunit.app](https://yunit.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cepakncakkannhhpkihijledpkinnbef)
@@ -211,10 +244,25 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **isGenAI** - Right-click any web image to read its Content Credentials (C2PA), AI labels and saved generation prompts in a side panel. Free, no account.
   * Website: [isgenai.com](https://isgenai.com/browser-extension)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pgcnmndbnkkgifmopgnefnlebklnfbbb)
+* **PixLasso** - Saves every image on a page, or across open tabs, at the largest size it can find, in one ZIP. Can convert to JPG, PNG or WebP locally. Free up to 30 files per batch.
+  * Website: [pixlasso.com](https://pixlasso.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/plmojdihjlobobaddaacoojdkikdkppb)
+* **Origrab** - Bulk image downloader: saves every image on a page as a single ZIP, using the full-size originals instead of thumbnails.
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/origrab-bulk-image-downlo/bmafbkjjmmcmckabcibobnicmfafpmmg)
+* **Wiro AI** - Right-click any image to edit, upscale or animate it with the AI model you pick, in a side panel that shows the price first. Also works on video, audio clips and selected text.
+  * Website: [wiro.ai](https://wiro.ai/browser-extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cehkhdmppbnfeahegjjkdhangjelehab)
+  * Source: [GitHub](https://github.com/wiroai/Wiro-Chromium-Extension)
+* **AntShot** - Full-page screenshots, including tables and lists that scroll inside a page, saved as PNG, JPG or PDF on your device.
+  * Website: [antshot.com](https://antshot.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/goeepifppifejnjicphhhhjdcpkdombj)
 
 ## Privacy & Networking
 *Extensions that decide how your browser reaches the network*
 
+* **Mailshade** - Blocks known email tracking pixels in supported webmail, flags tracking links, and shows activity in a dashboard.
+  * Website: [mailshade.org](https://mailshade.org/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/opdjbaphkkfkngiaafcdaommanebfamn)
 * **Noctis** - Routes browser traffic through your own proxy server over VLESS Reality, VMess, Trojan, Shadowsocks, Hysteria2, TUIC or WireGuard, with per-host routing rules.
   * Website: [noctis.c0nn3ct.info](https://noctis.c0nn3ct.info/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nmhobajopepdpihahepaddpdifdcenpn)
@@ -230,6 +278,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Productivity
 *Apps to improve your productivity during your day*
 
+* **KaijuConverter** - Fast universal media and file converter extension supporting PDF, documents, audio, video, and images directly from Chrome.
+  * Website: [kaijuconverter.com](https://kaijuconverter.com)
+  * Source: [GitHub](https://github.com/PabloCirre/kaijuconverter-extension)
 * **Open Stay Focused** - Shares daily time budgets across distracting websites with live countdowns, focus sessions, and local-only usage statistics.
   * Website: [github.com/xingwudao/open-stay-focused](https://github.com/xingwudao/open-stay-focused)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/open-stay-focused/pmfcncldogcmehkdmoekagmlgcjcgpem)
@@ -252,6 +303,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Chat Organizer** - Auto-sorts your Claude.ai and ChatGPT chats into projects in one click, using keyword matching and AI. Free, no API key or account needed.
   * Website: [chat-organizer.com](https://chat-organizer.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bipbaacophbcpboieghjoigjlbemchcm)
+* **ChatOutline Pro** - Floating table of contents, 1-click Markdown exporter, and Code Hub for ChatGPT, Claude, Gemini, and DeepSeek.
+  * Website: [samlu574.github.io/chatoutline-pro](https://samlu574.github.io/chatoutline-pro/)
+  * Microsoft Edge Add-ons: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/mmnmfeljpmjdpmpbelhnebldimmoaokb)
+  * Source: [GitHub](https://github.com/SamLu574/chatoutline-pro)
 * **CiteMe** - Academic citation generator. Searches 10+ databases and formats references in 60 curated citation styles (APA, ABNT, MLA, Chicago). Includes a reference checker for existing bibliographies. Available as a web app and Chrome extension.
   * Website: [citeme.app](https://citeme.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/dgengdhgpegcpljnmkeehlmfabmljfhp)
@@ -261,6 +316,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Coda One** - AI detector, humanizer, rewriter and grammar checker for your writing in Chrome.
   * Website: [codaone.ai](https://www.codaone.ai/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/codaone-ai-writing-assist/ieomknnokmlomhmpkkpdjibkmjpfodpp)
+* **Compass Apply** - Fills job applications from your Compass OS profile, attaches your tailored resume and drafts open answers for you to review; it never submits.
+  * Website: [compass-os.dev](https://compass-os.dev/extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/compass-apply/lmbfdipbbnedcecbcgodhjechoangkng)
 * **Curfew** - Daily time budgets for the sites you choose, enforced at the network level, with a solved puzzle instead of a one-click off switch.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/obnikdokealeimpbhfbjhpdmfcgbgcje)
 * **Daily** - Replaces your new tab with curated latest dev articles.
@@ -292,6 +350,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Ghostery** - Protect your privacy by seeing who's tracking your web browsing with Ghostery.
   * Website: [ghostery.com](https://www.ghostery.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mlomiejdfkolichcflejclcbmpeaniij)
+* **Glasp** - Web highlighter that saves highlights from web pages, PDFs and YouTube, with export to Notion, Obsidian and Zotero.
+  * Website: [glasp.co](https://glasp.co)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/blillmbchncajnhkjfdnincfndboieik)
 * **GradeSim** - UPLB grade calculator and GWA simulator for Chrome and Firefox; forecast course grades and Latin honors targets.
   * Website: [gradesim.uplbtools.me](https://gradesim.uplbtools.me/)
   * Source: [github.com/uplbtools/gradesim](https://github.com/uplbtools/gradesim)
@@ -302,6 +363,15 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nmmkncnnggchmnoinmpoockpdpboonkj)
 * **gTabs** - AI-powered tab organizer with smart groups that learn your habits, 8 LLM providers including local Ollama, one-click undo, scheduled re-org, and duplicate finder.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gtabs-ai-tab-organizer/hcpbchmdcjbgbmjihnenbfalepcdncnb)
+* **Home Page OS** - Replaces your new tab with your bookmarks, synced from the browser and laid out as a macOS-style desktop. Free, open source (CC0), no account.
+  * Website: [chengmarc.com](https://chengmarc.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mbfmccadkfdnhojahjehknphgmjkehkp)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/homepage-os/)
+  * Microsoft Edge Add-ons: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/apjbdkedomhbdmknfhcfiniipcjedibc)
+  * Source: [GitHub](https://github.com/chengmarc/chengmarc.github.io)
+* **Kliplet** - Clip web pages or selected text to Markdown files. Free plan with optional paid features.
+  * Website: [kliplet.com](https://kliplet.com/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/kliplet/japclepfabgfnmfbekominhnfjghenlm)
 * **LastPass** - Saves your passwords and gives you secure access from every computer and mobile device
   * Website: [lastpass.com](https://www.lastpass.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hdokiejnpimakedhajhdlcegeplioahd)
@@ -330,6 +400,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Not for You** - Removes the algorithm from every major social media platform. Turns off the recommendation feeds on YouTube, Instagram, TikTok, X, Reddit, LinkedIn, Threads and Facebook, so the platforms stop deciding what you see.
   * Website: [notforyou.app](https://notforyou.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pakdneaipkfgaahgbafblmdebfoadjca)
+* **OffLadder CV** - Side panel that checks a job post against your CV, tailors your CV and cover letter to it, fills the application form for you to review and submit, and keeps track of each job.
+  * Website: [offladder.com](https://offladder.com/cv)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gldilkfnnfkjohfianhhiekbllomfpmk)
 * **Offline Spell Check for Web Pages** - Finds misspelled words on any page, fully offline, with no access to your browsing data.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/degpnnjbkannnfpcdlppeiheiheoglen)
 * **OneNote Web Clipper** - Save anything on the web to OneNote. Clip it to OneNote, organize and edit it, then access it from any device.
@@ -355,6 +428,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/oecbfdgpeigoogoehhkffgpnmiepeefe)
 * **QC Smart Reader** - Captures web pages, PDFs, and public YouTube captions into a local evidence graph with exact-quote claim review.
   * Website: [github.com/vyang472/qc-smart-reader-extension](https://github.com/vyang472/qc-smart-reader-extension)
+* **QRdx** - Shows a styled QR code for the current tab, a link, an image or selected text, with PNG and SVG downloads.
+  * Website: [qrdx.dev](https://qrdx.dev)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bpepiomjdoicpmbihlohodghdglkhicc)
+  * Source: [github.com/bucharitesh/qrdx](https://github.com/bucharitesh/qrdx/tree/main/plugins/chrome)
 * **Reddit Enhancement Suite** - A suite of modules that enhance your Reddit browsing experience.
   * Website: [redditenhancementsuite.com](https://redditenhancementsuite.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/kbmfpngjjgdllneeigpgjifpgocmfgmb)
@@ -392,6 +469,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **SuperchargeNavigation** - Workspace-based tab organizer with an Alt+K command bar, Shift+Click peek tabs, and opt-in cross-device sync via chrome.storage.sync. MV3.
   * Website: [superchargebrowser.com](https://superchargebrowser.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mpkbppjbchjdohbjgeoamdehklmapgnl)
+* **SupWriter** - Humanize, paraphrase and grammar-check text on any page, with a per-sentence AI score, in 50+ languages.
+  * Website: [supwriter.com](https://supwriter.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nheagnfbfogjlnelhbliickieocnheai)
 * **Tab Suspender** - Suspends inactive tabs to free memory. Skips the active tab, pinned tabs, tabs playing audio and tabs with unsaved form input. MV3, MIT, no network requests.
   * Website: [github.com/theluckystrike/tab-suspender-chrome-extension](https://github.com/theluckystrike/tab-suspender-chrome-extension)
 * **TabBunker** - Tab manager that saves the tabs you pick on your device and writes a JSON backup file to Downloads that stays after uninstalling. No account, MIT.
@@ -411,6 +491,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Tabs Outliner** - Session manager.
   * Website: [tabsoutliner.com](https://tabsoutliner.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/eggkanocgddhmamlbiijnphhppkpkmkl)
+* **Tabwell** - Save and restore Chrome windows with their tab groups using local snapshot storage. Free plan with optional Pro features.
+  * Website: [tabwell.org](https://tabwell.org/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/tabwell/ckkifiiepifeihfoblhhjmbigjcjpfdk)
 * **Tampermonkey** - The world's most popular userscript manager.
   * Website: [tampermonkey.net](https://www.tampermonkey.net/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
@@ -434,8 +517,15 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Waka Time** - Track your time on chrome automatically.
   * Website: [wakatime.com](https://www.wakatime.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jnbbnacmeggbgdjgaoojpmhdlkkpblgi)
+* **Watch YouTube Highlights** - Plays AI-selected passages from captioned YouTube videos in the original player, with timestamps and full-video context. Freemium with one shared successful AI request per UTC day per stored browser account.
+  * Website: [funcove.dev/watchhighlights](https://funcove.dev/watchhighlights/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/watch-youtube-highlights/gjgafcgbbiofiggblecfihaklidijjdf)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/watchhighlights-for-youtube/)
 * **Word Counter Plus** - A simple and accurate word counter.
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/word-counter-plus/ockonfdfcanonnajjchhapbiahlhjeej)
+* **Yellow Tomato** - Pomodoro timer that blocks the sites you pick during focus sessions, with tasks, focus sounds, streaks and stats. Free, no account.
+  * Website: [yellowtomato.app](https://yellowtomato.app)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/yellow-tomato-%E2%80%94-pomodoro/oeadnackbbpmhlefkdcpeknplmcbhnbj)
 * **ZenHub** - Project management inside GitHub.
   * Website: [zenhub.com](https://www.zenhub.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ogcgkffhplmphkaahpmffcafajaocjbd)
@@ -446,6 +536,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Agentic Workflow (AWFlow)** - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
   * Website: [awflow.io](https://awflow.io)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/linlkeaipfpnhddjkpcbmldionajfifa)
+* **Pexi** - AI browser agent for research and tasks across shared Chrome tabs. Requires a card-backed trial and your own AI API key.
+  * Website: [pexibot.com](https://pexibot.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hmilmocmhfcnkaodecjpknjgfeegepoo)
 * **Good Friction for LinkedIn** - Returns the moment of choice to the LinkedIn feed — a session timer and pagination break ask if you want to keep going; a nudge, not a blocker.
   * Website: [zenist.org/goodfriction](https://www.zenist.org/goodfriction/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pdfjkpikhloefplbcbmcaloiaiohgjfp)
@@ -458,6 +551,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Table Export** - Export HTML tables on any page to CSV, TSV or the clipboard for Google Sheets and Excel, with merged cells kept in place; optional paid Pro adds XLSX.
   * Website: [infora.pages.dev](https://infora.pages.dev)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/femgkomaciokgbiblinficgmceplpmmd)
+* **Table to Excel** - Export any HTML table to a clean Excel or CSV file, keeping real numbers and dates; runs locally, optional one-time Pro.
+  * Website: [ludovez93.github.io/bottone-esporta](https://ludovez93.github.io/bottone-esporta/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/heiihlboddffjcbfmcfokgilkoecloph)
 * **SheetSpeed** - Excel-style keyboard shortcuts and trace precedents for Google Sheets, plus PowerPoint-style shortcuts for Google Slides.
   * Website: [sheetspeed.agi-jarvis.com](https://sheetspeed.agi-jarvis.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ljlmgielacploapelnjhodicgbjipcaa)
@@ -470,6 +566,17 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **NeverApply Autofill** - Fills job application forms from your resume, free and without an account, and lets you review before it submits.
   * Website: [neverapply.co](https://neverapply.co)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/faocjhdgmjneijamjenhojhmnclhdhba)
+* **Mail2Action** - Summarizes long Gmail and Outlook Web email threads, pulls out action items with owners and due dates, and shows the thread as an indented reply tree.
+  * Website: [mail2action.com](https://mail2action.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mail2action-email-thread/laifdijpofgdieidbakcckadcpeiajae)
+* **KeepFinding** - Save the page you are on to your KeepFinding read-later library, then find it again by search or suggestion; import a Pocket or Raindrop export on the site.
+  * Website: [keepfind.ing](https://keepfind.ing)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ppncapceplimbjlofojdebbfdnejckib)
+* **YouTube Transcript: AI Summary & Chat** - Shows a YouTube video as a timestamped transcript, with key points and chat about the video. Free AI credits available.
+  * Website: [getyoutubetranscript.com](https://getyoutubetranscript.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd)
+* **YTMusic Layout Reorg** - Reorganizes the YouTube Music web interface by moving Up Next to the left sidebar, keeping Lyrics in the right panel, and placing navigation in the top bar.
+  * Website: [github.com/fabianimv/ytmusic-layout-reorg](https://github.com/fabianimv/ytmusic-layout-reorg)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
@@ -484,6 +591,13 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Keyword Lantern** - Highlights words from your own keyword lists in custom colors, with per-word counts and next/previous jumps. Runs only on click, no account, no network requests.
   * Website: [askomni.app/keyword-lantern](https://askomni.app/keyword-lantern)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/biajdjnbnnnjmbfnloooijkhiieblkff)
+
+* **Canlah GEO — AI Answer Monitor** - Asks ChatGPT and Google AI Overviews the questions your buyers type, then shows whether the answer names you, who it names instead, and which sources it cites. Early access.
+  * Website: [canlah.ai/extension](https://canlah.ai/extension/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nlnjojaopgdmonojgkhnmjaeeopkpmco)
+* **GSC Vault** - Find unindexed pages and keep Search Console data forever.
+  * Website: [gscvault.app](https://gscvault.app)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gsc-vault-%E2%80%93-google-indexi/hjakhbgnfhibcoglhfdcmfjeebakfkhn)
 
 ## Shopping
 *Online shopping can be an addiction*
@@ -509,10 +623,16 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Scento** - Shows the Scento sample price, rating and leading notes of the perfume you are reading about, plus search across 1,200+ scents. Free.
   * Website: [scento.com](https://www.scento.com/chrome-extension)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nbajdejaaibikkkogefhkopbogchgjlh)
+* **ShrinkWatch EU** - Shows the price per kg or litre on European supermarket web shops and warns when a pack got smaller for the same price. Local-only, no account.
+  * Website: [github.com/emirmrkaljevic/shrinkwatch-eu](https://github.com/emirmrkaljevic/shrinkwatch-eu)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/shrinkwatch-eu/)
 
 ## Social & Communication
 *Facebook, Twitter, Google+, Pinterest and so on..*
 
+* **Muffle** - Turn off the X (Twitter) feed and keep posting, replies and DMs. Free, with a $19/year licence for filters, unfollowers and bookmark search.
+  * Website: [usemuffle.com](https://usemuffle.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/egkgmobnbepjpidiachiaboijmpmgmkl)
 * **snipandshare** - Tweet the best bits of the web using our Chrome extension.
   * Website: [snipandshare.com](http://www.snipandshare.com)
 * **Privacy Badger** - Protects you from trackers as you surf the web.
@@ -524,6 +644,11 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **LinkedCraft** - Helps job seekers craft context-aware, engaging LinkedIn comments.
   * Website: [linkedcraft.io](https://linkedcraft.io)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/egaighlipohpcgaohlpemepnfeefhfpa)
+* **LinkedIn Company Filter** - Hide LinkedIn feed posts, job listings, and people suggestions from specific companies, with a connections cleanup helper. Open-source Manifest V3 extension (MIT).
+  * Website: [github.com/fabianimv/linkedin-company-filter](https://github.com/fabianimv/linkedin-company-filter)
+* **Riffwise** - Drafts replies for X, Threads, Bluesky, and Gmail; you review before inserting or copying.
+  * Website: [riffwise.app](https://riffwise.app/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/riffwise-%E2%80%94-ai-reply-gener/nmnmflphiibhdnnbghffjhclhlehelle)
 * **ClearTok** - Helps TikTok users remove old reposts faster with a scan, review, and cleanup workflow.
   * Website: [cleartok.io](https://cleartok.io/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/kmellgkfemijicfcpndnndiebmkdginb)
@@ -559,9 +684,19 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **iFollowTracker for Instagram** - Side panel beside Instagram profiles with public follower, following and story insights; no Instagram password needed.
   * Website: [ifollowtracker.com](https://www.ifollowtracker.com/extension)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ifollowtracker-for-instag/ijhkhodnjfdogpidfpamkmghhfkfopgh)
+* **GlowCam** - Natural-looking AI beauty filter for browser video calls on Google Meet, Zoom, Teams, Webex, Whereby and Discord, processed on your device.
+  * Website: [imagera.ai/glowcam](https://imagera.ai/glowcam)
+  * Chrome Web Store: [GlowCam](https://chromewebstore.google.com/detail/imagera-ai-presents-glowc/jgelcjbncndabncbjglfdmeeiddnnnlm)
+* **anon.li** - Creates email aliases that forward to your inbox, manages end-to-end encrypted file drops and shares QR codes. Open source (AGPL-3.0).
+  * Website: [anon.li](https://anon.li/extension)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ieepggikhdopllhlbdndnlmoflhaeohp)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/anon-li/)
+  * Source: [GitHub](https://github.com/anondotli/extension)
+* **Vouch** - Sign and verify Hacker News comments.
+  * Website: [vouch.rodneygainous.com](https://vouch.rodneygainous.com)
 * **TalkAStranger Streamer Companion** - Real-time WebRTC broadcaster studio and side panel HUD for live chat, stream alerts, and creator community engagement.
   * Website: [talkastranger.com](https://talkastranger.com/developers)
-  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/aokphjocehbofbfkgcdpimiopbglajck)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/talkastranger-streamer-co/aokphjocehbofbfkgcdpimiopbglajck?authuser=0&hl=en)
   * Source: [GitHub](https://github.com/umairkhan2582/talkastranger-streamer-extension)
 
 
