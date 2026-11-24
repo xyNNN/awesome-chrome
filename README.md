@@ -388,6 +388,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **LinkUnzip** - Extracts a ZIP from a link straight into a folder without saving the ZIP. Windows only, with a small free helper app.
   * Website: [linkunzip.app](https://linkunzip.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/dapeiljhjlaelolngnoagobeojcpkica)
+* **Localix Grammar** - Open-source (MIT) proofreader that fixes spelling, grammar and punctuation in the editor you are typing in. Each fix shows as a tracked change, and you apply them all in one click. Runs on the OpenRouter model you pick, with your own OpenRouter account.
+  * Website: [grammar.localix.ai](https://grammar.localix.ai)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/localix-grammar/jjknmlcmaipahifkabacpoppicimkfcj)
 * **LucidRows** - Click one item in a list or table and it collects every matching row, even across pages, then exports to CSV, Excel (.xlsx) or JSON. Free, no code, no account, runs locally.
   * Website: [lucidrows.com](https://lucidrows.com/?utm_source=github&utm_medium=directory&utm_campaign=awesome-chrome)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lucidrows/leehomocpccgghcibfnapadclololioh?utm_source=github&utm_medium=directory&utm_campaign=awesome-chrome)
