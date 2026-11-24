@@ -706,6 +706,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **UnfollowX Pro** - Free Chrome extension that finds who doesn't follow you back on Twitter / X and bulk unfollows the accounts you choose at a human pace, with a whitelist.
   * Website: [unfollowx.com](https://www.unfollowx.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/igpjmagghnibmjkkdcgpjgpkfkpiglnl)
+* **Juncts** - One keyboard-first inbox for LinkedIn, X, Instagram, WhatsApp and Telegram messages, with labels across apps and reply drafts from Claude or ChatGPT. Paid, with a 14-day free trial.
+  * Website: [juncts.com](https://juncts.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cihcacmhpacbdipfllmiioogfeameoka)
 
 
 ## Sports
