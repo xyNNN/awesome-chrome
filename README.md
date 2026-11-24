@@ -613,6 +613,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **GSC Vault** - Find unindexed pages and keep Search Console data forever.
   * Website: [gscvault.app](https://gscvault.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gsc-vault-%E2%80%93-google-indexi/hjakhbgnfhibcoglhfdcmfjeebakfkhn)
+* **Sourcepick** - One-click site filters for Google, Bing, DuckDuckGo and Brave Search: search only the forums, Reddit, Q&A and review sites you choose.
+  * Website: [github.com/dooly6276/sourcepick](https://github.com/dooly6276/sourcepick)
 
 ## Shopping
 *Online shopping can be an addiction*
