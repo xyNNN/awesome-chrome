@@ -592,6 +592,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Stashkin** - Export ChatGPT conversations to editable Word (.docx), PDF, Markdown, plain text, PNG, and JSON with tables, LaTeX equations, and images intact.
   * Website: [stashkin.com](https://stashkin.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jcbnnecajhiedbpeiejbkjiinakpeinh)
+* **ClaudeKit** - Shows your Claude usage on claude.ai as a live circle with the exact session and weekly reset times, plus chat forks, pins and a prompt library.
+  * Website: [claudekit.app](https://claudekit.app/?utm_source=awesome-chrome&utm_medium=directory&utm_campaign=awesome-lists)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/claudekit/jjocmfbkgnmlokcnfcokalobkbneefbl)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
