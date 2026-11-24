@@ -296,6 +296,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **TypoGuard** - AI-powered real-time spell check correction and grammar assistant for Google Chrome.
   * Website: [typoguard.vip](https://typoguard.vip/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/khbenciagmckicfldgibdkmklidnmpck)
+* **A1** - Shows a grid of hand-picked website design inspiration from A1 in every new tab, with random, latest and popular views. No account needed.
+  * Website: [a1.gallery](https://www.a1.gallery)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/phfbefhdgaldaacfkkeeegodkckccioi)
 * **AI Label Filter for YouTube** - Dims YouTube videos labelled as made with AI, with an option to hide them.
   * Website: [github.com/Nova-47/ai-label-filter-for-youtube](https://github.com/Nova-47/ai-label-filter-for-youtube)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/bkobanajomgkmbcdkmmalfjdicidcajk)
