@@ -238,6 +238,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Full Page Screenshot & Screen Recorder** - Full-page screenshots and screen recording with annotation, webcam, and GIF/MP4 export. No watermark.
   * Website: [superchargebrowser.com](https://superchargebrowser.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/gebkchfkcnjdflkfdimabihllibgcdhp)
+* **Vertov** - Record a tab, window, screen, or camera and share the video with a link.
+  * Website: [vertov.app](https://vertov.app)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/vertov-screen-recorder/jdoejaekaomohdbefogghphmgadgepdm)
 * **Remix Camera** - Captures images, styling notes, and annotations from web pages for Remix Camera workflows.
   * Website: [remix.camera](https://remix.camera)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jnceajnhghkoienbgbljmadkklkikldf)
