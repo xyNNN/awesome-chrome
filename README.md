@@ -381,6 +381,11 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/homepage-os/)
   * Microsoft Edge Add-ons: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/apjbdkedomhbdmknfhcfiniipcjedibc)
   * Source: [GitHub](https://github.com/chengmarc/chengmarc.github.io)
+* **Kiri New Tab** - Opens every new tab on a focus timer: start a 25, 50 or 90-minute block and it keeps counting with the tab closed, with optional rain. Free, no account.
+  * Website: [project-kiri.com](https://project-kiri.com/?utm_source=awesome-chrome&utm_medium=list&utm_campaign=list)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cfjicopkdfeoeddgfcoidfodcffnbdld)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/kiri-newtab/)
+  * Microsoft Edge Add-ons: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/lhbimcmicclhphookemicekjmlgafjoj)
 * **Kliplet** - Clip web pages or selected text to Markdown files. Free plan with optional paid features.
   * Website: [kliplet.com](https://kliplet.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/kliplet/japclepfabgfnmfbekominhnfjghenlm)
