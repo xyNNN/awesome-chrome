@@ -723,6 +723,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Juncts** - One keyboard-first inbox for LinkedIn, X, Instagram, WhatsApp and Telegram messages, with labels across apps and reply drafts from Claude or ChatGPT. Paid, with a 14-day free trial.
   * Website: [juncts.com](https://juncts.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/cihcacmhpacbdipfllmiioogfeameoka)
+* **TRYIT** - Puts a ×N badge on each YouTube Short and Instagram Reel (its views ÷ the median views on that tab) so you can see which ones beat the channel's usual, plus stats cards for YouTube, TikTok and Instagram accounts. Free, with an optional Pro plan.
+  * Website: [inctryit.com](https://inctryit.com)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lgmifnamgblmgnlgipcbjhohndobiggg)
 
 
 ## Sports
