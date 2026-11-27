@@ -338,6 +338,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Decentraleyes** - Protects you against tracking through "free", centralized, content delivery.
   * Website: [decentraleyes.org](https://decentraleyes.org)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ldpochfccmkkmhdbclfhpagapcfdljkj)
+* **DemoCloak** - Blurs, redacts, or swaps emails, API keys, and revenue figures with realistic fake data during screen shares and recordings. Free core with an optional one-time Pro license, runs locally.
+  * Website: [apps.orzi.me/democloak](https://apps.orzi.me/democloak/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/fnofilcfohbfknkignfegmfajdfabdon)
+  * Microsoft Edge Add-ons: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/mnpcjfpkigbakdoloejhfifncohmmohg)
 * **DevPause** - Adds clean-copy, continue, and wide-screen buttons under ChatGPT, Claude and Gemini answers. Free, ad-supported.
   * Website: [devpause.vercel.app](https://devpause.vercel.app)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/midkjihlmjoicjlllefimoiibcanpfao)
