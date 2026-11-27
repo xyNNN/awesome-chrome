@@ -607,6 +607,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [github.com/nuncaeslupus/ai-chat-exporter](https://github.com/nuncaeslupus/ai-chat-exporter)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ai-chat-exporter/jnllafelflonllnhccgofcakopbpjahf)
   * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ai-chat-exporter-and-printer/)
+* **Table Grabber** - Copies any web table or list as CSV, Markdown, JSON or TSV in one click, handling colspan and rowspan; runs fully locally with no dependencies.
+  * Website: [quietstack-labs.github.io/chrome-table-grabber](https://quietstack-labs.github.io/chrome-table-grabber/)
+  * Source: [GitHub](https://github.com/quietstack-labs/chrome-table-grabber)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
