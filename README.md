@@ -603,6 +603,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **ClaudeKit** - Shows your Claude usage on claude.ai as a live circle with the exact session and weekly reset times, plus chat forks, pins and a prompt library.
   * Website: [claudekit.app](https://claudekit.app/?utm_source=awesome-chrome&utm_medium=directory&utm_campaign=awesome-lists)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/claudekit/jjocmfbkgnmlokcnfcokalobkbneefbl)
+* **AI Chats Exporter and Printer** - Exports or prints ChatGPT, Claude and Gemini conversations as Markdown, PDF, HTML, Word, plain text or JSON, keeping code, tables and math; runs locally with no backend.
+  * Website: [github.com/nuncaeslupus/ai-chat-exporter](https://github.com/nuncaeslupus/ai-chat-exporter)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ai-chat-exporter/jnllafelflonllnhccgofcakopbpjahf)
+  * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ai-chat-exporter-and-printer/)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
