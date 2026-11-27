@@ -143,6 +143,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **BenchFleet Phone Mirror** - Mirror and control an Android phone plugged in by USB in a Chrome tab, using WebUSB and scrcpy.
   * Website: [benchfleet.com](https://benchfleet.com/)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hcnjmijkfmhabebacoleiiaeooibaplc)
+* **SpecQuill** - Side-panel UI inspector that extracts OKLCH design tokens, checks WCAG 2.1 contrast, and exports clean Tailwind CSS v4 and React JSX. Free core with an optional one-time Pro license, runs locally.
+  * Website: [apps.orzi.me/specquill](https://apps.orzi.me/specquill/)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/dcdeigiddhadgjhecincfjlnffnebhdj)
+  * Microsoft Edge Add-ons: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/hldcmmkeggnbhejhjbjbapmpephjibdo)
 
 ## Fun
 *Some awesome apps to pass time*
