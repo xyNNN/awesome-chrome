@@ -142,6 +142,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Source: [GitHub](https://github.com/PMDevSolutions/Optia)
 * **BenchFleet Phone Mirror** - Mirror and control an Android phone plugged in by USB in a Chrome tab, using WebUSB and scrcpy.
   * Website: [benchfleet.com](https://benchfleet.com/)
+* **Superpixel** - Shows the marketing tags and account IDs on any website, plus the ads it runs in the Google, Meta, TikTok, LinkedIn, Microsoft and Snapchat ad libraries.
+  * Website: [superpixel.run](https://superpixel.run)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/superpixel/pffnggdhlpiegolckplpbfgbbigiiafh)
+  * Source: [GitHub](https://github.com/PiotrZapolski/superpixel)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hcnjmijkfmhabebacoleiiaeooibaplc)
 
 ## Fun
