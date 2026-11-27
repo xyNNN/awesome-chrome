@@ -737,6 +737,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lgmifnamgblmgnlgipcbjhohndobiggg)
 * **Reddit Lead Finder** - Finds Reddit posts from people stuck on the problem your product solves and drafts a reply you edit and post yourself, using Workers AI on your own Cloudflare account. Open source (MIT).
   * Website: [github.com/Balance0014/reddit-lead-finder](https://github.com/Balance0014/reddit-lead-finder)
+* **Watchbear** - Watch party extension for watching YouTube and other videos together in sync, with live chat and reactions in a side panel.
+  * Website: [watchbear.net](https://watchbear.net)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/watchbear-watch-together/ldegfikaldilbcpgmiopdnnhpkpcnepn)
 
 
 ## Sports
