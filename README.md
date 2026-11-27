@@ -731,6 +731,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **TRYIT** - Puts a ×N badge on each YouTube Short and Instagram Reel (its views ÷ the median views on that tab) so you can see which ones beat the channel's usual, plus stats cards for YouTube, TikTok and Instagram accounts. Free, with an optional Pro plan.
   * Website: [inctryit.com](https://inctryit.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lgmifnamgblmgnlgipcbjhohndobiggg)
+* **Reddit Lead Finder** - Finds Reddit posts from people stuck on the problem your product solves and drafts a reply you edit and post yourself, using Workers AI on your own Cloudflare account. Open source (MIT).
+  * Website: [github.com/Balance0014/reddit-lead-finder](https://github.com/Balance0014/reddit-lead-finder)
 
 
 ## Sports
