@@ -522,6 +522,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/hcobdfnjjaceclfdjpmmpiknimccjpmf)
 * **TinySnap** - Production-ready screenshots made simple for creators, developers and marketers.
   * Chrome Web Store: [Chrome Web Store](https://chrome.google.com/webstore/detail/tinysnap-production-ready/ijobkfpianooemebecnbaafnjndhbdcl?hl=en)
+* **Unsaid** - Shows what a YouTube video says and what it relies on: sources, unsourced claims and interests at stake.
+  * Website: [unsaid.click](https://unsaid.click/go/?utm_source=awesome_chrome&utm_campaign=annuaire)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pmflhgicnajckkbficlnlehhphbefkpn)
 * **Vidora** - Download HLS, DASH and AES-128 encrypted video streams. Everything is processed locally, nothing is uploaded to a server.
   * Website: [getvidora.com](https://getvidora.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/pjnnoldljndmfifpnfmbpbehklaaboje)
