@@ -262,6 +262,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **AntShot** - Full-page screenshots, including tables and lists that scroll inside a page, saved as PNG, JPG or PDF on your device.
   * Website: [antshot.com](https://antshot.com)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/goeepifppifejnjicphhhhjdcpkdombj)
+* **Angry Dance AI** - Turn web images or pet photos into short AI dance and hug videos from the right-click context menu.
+  * Website: [angrydance.com](https://angrydance.com)
+  * Source: [GitHub](https://github.com/siuserxiaowei/angrydance-chrome-extension)
 
 ## Privacy & Networking
 *Extensions that decide how your browser reaches the network*
