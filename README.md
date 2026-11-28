@@ -760,6 +760,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Extension Guardian** - Warns when an installed extension changes owner, gains new permissions, is removed from the Chrome Web Store, or was installed by another program. Rates each extension on access and risk; runs locally, no account.
   * Website: [github.com/laboskiriste/extension-guardian](https://github.com/laboskiriste/extension-guardian)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mpceklcidiadoneogfmpkjpadihmlcjd)
+* **Solana Rent & Rug Shield (v6.9 MV3)** - Non-custodial 12-Layer live pre-swap Solana rug and honeypot shield (with Layer 13 Behavioral & Creator DNA Engine coming soon), lowest Solana swap and rent fees, 0% free first wallet SOL rent claim, and in-house Turbo Swap Terminal.
+  * Website: [rentandrugshield.com](https://rentandrugshield.com/)
 
 ## Authors
 
