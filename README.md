@@ -766,6 +766,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Extension Guardian** - Warns when an installed extension changes owner, gains new permissions, is removed from the Chrome Web Store, or was installed by another program. Rates each extension on access and risk; runs locally, no account.
   * Website: [github.com/laboskiriste/extension-guardian](https://github.com/laboskiriste/extension-guardian)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/mpceklcidiadoneogfmpkjpadihmlcjd)
+* **Solana Rent & Rug Shield** - Inspects Solana token contracts before swaps for mint/freeze authority, liquidity, and honeypot risks, and scans wallets for reclaimable empty token account rent.
+  * Website: [rentandrugshield.com](https://rentandrugshield.com/)
 
 ## Authors
 
