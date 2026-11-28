@@ -740,6 +740,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/lgmifnamgblmgnlgipcbjhohndobiggg)
 * **Reddit Lead Finder** - Finds Reddit posts from people stuck on the problem your product solves and drafts a reply you edit and post yourself, using Workers AI on your own Cloudflare account. Open source (MIT).
   * Website: [github.com/Balance0014/reddit-lead-finder](https://github.com/Balance0014/reddit-lead-finder)
+* **STOP SLOP** - Tags likely AI-written posts on X, LinkedIn and Reddit by certainty and lets you review, mark, collapse or hide them as you scroll. Free.
+  * Website: [stopslop.tools](https://stopslop.tools)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/nhcffcobenbolefgdokapilaneemenbg)
 
 
 ## Sports
