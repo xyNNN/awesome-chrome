@@ -607,6 +607,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [github.com/nuncaeslupus/ai-chat-exporter](https://github.com/nuncaeslupus/ai-chat-exporter)
   * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/ai-chat-exporter/jnllafelflonllnhccgofcakopbpjahf)
   * Firefox Add-ons: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ai-chat-exporter-and-printer/)
+* **ThreadAttic** - Adds a local side drawer to ChatGPT and Claude with folders, pins, title search, saved prompts, and Markdown export; free for up to 20 folders with no account or cloud sync.
+  * Website: [lukaslabs.top/threadattic](https://lukaslabs.top/threadattic)
+  * Chrome Web Store: [Chrome Web Store](https://chromewebstore.google.com/detail/jbpchphgogfbdbdkdcclajmngjdapkab)
 
 ## Search Tools
 *You search for something? Looking here for your tools*
